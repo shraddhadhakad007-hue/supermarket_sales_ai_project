@@ -1,0 +1,1202 @@
+Invoice_ID,Date,Branch,City,Customer_Type,Gender,Product_Line,Unit_Price,Quantity,Tax_5pct,Total,COGS,Gross_Margin_pct,Gross_Income,Payment,Rating
+INV-00001,2026-01-07,B,Indore,Normal,Female,Fashion accessories,58.95,4.0,11.79,247.61,126.19,44.28,109.63,Ewallet,6.9
+INV-00002,2026-06-23,C,Jabalpur,Member,Male,Fashion accessories,55.91,2.0,5.59,117.4,86.34,21.7,25.47,Ewallet,8.3
+INV-00003,2026-03-01,A,Bhopal,Member,Female,Food and beverages,32.43,3.0,4.86,102.15,63.86,32.72,33.42,Credit card,7.7
+INV-00004,2026-04-18,C,Jabalpur,Normal,Male,Electronic accessories,30.85,4.0,6.17,129.57,78.8,34.42,44.6,Credit card,6.5
+INV-00005,2026-07-26,A,Bhopal,Normal,Male,Electronic accessories,46.19,3.0,6.93,145.49,93.94,30.67,44.62,Ewallet,7.8
+INV-00006,2026-07-15,A,Bhopal,Member,Female,Home and lifestyle,49.6,4.0,9.92,208.31,128.7,33.45,69.68,Ewallet,8.2
+INV-00007,2026-03-30,B,Indore,Normal,Female,Food and beverages,50.52,4.0,10.1,212.17,156.01,21.71,46.05,Credit card,5.7
+INV-00008,2026-08-25,B,Indore,Member,Male,Sports and travel,66.06,3.0,9.91,208.09,105.39,44.59,92.8,Credit card,8.1
+INV-00009,2026-08-09,B,Indore,Member,Female,Home and lifestyle,43.87,5.0,10.97,230.33,122.11,42.22,97.26,Ewallet,5.3
+INV-00010,2026-03-16,A,Bhopal,Member,Female,Health and beauty,56.15,4.0,11.23,235.83,123.56,42.85,101.04,Cash,8.1
+INV-00011,2026-08-02,B,Indore,Member,Male,Home and lifestyle,62.64,3.0,9.4,197.31,113.6,37.66,74.31,Ewallet,8.2
+INV-00012,2026-06-29,B,Indore,Member,Female,Fashion accessories,63.38,6.0,19.01,399.26,273.95,26.62,106.3,Cash,8.7
+INV-00013,2026-04-29,A,Bhopal,Normal,Female,Sports and travel,110.21,2.0,11.02,231.45,120.8,43.04,99.62,Cash,6.0
+INV-00014,2026-07-18,C,Jabalpur,Member,Female,Health and beauty,49.22,5.0,12.3,258.4,176.31,27.01,69.78,Credit card,6.8
+INV-00015,2026-01-17,B,Indore,Normal,Female,Electronic accessories,43.68,10.0,21.84,458.65,239.64,42.99,197.17,Cash,6.5
+INV-00016,2026-08-23,B,Indore,Normal,Female,Fashion accessories,46.51,3.0,6.98,146.51,91.09,33.07,48.45,Ewallet,5.4
+INV-00017,2026-05-24,A,Bhopal,Normal,Male,Food and beverages,19.18,4.0,3.84,80.58,50.26,32.87,26.48,Credit card,6.6
+INV-00018,2026-02-26,B,Indore,Normal,Female,Electronic accessories,41.8,6.0,12.54,263.32,132.81,44.8,117.97,Credit card,8.7
+INV-00019,2026-02-09,C,Jabalpur,Member,Male,Fashion accessories,52.84,2.0,5.28,110.97,79.91,23.22,25.77,Cash,9.9
+INV-00020,2026-06-02,B,Indore,Normal,Female,Sports and travel,54.95,6.0,16.49,346.21,233.89,27.68,95.84,Cash,6.6
+INV-00021,2026-08-15,A,Bhopal,Normal,Male,Food and beverages,58.64,5.0,14.66,307.86,166.68,41.1,126.52,Ewallet,5.5
+INV-00022,2026-04-27,B,Indore,Normal,Female,Health and beauty,49.4,2.0,4.94,103.73,64.52,33.03,34.27,Cash,6.5
+INV-00023,2026-06-10,A,Bhopal,Member,Female,Home and lifestyle,67.09,5.0,16.77,352.21,204.17,37.27,131.26,Ewallet,5.7
+INV-00024,2026-07-19,A,Bhopal,Member,Male,Food and beverages,34.01,6.0,10.2,214.24,153.69,23.5,50.34,Cash,7.7
+INV-00025,2026-04-03,A,Bhopal,Member,Female,Home and lifestyle,61.64,8.0,24.66,517.76,277.14,41.71,215.97,Ewallet,8.0
+INV-00026,2026-01-21,B,Indore,Normal,Female,Health and beauty,51.17,1.0,2.56,53.73,27.96,43.2,23.21,Credit card,
+INV-00027,2026-02-02,B,Indore,Normal,Female,Electronic accessories,57.45,5.0,14.36,301.6,173.67,37.66,113.57,Ewallet,5.7
+INV-00028,2026-04-19,C,Jabalpur,Member,Male,Electronic accessories,65.78,5.0,16.44,345.34,193.71,39.15,135.19,Cash,8.6
+INV-00029,2026-04-06,B,Indore,Normal,Female,Sports and travel,75.3,6.0,22.59,474.4,319.81,27.82,132.0,Ewallet,6.8
+INV-00030,2026-01-06,A,Bhopal,Member,Female,Food and beverages,24.01,5.0,6.0,126.04,91.39,22.73,28.65,Ewallet,7.7
+INV-00031,2026-01-16,C,Jabalpur,Member,Female,Electronic accessories,61.63,7.0,21.57,452.95,286.77,31.93,144.61,Credit card,7.0
+INV-00032,2026-03-02,A,Bhopal,Normal,Female,Home and lifestyle,60.42,5.0,15.11,317.23,197.82,32.88,104.3,Cash,7.5
+INV-00033,2026-08-14,C,Jabalpur,Normal,Female,Food and beverages,44.01,9.0,19.8,415.89,257.61,33.3,138.47,Credit card,7.7
+INV-00034,2026-02-18,C,Jabalpur,Member,Male,Health and beauty,55.99,6.0,16.8,352.75,225.21,31.39,110.75,Ewallet,8.4
+INV-00035,2026-08-10,B,Indore,Member,Female,Fashion accessories,51.45,4.0,10.29,216.07,109.0,44.79,96.78,Ewallet,6.5
+INV-00036,2026-07-24,C,Jabalpur,Member,Female,Health and beauty,41.39,4.0,8.28,173.85,112.91,30.29,52.66,Ewallet,8.4
+INV-00037,2026-04-19,B,Indore,Normal,Male,Electronic accessories,88.45,7.0,30.96,650.08,392.61,34.84,226.52,Ewallet,9.2
+INV-00038,2026-04-24,C,Jabalpur,Member,Female,Food and beverages,28.19,3.0,4.23,88.81,56.06,32.11,28.52,Cash,9.0
+INV-00039,2026-01-04,B,Indore,Member,Female,Health and beauty,61.24,7.0,21.43,450.08,262.57,36.9,166.08,Cash,8.6
+INV-00040,2026-08-10,B,Indore,Member,Female,Sports and travel,59.68,4.0,11.94,250.64,151.05,34.97,87.65,Ewallet,9.3
+INV-00041,2026-03-09,C,Jabalpur,Normal,Male,Sports and travel,85.85,3.0,12.88,270.44,175.84,30.22,81.72,Credit card,5.5
+INV-00042,2026-07-20,C,Jabalpur,Normal,Female,Food and beverages,55.28,3.0,8.29,174.15,113.95,29.81,51.91,Ewallet,7.1
+INV-00043,2026-01-15,A,Bhopal,Member,Male,Food and beverages,39.98,8.0,15.99,335.81,246.23,21.91,73.59,Ewallet,6.7
+INV-00044,2026-05-09,B,Indore,Member,Female,Food and beverages,32.19,3.0,4.83,101.4,70.67,25.55,25.9,Credit card,7.3
+INV-00045,2026-02-17,A,Bhopal,Member,Female,Health and beauty,39.29,7.0,13.75,288.77,196.68,27.13,78.34,Cash,6.7
+INV-00046,2026-05-26,C,Jabalpur,Member,Female,Electronic accessories,29.97,8.0,11.99,251.77,180.95,23.37,58.83,Cash,5.7
+INV-00047,2026-05-14,B,Indore,Normal,Female,Home and lifestyle,76.28,4.0,15.26,320.36,230.48,23.3,74.63,Cash,7.1
+INV-00048,2026-03-09,A,Bhopal,Member,Male,Sports and travel,59.21,7.0,20.72,435.16,287.97,29.06,126.46,Cash,6.4
+INV-00049,2026-08-28,C,Jabalpur,Member,Male,Health and beauty,58.79,4.0,11.76,246.92,155.88,32.11,79.28,Cash,7.9
+INV-00050,2026-01-26,B,Indore,Member,Male,Health and beauty,61.65,3.0,9.25,194.2,132.8,26.86,52.16,Ewallet,6.9
+INV-00051,2026-01-18,B,Indore,Normal,Male,Electronic accessories,43.49,3.0,6.52,136.99,95.72,25.36,34.75,Ewallet,7.4
+INV-00052,2026-06-30,C,Jabalpur,Member,Male,Home and lifestyle,51.41,4.0,10.28,215.9,150.38,25.59,55.24,Credit card,7.4
+INV-00053,2026-08-13,A,Bhopal,Normal,Female,Electronic accessories,45.7,4.0,9.14,191.94,138.14,23.27,44.67,Credit card,8.7
+INV-00054,2026-02-09,C,Jabalpur,Normal,Female,Home and lifestyle,57.73,1.0,2.89,60.62,37.06,34.11,20.68,Credit card,5.9
+INV-00055,2026-06-12,A,Bhopal,Normal,Male,Home and lifestyle,62.52,7.0,21.88,459.51,337.16,21.86,100.46,Credit card,6.1
+INV-00056,2026-01-24,C,Jabalpur,Normal,Male,Fashion accessories,55.14,,13.78,289.47,193.23,28.49,82.46,Ewallet,7.1
+INV-00057,2026-02-03,A,Bhopal,Normal,Female,Fashion accessories,82.14,4.0,16.43,345.01,252.05,22.18,76.52,Credit card,6.2
+INV-00058,2026-04-20,B,Indore,Member,Female,Food and beverages,37.45,4.0,7.49,157.28,91.65,36.96,58.14,Ewallet,8.2
+INV-00059,2026-08-20,C,Jabalpur,Member,Male,Electronic accessories,44.37,8.0,17.75,372.73,268.66,23.16,86.32,Cash,7.3
+INV-00060,2026-02-02,A,Bhopal,Normal,Male,Health and beauty,58.39,4.0,11.68,245.23,123.05,45.06,110.5,Credit card,8.8
+INV-00061,2026-08-09,C,Jabalpur,Normal,Female,Health and beauty,64.51,8.0,25.8,541.9,324.03,35.44,192.06,Cash,6.6
+INV-00062,2026-04-01,B,Indore,Normal,Female,Food and beverages,37.48,10.0,18.74,393.53,287.86,22.09,86.93,Credit card,7.0
+INV-00063,2026-02-11,A,Bhopal,Normal,Female,Electronic accessories,35.84,4.0,7.17,150.53,99.58,29.08,43.78,Ewallet,7.7
+INV-00064,2026-07-20,C,Jabalpur,Member,Male,Sports and travel,84.72,7.0,29.65,622.66,312.8,45.0,280.21,Ewallet,7.2
+INV-00065,2026-04-08,C,Jabalpur,Normal,Female,Health and beauty,57.04,4.0,11.41,239.55,139.43,37.03,88.71,Ewallet,8.7
+INV-00066,2026-03-31,C,Jabalpur,Member,Female,Home and lifestyle,33.77,7.0,11.82,248.19,175.91,24.36,60.46,Ewallet,8.8
+INV-00067,2026-03-26,A,Bhopal,Member,Male,Home and lifestyle,57.79,6.0,17.34,364.1,201.97,39.77,144.8,Ewallet,8.0
+INV-00068,2026-06-23,B,Indore,Normal,Female,Food and beverages,44.13,5.0,11.03,231.69,124.63,41.45,96.03,Ewallet,6.0
+INV-00069,2026-02-15,C,Jabalpur,Normal,Female,Food and beverages,31.58,2.0,3.16,66.31,34.82,42.73,28.33,Ewallet,6.2
+INV-00070,2026-07-06,B,Indore,Normal,Female,Home and lifestyle,37.92,4.0,7.58,159.28,110.41,25.92,41.28,Cash,6.9
+INV-00071,2026-03-07,B,Indore,Normal,Female,Health and beauty,38.2,4.0,7.64,160.46,111.5,25.75,41.32,Cash,7.3
+INV-00072,2026-06-25,C,Jabalpur,Member,Male,Fashion accessories,41.69,5.0,10.42,218.87,133.46,34.26,74.99,Cash,7.8
+INV-00073,2026-08-24,C,Jabalpur,Normal,Female,Home and lifestyle,69.92,5.0,17.48,367.08,230.2,32.53,119.39,Credit card,6.0
+INV-00074,2026-03-21,A,Bhopal,Normal,Male,Fashion accessories,40.65,2.0,4.07,85.37,49.09,37.74,32.22,Cash,6.1
+INV-00075,2026-02-02,A,Bhopal,Normal,Male,Electronic accessories,45.95,6.0,13.78,289.47,149.59,43.56,126.1,Cash,5.9
+INV-00076,2026-06-07,C,Jabalpur,Normal,Male,Food and beverages,72.24,4.0,14.45,303.41,177.54,36.72,111.42,Cash,8.3
+INV-00077,2026-03-15,A,Bhopal,Normal,Male,Electronic accessories,67.97,5.0,16.99,356.82,190.22,41.93,149.61,Cash,9.3
+INV-00078,2026-02-24,B,Indore,Normal,Female,Food and beverages,29.89,3.0,4.48,94.16,67.54,23.51,22.13,Cash,6.5
+INV-00079,2026-06-19,A,Bhopal,Normal,Female,Fashion accessories,52.68,4.0,10.54,221.25,162.69,21.71,48.03,Credit card,6.1
+INV-00080,2026-06-22,C,Jabalpur,Member,Female,Home and lifestyle,61.32,5.0,15.33,321.94,205.01,31.56,101.61,Ewallet,7.4
+INV-00081,2026-05-02,A,Bhopal,Member,Male,Food and beverages,52.06,4.0,10.41,218.66,121.41,39.71,86.83,Cash,6.2
+INV-00082,2026-02-19,B,Indore,Normal,Male,Fashion accessories,55.64,4.0,11.13,233.67,146.54,32.53,76.0,Cash,6.1
+INV-00083,2026-06-26,A,Bhopal,Member,Male,Health and beauty,45.92,2.0,4.59,96.43,71.4,21.2,20.44,Ewallet,6.6
+INV-00084,2026-06-28,C,Jabalpur,Normal,Female,Food and beverages,53.09,6.0,15.93,334.46,194.53,37.08,124.0,Cash,6.4
+INV-00085,2026-02-01,C,Jabalpur,Member,Male,Sports and travel,65.38,2.0,6.54,137.29,93.19,27.36,37.57,Cash,7.2
+INV-00086,2026-06-02,C,Jabalpur,Normal,Male,Home and lifestyle,74.35,4.0,14.87,312.27,167.35,41.65,130.05,Credit card,7.4
+INV-00087,2026-08-18,B,Indore,Normal,Male,Electronic accessories,62.61,7.0,21.91,460.17,280.62,34.26,157.64,Ewallet,8.3
+INV-00088,2026-06-13,A,Bhopal,Normal,Female,Home and lifestyle,72.72,7.0,25.45,534.51,280.18,42.82,228.87,Ewallet,6.1
+INV-00089,2026-03-15,A,Bhopal,Normal,Male,Electronic accessories,57.31,5.0,14.33,300.89,215.61,23.58,70.95,Ewallet,7.8
+INV-00090,2026-02-05,B,Indore,Member,Male,Electronic accessories,48.18,4.0,9.64,202.34,128.76,31.6,63.95,Credit card,7.6
+INV-00091,2026-01-17,C,Jabalpur,Normal,Male,Sports and travel,69.71,5.0,17.43,365.96,217.24,35.88,131.29,Cash,7.5
+INV-00092,2026-02-22,B,Indore,Normal,Female,Sports and travel,56.78,7.0,19.87,417.33,242.4,37.15,155.06,Credit card,7.5
+INV-00093,2026-04-08,C,Jabalpur,Member,Male,Sports and travel,38.1,6.0,11.43,240.02,119.94,45.27,108.65,Ewallet,8.8
+INV-00094,2026-08-17,B,Indore,Member,Male,Sports and travel,87.95,6.0,26.39,554.09,375.45,27.48,152.25,Ewallet,7.8
+INV-00095,2026-01-08,B,Indore,Normal,Male,Sports and travel,49.15,8.0,19.66,412.82,210.04,44.36,183.12,Credit card,7.0
+INV-00096,2026-08-24,C,Jabalpur,Member,Male,Electronic accessories,69.99,1.0,3.5,73.49,42.47,37.46,27.53,Cash,6.4
+INV-00097,2026-01-22,B,Indore,Normal,Female,Fashion accessories,63.93,6.0,19.18,402.77,244.59,34.51,139.0,Credit card,4.4
+INV-00098,2026-03-08,A,Bhopal,Normal,Female,Sports and travel,59.56,7.0,20.85,437.76,288.72,29.28,128.19,Cash,6.8
+INV-00099,2026-08-14,A,Bhopal,Normal,Male,Sports and travel,59.24,5.0,14.81,310.99,211.76,27.14,84.41,Ewallet,5.8
+INV-00100,2026-01-05,A,Bhopal,Member,Male,Fashion accessories,54.77,3.0,8.22,172.54,105.61,34.03,58.71,Ewallet,6.9
+INV-00101,2026-06-16,A,Bhopal,Member,Female,Health and beauty,180.0,10.0,11.41,239.53,127.83,41.87,100.29,Ewallet,7.2
+INV-00102,2026-02-09,A,Bhopal,Member,Male,Electronic accessories,175.0,10.0,17.72,372.06,198.65,41.85,155.7,Cash,6.8
+INV-00103,2026-02-25,B,Indore,Normal,Male,Sports and travel,76.1,2.0,7.61,159.81,88.29,39.99,63.91,Ewallet,8.6
+INV-00104,2026-07-11,B,Indore,Member,Female,Fashion accessories,53.38,4.0,10.68,224.21,124.54,39.69,88.99,Credit card,7.0
+INV-00105,2026-01-07,A,Bhopal,Normal,Male,Home and lifestyle,67.95,5.0,16.99,356.76,255.86,23.52,83.91,Credit card,7.6
+INV-00106,2026-06-01,A,Bhopal,Member,Female,Fashion accessories,56.57,6.0,16.97,356.36,228.57,31.1,110.82,Credit card,5.7
+INV-00107,2026-06-25,A,Bhopal,Member,Female,Food and beverages,49.59,7.0,17.36,364.48,258.88,24.21,88.24,Ewallet,5.5
+INV-00108,2026-04-05,B,Indore,Normal,Female,Health and beauty,61.61,3.0,9.24,194.06,109.02,39.06,75.8,Credit card,7.1
+INV-00109,2026-01-28,C,Jabalpur,Normal,Male,Sports and travel,93.17,5.0,23.29,489.16,263.05,41.46,202.82,Credit card,7.9
+INV-00110,2026-07-07,B,Indore,Normal,Male,Food and beverages,16.19,5.0,4.05,84.97,44.96,42.32,35.97,Cash,7.7
+INV-00111,2026-06-01,C,Jabalpur,Normal,Female,Home and lifestyle,80.69,5.0,20.17,423.61,264.22,32.86,139.22,Credit card,8.9
+INV-00112,2026-08-14,A,Bhopal,Member,Male,Sports and travel,58.13,4.0,11.63,244.14,142.41,36.91,90.1,Cash,7.3
+INV-00113,2026-03-28,B,Indore,Normal,Male,Health and beauty,34.34,7.0,12.02,252.38,141.38,39.22,98.98,Ewallet,8.3
+INV-00114,2026-07-24,A,Bhopal,Normal,Male,Home and lifestyle,49.94,5.0,12.49,262.19,134.72,43.85,114.98,Credit card,7.2
+INV-00115,2026-03-12,C,Jabalpur,Member,Female,Food and beverages,38.51,7.0,13.48,283.05,181.55,31.1,88.03,Ewallet,9.1
+INV-00116,2026-05-06,C,Jabalpur,Member,Male,Food and beverages,28.82,5.0,7.21,151.31,95.24,32.3,48.87,Cash,6.8
+INV-00117,2026-07-22,B,Indore,Member,Male,Health and beauty,53.32,7.0,18.66,391.92,289.95,21.26,83.31,Ewallet,7.8
+INV-00118,2026-03-20,B,Indore,Normal,Male,Fashion accessories,58.01,4.0,11.6,243.66,162.75,28.44,69.31,Cash,7.3
+INV-00119,2026-07-10,B,Indore,Normal,Male,Food and beverages,45.25,8.0,18.1,380.12,244.38,30.95,117.65,Credit card,6.9
+INV-00120,2026-03-06,A,Bhopal,Member,Female,Electronic accessories,48.92,3.0,7.34,154.09,103.96,27.77,42.79,Ewallet,6.7
+INV-00121,2026-07-15,C,Jabalpur,Member,Female,Fashion accessories,49.38,7.0,17.28,362.97,181.95,45.11,163.74,Ewallet,6.6
+INV-00122,2026-07-05,B,Indore,Normal,Female,Food and beverages,40.15,10.0,20.08,421.6,252.4,35.37,149.12,Credit card,8.3
+INV-00123,2026-04-03,A,Bhopal,Normal,Female,Electronic accessories,77.11,3.0,11.57,242.91,137.57,38.6,93.77,Credit card,6.5
+INV-00124,2026-01-12,A,Bhopal,Normal,Female,Health and beauty,33.94,2.0,3.39,71.28,52.73,21.26,15.15,Cash,6.2
+INV-00125,2026-01-27,C,Jabalpur,Normal,Male,Health and beauty,20.93,5.0,5.23,109.87,65.78,35.37,38.87,Cash,5.7
+INV-00126,2026-01-14,B,Indore,Normal,Female,Home and lifestyle,90.34,6.0,27.1,569.12,354.1,33.02,187.92,Credit card,6.3
+INV-00127,2026-01-19,B,Indore,Member,Female,Food and beverages,30.07,4.0,6.01,126.3,64.36,44.28,55.93,Ewallet,6.5
+INV-00128,2026-03-19,B,Indore,Member,Female,Health and beauty,42.77,5.0,10.69,224.56,123.65,40.17,90.21,Cash,5.8
+INV-00129,2026-06-02,B,Indore,Member,Male,Food and beverages,72.0,4.0,14.4,302.41,159.47,42.51,128.55,Cash,8.2
+INV-00130,2026-08-09,B,Indore,Normal,Male,Food and beverages,43.0,4.0,8.6,180.61,106.11,36.49,65.9,Cash,7.5
+INV-00131,2026-07-09,A,Bhopal,Member,Female,Health and beauty,60.38,3.0,9.06,190.19,126.37,28.8,54.77,Ewallet,6.0
+INV-00132,2026-03-03,A,Bhopal,Member,Female,Electronic accessories,10.0,6.0,3.0,63.0,44.91,23.96,15.09,Ewallet,6.1
+INV-00133,2026-06-02,B,Indore,Normal,Female,Sports and travel,71.27,9.0,32.07,673.49,480.44,23.9,160.98,Ewallet,8.4
+INV-00134,2026-06-29,C,Jabalpur,Member,Female,Sports and travel,60.66,6.0,18.2,382.16,189.86,45.56,174.1,Credit card,7.3
+INV-00135,2026-06-10,C,Jabalpur,Member,Male,Food and beverages,50.45,7.0,17.66,370.8,253.51,26.87,99.63,Ewallet,5.4
+INV-00136,2026-02-08,A,Bhopal,Member,Female,Home and lifestyle,65.53,6.0,19.66,412.85,211.4,44.03,181.8,Ewallet,7.2
+INV-00137,2026-06-02,C,Jabalpur,Normal,Male,Fashion accessories,67.03,3.0,10.05,211.15,137.03,30.34,64.06,Ewallet,5.9
+INV-00138,2026-06-29,B,Indore,Normal,Male,Sports and travel,55.18,3.0,8.28,173.8,100.0,37.7,65.53,Cash,7.5
+INV-00139,2026-08-16,B,Indore,Normal,Male,Sports and travel,84.92,6.0,25.48,534.98,286.62,41.66,222.89,Ewallet,7.0
+INV-00140,2026-06-22,A,Bhopal,Member,Male,Food and beverages,48.08,2.0,4.81,100.97,67.02,28.86,29.14,Cash,8.2
+INV-00141,2026-02-14,C,Jabalpur,Normal,Male,Sports and travel,45.08,6.0,13.52,283.98,168.59,35.87,101.86,Ewallet,8.1
+INV-00142,2026-06-12,B,Indore,Member,Male,Sports and travel,75.57,3.0,11.34,238.05,156.3,29.58,70.41,Ewallet,6.9
+INV-00143,2026-06-21,A,Bhopal,Member,Male,Health and beauty,61.31,9.0,27.59,579.35,305.75,42.46,246.02,Cash,6.7
+INV-00144,2026-06-19,B,Indore,Member,Male,Sports and travel,80.49,3.0,12.07,253.54,168.6,28.74,72.86,Ewallet,7.7
+INV-00145,2026-01-30,A,Bhopal,Member,Male,Sports and travel,43.98,4.0,8.8,184.73,127.97,25.97,47.97,Cash,6.7
+INV-00146,2026-04-03,A,Bhopal,Normal,Male,Food and beverages,32.75,1.0,1.64,34.39,17.65,43.92,15.1,Credit card,4.9
+INV-00147,2026-05-21,A,Bhopal,Normal,Male,Electronic accessories,48.67,6.0,14.6,306.61,188.32,33.82,103.68,Credit card,4.3
+INV-00148,2026-01-08,B,Indore,Member,Female,Fashion accessories,48.31,6.0,14.49,304.38,151.47,45.47,138.41,Ewallet,6.6
+INV-00149,2026-04-15,A,Bhopal,Member,Female,Health and beauty,50.92,3.0,7.64,160.39,82.55,43.77,70.2,Cash,4.8
+INV-00150,2026-08-02,A,Bhopal,Normal,Male,Electronic accessories,40.98,5.0,10.24,215.13,112.11,43.12,92.78,Cash,6.8
+INV-00151,2026-08-02,A,Bhopal,Normal,Female,Sports and travel,82.59,3.0,12.39,260.16,163.71,32.31,84.06,Cash,8.2
+INV-00152,2026-02-18,A,Bhopal,Member,Female,Food and beverages,48.78,5.0,12.19,256.07,183.55,23.56,60.32,Ewallet,7.6
+INV-00153,2026-04-17,C,Jabalpur,Normal,Female,Home and lifestyle,76.44,5.0,19.11,401.33,204.75,44.22,177.47,Ewallet,7.3
+INV-00154,2026-05-31,A,Bhopal,Normal,Female,Food and beverages,29.88,5.0,7.47,156.87,108.36,26.16,41.04,Cash,6.5
+INV-00155,2026-03-27,B,Indore,Normal,Male,Food and beverages,38.66,7.0,13.53,284.14,188.58,28.87,82.03,Credit card,9.6
+INV-00156,2026-06-28,C,Jabalpur,Normal,Female,Electronic accessories,51.4,8.0,20.56,431.73,306.5,24.24,104.67,Credit card,5.2
+INV-00157,2026-03-23,B,Indore,Normal,Male,Fashion accessories,30.13,8.0,12.05,253.13,138.56,40.5,102.51,Cash,9.4
+INV-00158,2026-07-30,B,Indore,Member,Male,Fashion accessories,72.67,5.0,18.17,381.53,211.39,39.83,151.97,Credit card,8.7
+INV-00159,2026-06-01,A,Bhopal,Member,Male,Home and lifestyle,57.64,5.0,14.41,302.62,194.3,31.03,93.91,Ewallet,8.4
+INV-00160,2026-01-04,C,Jabalpur,Member,Male,Fashion accessories,46.93,6.0,14.08,295.63,217.4,21.7,64.15,Credit card,5.8
+INV-00161,2026-01-20,C,Jabalpur,Normal,Male,Sports and travel,41.22,2.0,4.12,86.56,54.01,32.84,28.43,Cash,6.8
+INV-00162,2026-01-21,B,Indore,Normal,Male,Home and lifestyle,71.95,5.0,17.99,377.73,202.74,41.56,157.0,Cash,6.5
+INV-00163,2026-05-05,C,Jabalpur,Member,Female,Food and beverages,34.5,6.0,10.35,217.33,122.15,39.03,84.83,Ewallet,9.5
+INV-00164,2026-03-15,B,Indore,Member,Male,Electronic accessories,55.68,3.0,8.35,175.38,106.49,34.52,60.54,Credit card,6.3
+INV-00165,2026-06-30,C,Jabalpur,Normal,Female,Health and beauty,45.34,3.0,6.8,142.82,105.62,21.28,30.4,Credit card,7.6
+INV-00166,2026-01-12,C,Jabalpur,Member,Male,Home and lifestyle,59.95,6.0,17.99,377.69,189.85,44.97,169.86,Ewallet,7.6
+INV-00167,2026-03-04,B,Indore,Normal,Female,Food and beverages,54.51,4.0,10.9,228.96,151.52,29.06,66.53,Ewallet,5.9
+INV-00168,2026-08-11,A,Bhopal,Member,Male,Sports and travel,78.02,8.0,31.21,655.4,417.18,31.58,207.01,Credit card,6.9
+INV-00169,2026-04-29,A,Bhopal,Normal,Male,Fashion accessories,67.48,5.0,16.87,354.26,233.15,29.42,104.24,Ewallet,8.5
+INV-00170,2026-07-25,A,Bhopal,Normal,Female,Sports and travel,62.1,9.0,27.95,586.86,401.41,26.84,157.51,Ewallet,7.5
+INV-00171,2026-05-31,C,Jabalpur,Normal,Male,Home and lifestyle,53.83,4.0,10.77,226.1,130.15,37.68,85.19,Cash,8.7
+INV-00172,2026-04-09,A,Bhopal,Member,Female,Sports and travel,45.11,5.0,11.28,236.82,130.61,40.09,94.93,Cash,5.2
+INV-00173,2026-03-17,B,Indore,Normal,Female,Fashion accessories,54.38,7.0,19.03,399.66,200.47,45.08,180.16,Credit card,6.3
+INV-00174,2026-03-12,B,Indore,Member,Male,Health and beauty,31.81,9.0,14.31,300.56,163.42,40.87,122.83,Credit card,5.3
+INV-00175,2026-07-18,C,Jabalpur,Normal,Female,Electronic accessories,51.46,5.0,12.87,270.18,166.31,33.68,91.0,Cash,7.6
+INV-00176,2026-06-23,B,Indore,Member,Female,Fashion accessories,39.81,6.0,11.94,250.82,141.15,38.96,97.73,Credit card,6.0
+INV-00177,2026-03-21,B,Indore,Member,Male,Sports and travel,49.25,4.0,9.85,206.83,138.74,28.16,58.24,Credit card,6.8
+INV-00178,2026-03-17,A,Bhopal,Normal,Female,Home and lifestyle,60.25,6.0,18.07,379.55,247.48,30.04,114.0,Ewallet,6.0
+INV-00179,2026-08-13,C,Jabalpur,Normal,Female,Home and lifestyle,59.71,6.0,17.91,376.19,264.54,24.92,93.74,Ewallet,7.7
+INV-00180,2026-05-04,C,Jabalpur,Normal,Female,Home and lifestyle,54.15,5.0,13.54,284.26,187.77,29.18,82.96,Cash,8.0
+INV-00181,2026-07-13,A,Bhopal,Normal,Male,Electronic accessories,58.35,6.0,17.51,367.62,190.77,43.34,159.34,Ewallet,6.2
+INV-00182,2026-03-09,B,Indore,Member,Male,Food and beverages,39.61,5.0,9.9,207.97,128.58,33.41,69.49,Ewallet,6.9
+INV-00183,2026-03-09,C,Jabalpur,Normal,Male,Food and beverages,27.75,6.0,8.32,174.82,117.93,27.78,48.56,Ewallet,9.0
+INV-00184,2026-01-07,A,Bhopal,Normal,Female,Food and beverages,16.28,2.0,1.63,34.18,24.5,23.57,8.06,Cash,7.7
+INV-00185,2026-04-29,B,Indore,Normal,Male,Fashion accessories,43.86,3.0,6.58,138.15,86.17,32.86,45.4,Ewallet,5.9
+INV-00186,2026-01-10,A,Bhopal,Normal,Female,Home and lifestyle,61.27,8.0,24.51,514.69,325.98,31.9,164.2,Ewallet,5.3
+INV-00187,2026-02-04,C,Jabalpur,Normal,Male,Sports and travel,59.35,4.0,11.87,249.28,166.05,28.63,71.37,Cash,9.1
+INV-00188,2026-08-31,C,Jabalpur,Normal,Female,Food and beverages,41.37,4.0,8.27,173.76,114.66,29.25,50.82,Credit card,5.5
+INV-00189,2026-08-02,B,Indore,Normal,Male,Sports and travel,55.53,8.0,22.21,466.41,318.21,27.01,125.99,Ewallet,5.5
+INV-00190,2026-04-24,B,Indore,Member,Male,Sports and travel,64.87,4.0,12.97,272.45,152.68,39.2,106.8,Ewallet,6.9
+INV-00191,2026-05-20,B,Indore,Normal,Female,Fashion accessories,42.14,6.0,12.64,265.48,165.38,32.95,87.46,Cash,6.8
+INV-00192,2026-02-01,A,Bhopal,Member,Female,Sports and travel,62.92,6.0,18.87,396.36,233.65,36.29,143.84,Cash,8.1
+INV-00193,2026-01-06,B,Indore,Normal,Female,Health and beauty,55.96,3.0,8.39,176.27,94.87,41.42,73.01,Credit card,7.8
+INV-00194,2026-02-22,C,Jabalpur,Member,Female,Health and beauty,33.49,8.0,13.4,281.3,192.58,26.78,75.32,Credit card,8.6
+INV-00195,2026-07-18,A,Bhopal,Member,Male,Electronic accessories,55.14,4.0,11.03,231.61,116.18,45.08,104.4,Credit card,5.6
+INV-00196,2026-02-03,A,Bhopal,Normal,Female,Food and beverages,46.11,5.0,11.53,242.07,158.29,29.85,72.25,Ewallet,7.2
+INV-00197,2026-02-03,C,Jabalpur,Normal,Female,Health and beauty,55.56,3.0,8.33,175.02,120.51,26.38,46.17,Cash,5.6
+INV-00198,2026-03-09,A,Bhopal,Member,Male,Health and beauty,38.36,5.0,9.59,201.38,106.83,42.19,84.97,Cash,7.0
+INV-00199,2026-05-02,C,Jabalpur,Normal,Female,Sports and travel,57.86,3.0,8.68,182.26,113.25,33.1,60.33,Cash,6.3
+INV-00200,2026-06-07,A,Bhopal,Normal,Male,Health and beauty,26.52,4.0,5.3,111.38,79.61,23.76,26.46,Cash,8.1
+INV-00201,2026-05-03,A,Bhopal,Normal,Female,Sports and travel,43.86,6.0,13.16,276.34,165.33,35.41,97.85,Cash,6.8
+INV-00202,2026-01-19,C,Jabalpur,Normal,Female,Health and beauty,42.52,4.0,8.5,178.58,97.95,40.39,72.12,Ewallet,7.1
+INV-00203,2026-06-12,A,Bhopal,Normal,Male,Food and beverages,38.79,5.0,9.7,203.62,125.46,33.62,68.47,Credit card,7.8
+INV-00204,2026-04-27,B,Indore,Normal,Female,Food and beverages,32.79,7.0,11.48,241.04,176.39,22.06,53.17,Credit card,6.1
+INV-00205,2026-06-17,A,Bhopal,Member,Male,Fashion accessories,42.63,5.0,10.66,223.82,160.82,23.38,52.34,Cash,8.3
+INV-00206,2026-03-28,A,Bhopal,Normal,Male,Sports and travel,93.2,5.0,23.3,489.31,305.14,32.88,160.87,Credit card,6.4
+INV-00207,2026-03-22,A,Bhopal,Normal,Male,Fashion accessories,58.44,3.0,8.77,184.08,95.03,43.61,80.29,Credit card,6.3
+INV-00208,2026-05-02,B,Indore,Member,Female,Health and beauty,42.89,2.0,4.29,90.06,65.93,22.03,19.84,Ewallet,7.3
+INV-00209,2026-07-09,A,Bhopal,Member,Female,Home and lifestyle,46.77,5.0,11.69,245.52,132.17,41.4,101.65,Cash,8.6
+INV-00210,2026-03-26,B,Indore,Member,Male,Fashion accessories,55.96,3.0,8.39,176.26,90.88,43.68,76.99,Ewallet,6.3
+INV-00211,2026-07-12,B,Indore,Member,Male,Sports and travel,71.5,3.0,10.72,225.22,145.84,30.49,68.66,Cash,8.6
+INV-00212,2026-05-28,B,Indore,Member,Female,Food and beverages,47.98,4.0,9.6,201.53,114.42,38.46,77.52,Cash,8.5
+INV-00213,2026-01-28,A,Bhopal,Normal,Female,Home and lifestyle,58.8,6.0,17.64,370.43,268.58,22.73,84.21,Credit card,7.4
+INV-00214,2026-07-26,B,Indore,Member,Male,Sports and travel,54.67,6.0,16.4,344.44,187.42,40.82,140.62,Ewallet,5.6
+INV-00215,2026-07-15,A,Bhopal,Normal,Male,Home and lifestyle,62.3,8.0,24.92,523.35,368.3,24.86,130.13,Ewallet,8.0
+INV-00216,2026-05-25,C,Jabalpur,Normal,Female,Fashion accessories,64.44,6.0,19.33,405.97,217.62,41.63,169.02,Ewallet,7.9
+INV-00217,2026-01-08,B,Indore,Member,Male,Health and beauty,53.6,7.0,18.76,393.93,244.68,33.13,130.49,Cash,6.4
+INV-00218,2026-04-05,B,Indore,Normal,Female,Home and lifestyle,65.92,7.0,23.07,484.49,269.53,39.61,191.89,Credit card,5.1
+INV-00219,2026-07-13,A,Bhopal,Member,Female,Food and beverages,36.07,6.0,10.82,227.26,132.55,36.91,83.89,Ewallet,6.1
+INV-00220,2026-05-05,B,Indore,Normal,Male,Food and beverages,42.89,1.0,2.14,45.04,30.79,26.87,12.1,Ewallet,8.8
+INV-00221,2026-01-30,C,Jabalpur,Normal,Female,Home and lifestyle,37.7,5.0,9.43,197.94,120.01,34.61,68.5,Ewallet,5.8
+INV-00222,2026-05-05,B,Indore,Normal,Female,Food and beverages,47.25,5.0,11.81,248.05,160.9,30.37,75.34,Ewallet,7.5
+INV-00223,2026-01-15,C,Jabalpur,Member,Male,Health and beauty,64.33,4.0,12.87,270.19,138.15,44.11,119.18,Credit card,6.4
+INV-00224,2026-07-15,C,Jabalpur,Normal,Male,Home and lifestyle,79.59,8.0,31.84,668.55,340.79,44.26,295.93,Ewallet,9.4
+INV-00225,2026-04-21,B,Indore,Member,Male,Electronic accessories,70.62,6.0,21.19,444.92,268.16,34.97,155.58,Cash,6.4
+INV-00226,2026-05-24,A,Bhopal,Normal,Female,Fashion accessories,50.84,9.0,22.88,480.46,286.71,35.56,170.87,Cash,7.0
+INV-00227,2026-04-22,C,Jabalpur,Normal,Female,Health and beauty,42.79,5.0,10.7,224.64,112.71,45.07,101.24,Credit card,8.4
+INV-00228,2026-05-27,B,Indore,Normal,Male,Sports and travel,64.97,7.0,22.74,477.55,331.41,25.84,123.39,Ewallet,5.1
+INV-00229,2026-03-25,A,Bhopal,Normal,Male,Electronic accessories,38.62,2.0,3.86,81.1,54.79,27.69,22.46,Ewallet,4.0
+INV-00230,2026-03-04,C,Jabalpur,Normal,Female,Sports and travel,22.8,5.0,5.7,119.71,81.56,27.11,32.45,Cash,6.9
+INV-00231,2026-03-28,A,Bhopal,Normal,Female,Electronic accessories,59.95,2.0,5.99,125.89,71.14,38.73,48.75,Ewallet,7.2
+INV-00232,2026-05-16,B,Indore,Member,Male,Food and beverages,26.71,6.0,8.01,168.26,86.05,44.1,74.2,Ewallet,6.1
+INV-00233,2026-06-15,C,Jabalpur,Member,Female,Electronic accessories,47.63,3.0,7.15,150.05,94.09,32.53,48.81,Ewallet,7.1
+INV-00234,2026-06-04,A,Bhopal,Member,Female,Electronic accessories,30.32,3.0,4.55,95.51,70.08,21.86,20.88,Credit card,5.9
+INV-00235,2026-04-29,B,Indore,Normal,Male,Food and beverages,48.83,3.0,7.33,153.83,104.02,27.62,42.48,Credit card,7.2
+INV-00236,2026-02-08,B,Indore,Member,Male,Sports and travel,47.45,6.0,14.24,298.96,159.25,41.97,125.47,Cash,7.8
+INV-00237,2026-03-12,A,Bhopal,Member,Male,Food and beverages,28.72,6.0,8.61,180.91,92.62,44.04,79.67,Cash,6.2
+INV-00238,2026-04-26,A,Bhopal,Member,Male,Health and beauty,53.31,3.0,8.0,167.94,90.06,41.61,69.88,Credit card,9.2
+INV-00239,2026-08-10,A,Bhopal,Normal,Male,Health and beauty,41.72,4.0,8.34,175.24,109.02,33.02,57.87,Cash,9.4
+INV-00240,2026-07-09,C,Jabalpur,Normal,Female,Health and beauty,45.44,3.0,6.82,143.13,80.05,39.31,56.27,Ewallet,8.7
+INV-00241,2026-02-08,B,Indore,Normal,Female,Health and beauty,41.24,7.0,14.43,303.13,183.99,34.54,104.7,Credit card,6.0
+INV-00242,2026-07-02,C,Jabalpur,Member,Female,Health and beauty,60.36,5.0,15.09,316.91,186.8,36.29,115.02,Ewallet,7.0
+INV-00243,2026-04-23,B,Indore,Member,Male,Food and beverages,40.59,8.0,16.23,340.92,182.17,41.8,142.52,Ewallet,5.4
+INV-00244,2026-04-15,A,Bhopal,Member,Male,Home and lifestyle,71.76,6.0,21.53,452.06,246.49,40.71,184.04,Ewallet,7.9
+INV-00245,2026-06-23,A,Bhopal,Normal,Male,Sports and travel,49.63,5.0,12.41,260.55,161.63,33.2,86.51,Credit card,7.6
+INV-00246,2026-08-21,B,Indore,Member,Male,Food and beverages,37.89,7.0,13.26,278.45,138.77,45.4,126.42,Ewallet,7.6
+INV-00247,2026-08-23,B,Indore,Normal,Male,Home and lifestyle,74.62,5.0,18.66,391.77,277.27,24.46,95.84,Ewallet,10.0
+INV-00248,2026-01-22,C,Jabalpur,Normal,Male,Home and lifestyle,60.36,6.0,18.11,380.26,234.85,33.48,127.3,Credit card,8.6
+INV-00249,2026-08-01,B,Indore,Member,Male,Fashion accessories,45.02,4.0,9.0,189.1,104.88,39.77,75.21,Cash,8.2
+INV-00250,2026-03-21,A,Bhopal,Member,Male,Electronic accessories,49.52,9.0,22.28,467.92,246.36,42.59,199.28,Credit card,6.0
+INV-00251,2026-02-27,B,Indore,Member,Female,Electronic accessories,38.49,3.0,5.77,121.25,85.74,24.52,29.74,Ewallet,8.5
+INV-00252,2026-05-10,C,Jabalpur,Member,Male,Food and beverages,47.21,6.0,14.16,297.45,149.75,44.89,133.53,Credit card,6.6
+INV-00253,2026-06-02,B,Indore,Member,Female,Sports and travel,77.4,10.0,38.7,812.72,492.46,34.64,281.56,Ewallet,5.6
+INV-00254,2026-06-09,B,Indore,Normal,Female,Electronic accessories,70.5,5.0,17.62,370.12,187.15,44.67,165.35,Cash,7.0
+INV-00255,2026-03-02,B,Indore,Normal,Male,Sports and travel,67.65,7.0,23.68,497.21,364.78,21.87,108.76,Ewallet,7.3
+INV-00256,2026-07-27,A,Bhopal,Member,Male,Sports and travel,49.9,5.0,12.48,262.0,164.83,32.33,84.69,Cash,8.3
+INV-00257,2026-04-23,B,Indore,Normal,Male,Sports and travel,59.87,1.0,2.99,62.87,38.43,34.11,21.44,Cash,6.7
+INV-00258,2026-02-11,B,Indore,Member,Male,Electronic accessories,66.2,4.0,13.24,278.04,199.86,23.36,64.94,Ewallet,5.2
+INV-00259,2026-04-06,B,Indore,Member,Female,Food and beverages,45.0,4.0,9.0,188.98,104.8,39.78,75.18,Ewallet,8.1
+INV-00260,2026-03-11,C,Jabalpur,Member,Male,Sports and travel,63.98,4.0,12.8,268.72,139.33,43.39,116.6,Ewallet,8.4
+INV-00261,2026-07-29,C,Jabalpur,Normal,Female,Sports and travel,66.71,7.0,23.35,490.33,336.79,26.55,130.19,Cash,7.8
+INV-00262,2026-04-06,B,Indore,Normal,Female,Electronic accessories,67.4,6.0,20.22,424.63,264.16,33.03,140.24,Ewallet,7.4
+INV-00263,2026-08-27,A,Bhopal,Normal,Female,Health and beauty,44.56,8.0,17.82,374.26,208.92,39.42,147.52,Ewallet,6.1
+INV-00264,2026-08-01,A,Bhopal,Member,Male,Sports and travel,56.85,2.0,5.68,119.38,67.3,38.86,46.39,Cash,4.6
+INV-00265,2026-01-21,A,Bhopal,Normal,Female,Health and beauty,28.31,5.0,7.08,148.64,73.89,45.52,67.67,Credit card,7.0
+INV-00266,2026-07-06,B,Indore,Normal,Female,Food and beverages,34.67,7.0,12.13,254.83,165.14,30.43,77.56,Credit card,6.2
+INV-00267,2026-02-01,A,Bhopal,Member,Male,Health and beauty,43.53,7.0,15.24,319.97,189.72,35.94,115.01,Cash,6.2
+INV-00268,2026-01-17,B,Indore,Normal,Female,Health and beauty,22.76,8.0,9.1,191.15,124.79,29.96,57.26,Cash,5.3
+INV-00269,2026-07-03,B,Indore,Normal,Male,Electronic accessories,57.03,4.0,11.41,239.52,140.51,36.58,87.61,Ewallet,6.4
+INV-00270,2026-05-27,B,Indore,Member,Female,Sports and travel,60.04,3.0,9.01,189.14,110.28,36.93,69.85,Cash,6.0
+INV-00271,2026-05-15,B,Indore,Member,Male,Food and beverages,41.36,4.0,8.27,173.72,113.39,29.96,52.05,Credit card,7.6
+INV-00272,2026-04-10,A,Bhopal,Normal,Female,Home and lifestyle,60.89,5.0,15.22,319.69,200.59,32.49,103.88,Ewallet,8.0
+INV-00273,2026-03-03,A,Bhopal,Member,Male,Fashion accessories,28.24,3.0,4.24,88.96,46.76,42.67,37.96,Ewallet,6.4
+INV-00274,2026-03-28,B,Indore,Member,Male,Fashion accessories,24.57,8.0,9.83,206.38,142.52,26.18,54.02,Credit card,7.9
+INV-00275,2026-02-16,B,Indore,Member,Male,Electronic accessories,74.49,8.0,29.8,625.75,419.23,28.24,176.73,Ewallet,6.8
+INV-00276,2026-07-22,A,Bhopal,Member,Male,Electronic accessories,41.18,3.0,6.18,129.73,92.84,23.67,30.71,Credit card,8.8
+INV-00277,2026-07-28,B,Indore,Normal,Male,Food and beverages,25.5,2.0,2.55,53.55,34.96,29.94,16.03,Ewallet,6.6
+INV-00278,2026-03-15,B,Indore,Member,Male,Home and lifestyle,50.13,6.0,15.04,315.82,233.67,21.25,67.11,Ewallet,6.9
+INV-00279,2026-04-22,C,Jabalpur,Normal,Male,Sports and travel,89.48,3.0,13.42,281.86,174.87,33.2,93.57,Ewallet,6.6
+INV-00280,2026-06-27,A,Bhopal,Normal,Male,Sports and travel,61.57,2.0,6.16,129.3,76.45,36.11,46.69,Credit card,7.6
+INV-00281,2026-01-21,C,Jabalpur,Member,Male,Sports and travel,59.38,5.0,14.84,311.73,222.96,23.72,73.93,Ewallet,8.9
+INV-00282,2026-06-19,A,Bhopal,Normal,Male,Home and lifestyle,74.42,6.0,22.33,468.87,295.06,32.31,151.48,Cash,7.5
+INV-00283,2026-06-26,B,Indore,Normal,Male,Sports and travel,65.57,6.0,19.67,413.07,224.47,40.9,168.92,Ewallet,5.7
+INV-00284,2026-04-01,C,Jabalpur,Normal,Male,Food and beverages,36.65,6.0,10.99,230.87,139.72,34.72,80.16,Cash,6.6
+INV-00285,2026-01-15,C,Jabalpur,Normal,Male,Health and beauty,45.13,7.0,15.79,331.68,196.71,35.93,119.17,Cash,9.8
+INV-00286,2026-02-10,C,Jabalpur,Member,Male,Health and beauty,47.58,8.0,19.03,399.66,276.15,26.14,104.47,Ewallet,6.4
+INV-00287,2026-07-19,A,Bhopal,Normal,Male,Fashion accessories,55.77,5.0,13.94,292.78,216.12,21.42,62.72,Cash,6.7
+INV-00288,2026-06-04,B,Indore,Normal,Male,Electronic accessories,70.76,4.0,14.15,297.21,203.26,26.85,79.8,Ewallet,7.0
+INV-00289,2026-05-27,C,Jabalpur,Normal,Male,Electronic accessories,58.37,10.0,29.18,612.85,320.09,43.01,263.58,Ewallet,4.3
+INV-00290,2026-01-30,A,Bhopal,Member,Male,Health and beauty,45.27,6.0,13.58,285.21,185.5,30.2,86.13,Cash,8.4
+INV-00291,2026-01-31,C,Jabalpur,Normal,Male,Home and lifestyle,85.4,5.0,21.35,448.34,311.34,25.79,115.65,Ewallet,6.8
+INV-00292,2026-06-27,B,Indore,Member,Female,Sports and travel,50.48,2.0,5.05,106.01,78.69,21.01,22.27,Ewallet,6.3
+INV-00293,2026-02-14,A,Bhopal,Normal,Female,Fashion accessories,65.34,2.0,6.53,137.22,93.03,27.44,37.66,Credit card,7.7
+INV-00294,2026-03-23,C,Jabalpur,Normal,Female,Fashion accessories,59.21,8.0,23.68,497.37,306.37,33.64,167.31,Cash,7.9
+INV-00295,2026-03-18,A,Bhopal,Member,Male,Electronic accessories,52.72,3.0,7.91,166.06,86.8,42.97,71.35,Cash,6.2
+INV-00296,2026-02-21,A,Bhopal,Member,Male,Electronic accessories,28.49,5.0,7.12,149.57,76.77,43.91,65.67,Ewallet,7.3
+INV-00297,2026-04-05,B,Indore,Member,Female,Sports and travel,40.49,6.0,12.15,255.11,146.65,37.75,96.31,Ewallet,6.2
+INV-00298,2026-07-03,B,Indore,Normal,Male,Fashion accessories,30.43,6.0,9.13,191.7,137.12,23.71,45.45,Credit card,6.9
+INV-00299,2026-01-19,C,Jabalpur,Normal,Female,Electronic accessories,12.73,4.0,2.55,53.45,29.67,39.72,21.23,Cash,7.3
+INV-00300,2026-03-30,B,Indore,Member,Female,Electronic accessories,66.81,6.0,20.04,420.89,260.2,33.42,140.64,Cash,7.7
+INV-00301,2026-01-15,C,Jabalpur,Member,Male,Health and beauty,38.27,4.0,7.65,160.75,79.62,45.71,73.48,Ewallet,6.6
+INV-00302,2026-07-01,A,Bhopal,Normal,Male,Electronic accessories,46.23,3.0,6.94,145.64,102.39,24.93,36.31,Credit card,7.1
+INV-00303,2026-06-12,A,Bhopal,Normal,Female,Food and beverages,26.98,3.0,4.05,84.99,59.83,24.85,21.12,Cash,8.4
+INV-00304,2026-01-24,B,Indore,Member,Female,Food and beverages,53.38,6.0,16.02,336.32,223.77,28.7,96.53,Ewallet,6.3
+INV-00305,2026-08-19,B,Indore,Normal,Female,Food and beverages,10.0,3.0,1.5,31.5,16.9,41.58,13.1,Credit card,6.9
+INV-00306,2026-01-12,A,Bhopal,Normal,Female,Fashion accessories,65.52,6.0,19.65,412.75,284.31,26.35,108.78,Credit card,8.5
+INV-00307,2026-06-13,B,Indore,Normal,Male,Health and beauty,41.87,6.0,12.56,263.76,154.7,36.58,96.49,Cash,7.3
+INV-00308,2026-03-04,A,Bhopal,Normal,Male,Fashion accessories,44.89,7.0,15.71,329.91,235.29,23.92,78.91,Cash,6.9
+INV-00309,2026-02-10,B,Indore,Normal,Male,Sports and travel,72.39,4.0,14.48,304.02,206.17,27.43,83.38,Cash,5.9
+INV-00310,2026-02-06,B,Indore,Normal,Male,Home and lifestyle,73.05,5.0,18.26,383.53,224.86,36.61,140.4,Credit card,5.5
+INV-00311,2026-04-05,A,Bhopal,Member,Male,Food and beverages,14.59,2.0,1.46,30.63,18.04,36.33,11.13,Ewallet,7.2
+INV-00312,2026-04-26,A,Bhopal,Member,Female,Electronic accessories,51.8,5.0,12.95,271.95,165.93,34.22,93.07,Ewallet,6.0
+INV-00313,2026-08-10,C,Jabalpur,Normal,Female,Food and beverages,39.31,7.0,13.76,288.96,144.32,45.29,130.88,Credit card,7.7
+INV-00314,2026-07-28,C,Jabalpur,Normal,Female,Home and lifestyle,67.42,3.0,10.11,212.37,120.6,38.45,81.66,Credit card,7.8
+INV-00315,2026-05-12,B,Indore,Normal,Male,Sports and travel,64.43,3.0,9.66,202.94,115.57,38.29,77.71,Cash,8.9
+INV-00316,2026-04-11,A,Bhopal,Normal,Female,Food and beverages,41.31,3.0,6.2,130.12,89.67,26.32,34.25,Ewallet,7.2
+INV-00317,2026-01-13,B,Indore,Normal,Male,Home and lifestyle,54.88,3.0,8.23,172.86,95.37,40.06,69.25,Ewallet,8.8
+INV-00318,2026-01-28,A,Bhopal,Member,Male,Sports and travel,61.55,6.0,18.47,387.79,287.24,21.17,82.08,Credit card,5.2
+INV-00319,2026-04-04,C,Jabalpur,Normal,Female,Health and beauty,55.52,3.0,8.33,174.89,95.09,40.87,71.47,Cash,7.2
+INV-00320,2026-05-22,A,Bhopal,Member,Male,Home and lifestyle,62.74,6.0,18.82,395.28,261.74,29.02,114.72,Cash,6.0
+INV-00321,2026-03-13,C,Jabalpur,Member,Female,Food and beverages,27.65,6.0,8.29,174.18,92.62,42.07,73.27,Credit card,5.7
+INV-00322,2026-07-23,B,Indore,Normal,Female,Home and lifestyle,42.75,6.0,12.83,269.34,151.71,38.91,104.81,Ewallet,6.9
+INV-00323,2026-05-09,B,Indore,Member,Female,Health and beauty,45.47,3.0,6.82,143.24,76.82,41.61,59.6,Ewallet,8.7
+INV-00324,2026-05-02,A,Bhopal,Normal,Female,Food and beverages,19.06,6.0,5.72,120.11,88.05,21.93,26.34,Cash,6.8
+INV-00325,2026-03-25,B,Indore,Normal,Female,Food and beverages,39.67,4.0,7.93,166.62,108.19,30.3,50.49,Cash,7.5
+INV-00326,2026-08-04,B,Indore,Normal,Male,Home and lifestyle,63.96,5.0,15.99,335.8,219.57,29.85,100.24,Credit card,7.1
+INV-00327,2026-07-28,A,Bhopal,Normal,Male,Health and beauty,34.61,4.0,6.92,145.36,72.31,45.49,66.13,Cash,7.6
+INV-00328,2026-05-30,C,Jabalpur,Member,Male,Home and lifestyle,66.66,4.0,13.33,279.97,197.44,24.72,69.19,Ewallet,6.9
+INV-00329,2026-07-18,B,Indore,Member,Female,Food and beverages,32.42,2.0,3.24,68.08,41.82,33.81,23.02,Cash,7.4
+INV-00330,2026-06-11,A,Bhopal,Normal,Female,Fashion accessories,40.85,5.0,10.21,214.48,146.64,26.87,57.63,Credit card,7.5
+INV-00331,2026-05-27,A,Bhopal,Member,Female,Fashion accessories,33.18,8.0,13.27,278.73,162.79,36.84,102.67,Ewallet,5.3
+INV-00332,2026-02-08,A,Bhopal,Member,Male,Sports and travel,46.04,3.0,6.91,145.04,90.0,33.19,48.13,Cash,7.9
+INV-00333,2026-05-01,B,Indore,Member,Female,Fashion accessories,46.3,7.0,16.21,340.32,198.29,36.97,125.82,Cash,7.9
+INV-00334,2026-06-19,B,Indore,Normal,Male,Sports and travel,60.35,6.0,18.11,380.22,219.52,37.5,142.6,Credit card,8.2
+INV-00335,2026-05-17,B,Indore,Normal,Male,Home and lifestyle,52.87,2.0,5.29,111.03,80.85,22.42,24.89,Cash,7.6
+INV-00336,2026-03-05,A,Bhopal,Normal,Female,Home and lifestyle,21.54,7.0,7.54,158.33,112.75,24.03,38.04,Credit card,7.3
+INV-00337,2026-07-17,C,Jabalpur,Member,Male,Home and lifestyle,33.1,2.0,3.31,69.51,36.62,42.55,29.57,Ewallet,7.5
+INV-00338,2026-08-28,B,Indore,Normal,Male,Fashion accessories,61.66,3.0,9.25,194.24,110.83,38.18,74.16,Ewallet,4.2
+INV-00339,2026-04-08,B,Indore,Normal,Female,Sports and travel,48.58,1.0,2.43,51.01,34.47,27.65,14.11,Ewallet,6.2
+INV-00340,2026-07-02,A,Bhopal,Normal,Male,Health and beauty,65.04,7.0,22.77,478.07,280.67,36.53,174.63,Cash,8.0
+INV-00341,2026-02-24,C,Jabalpur,Normal,Male,Electronic accessories,75.44,5.0,18.86,396.04,272.69,26.38,104.49,Ewallet,5.1
+INV-00342,2026-05-31,B,Indore,Member,Female,Electronic accessories,62.96,2.0,6.3,132.21,85.17,30.82,40.75,Cash,7.2
+INV-00343,2026-06-13,B,Indore,Member,Female,Electronic accessories,69.73,5.0,17.43,366.07,265.86,22.61,82.78,Cash,6.0
+INV-00344,2026-01-26,C,Jabalpur,Member,Female,Fashion accessories,59.48,9.0,26.77,562.12,326.45,37.16,208.9,Credit card,8.1
+INV-00345,2026-02-10,C,Jabalpur,Normal,Male,Sports and travel,69.15,6.0,20.75,435.66,300.57,26.25,114.35,Cash,8.0
+INV-00346,2026-03-15,C,Jabalpur,Normal,Female,Home and lifestyle,48.03,3.0,7.2,151.28,101.28,28.29,42.8,Credit card,8.8
+INV-00347,2026-05-27,A,Bhopal,Member,Female,Electronic accessories,54.16,6.0,16.25,341.18,211.61,33.21,113.32,Cash,7.6
+INV-00348,2026-08-28,C,Jabalpur,Normal,Male,Health and beauty,57.78,5.0,14.45,303.36,215.24,24.29,73.68,Ewallet,7.6
+INV-00349,2026-08-12,C,Jabalpur,Member,Female,Home and lifestyle,51.3,7.0,17.95,377.03,264.47,25.09,94.6,Ewallet,6.1
+INV-00350,2026-08-26,B,Indore,Normal,Male,Home and lifestyle,52.83,4.0,10.57,221.89,144.02,30.33,67.3,Credit card,7.3
+INV-00351,2026-05-07,B,Indore,Normal,Male,Electronic accessories,72.05,4.0,14.41,302.6,182.29,35.0,105.91,Ewallet,6.1
+INV-00352,2026-02-11,A,Bhopal,Normal,Male,Fashion accessories,36.37,4.0,7.27,152.75,101.04,29.09,44.43,Credit card,8.5
+INV-00353,2026-03-28,A,Bhopal,Member,Female,Home and lifestyle,41.4,4.0,8.28,173.89,98.02,38.87,67.6,Cash,7.7
+INV-00354,2026-04-14,B,Indore,Normal,Female,Sports and travel,67.81,3.0,10.17,213.61,157.13,21.68,46.31,Cash,7.0
+INV-00355,2026-02-05,A,Bhopal,Normal,Female,Sports and travel,59.77,6.0,17.93,376.58,205.64,40.63,153.0,Ewallet,6.0
+INV-00356,2026-04-25,B,Indore,Normal,Male,Home and lifestyle,33.54,5.0,8.38,176.06,90.49,43.84,77.19,Cash,7.0
+INV-00357,2026-03-08,B,Indore,Normal,Female,Fashion accessories,50.83,5.0,12.71,266.87,133.16,45.34,121.0,Ewallet,7.3
+INV-00358,2026-03-20,A,Bhopal,Normal,Male,Electronic accessories,71.66,7.0,25.08,526.69,281.03,41.88,220.58,Credit card,8.3
+INV-00359,2026-08-29,B,Indore,Normal,Female,Home and lifestyle,54.99,5.0,13.75,288.7,184.65,31.28,90.31,Ewallet,7.4
+INV-00360,2026-02-09,A,Bhopal,Normal,Male,Sports and travel,58.42,7.0,20.45,429.39,213.53,45.51,195.41,Credit card,5.2
+INV-00361,2026-07-13,C,Jabalpur,Member,Female,Food and beverages,26.9,7.0,9.41,197.7,126.77,31.12,61.52,Cash,6.9
+INV-00362,2026-07-21,B,Indore,Normal,Male,Health and beauty,69.96,3.0,10.49,220.36,120.0,40.78,89.86,Ewallet,8.6
+INV-00363,2026-01-16,B,Indore,Member,Female,Food and beverages,44.03,1.0,2.2,46.23,25.74,39.56,18.29,Ewallet,7.8
+INV-00364,2026-04-24,C,Jabalpur,Member,Male,Health and beauty,38.22,2.0,3.82,80.26,48.87,34.35,27.57,Ewallet,6.1
+INV-00365,2026-07-27,B,Indore,Normal,Female,Health and beauty,57.55,8.0,23.02,483.41,263.38,40.75,197.01,Cash,8.8
+INV-00366,2026-01-15,B,Indore,Normal,Male,Food and beverages,58.84,4.0,11.77,247.12,178.73,22.91,56.63,Credit card,7.9
+INV-00367,2026-07-29,B,Indore,Member,Female,Health and beauty,63.02,7.0,22.06,463.21,257.89,39.56,183.26,Ewallet,9.8
+INV-00368,2026-01-17,B,Indore,Member,Female,Food and beverages,30.52,4.0,6.1,128.18,89.65,25.29,32.42,Credit card,9.1
+INV-00369,2026-03-15,B,Indore,Member,Female,Sports and travel,56.29,2.0,5.63,118.22,73.26,33.27,39.33,Credit card,5.1
+INV-00370,2026-06-15,C,Jabalpur,Normal,Male,Sports and travel,62.81,6.0,18.84,395.68,211.58,41.76,165.26,Cash,6.3
+INV-00371,2026-04-07,C,Jabalpur,Member,Female,Sports and travel,70.6,5.0,17.65,370.64,211.99,38.04,141.0,Cash,5.9
+INV-00372,2026-02-15,B,Indore,Normal,Female,Food and beverages,40.39,6.0,12.12,254.49,183.61,23.09,58.75,Credit card,5.2
+INV-00373,2026-01-01,A,Bhopal,Normal,Male,Health and beauty,46.24,5.0,11.56,242.78,143.84,35.99,87.38,Cash,7.5
+INV-00374,2026-05-17,B,Indore,Member,Female,Sports and travel,65.45,8.0,26.18,549.8,294.12,41.74,229.51,Cash,10.0
+INV-00375,2026-02-18,A,Bhopal,Member,Female,Fashion accessories,38.17,4.0,7.63,160.32,79.47,45.66,73.21,Credit card,7.7
+INV-00376,2026-07-16,B,Indore,Member,Female,Health and beauty,61.66,3.0,9.25,194.23,97.11,45.24,87.87,Ewallet,8.2
+INV-00377,2026-04-25,B,Indore,Member,Female,Food and beverages,29.07,3.0,4.36,91.56,59.12,30.67,28.08,Credit card,5.7
+INV-00378,2026-03-01,B,Indore,Member,Female,Food and beverages,19.71,6.0,5.91,124.19,78.14,32.32,40.14,Ewallet,6.5
+INV-00379,2026-03-01,C,Jabalpur,Normal,Male,Fashion accessories,67.2,6.0,20.16,423.38,221.77,42.86,181.45,Ewallet,8.3
+INV-00380,2026-06-19,C,Jabalpur,Member,Male,Food and beverages,26.04,4.0,5.21,109.39,64.79,36.01,39.39,Ewallet,7.4
+INV-00381,2026-08-31,A,Bhopal,Member,Male,Food and beverages,37.15,3.0,5.57,117.02,80.93,26.08,30.52,Cash,7.3
+INV-00382,2026-03-30,A,Bhopal,Normal,Male,Fashion accessories,51.36,5.0,12.84,269.64,181.84,27.8,74.96,Credit card,6.2
+INV-00383,2026-03-18,B,Indore,Member,Male,Sports and travel,80.42,7.0,28.15,591.11,417.88,24.54,145.08,Ewallet,7.3
+INV-00384,2026-08-08,A,Bhopal,Member,Male,Fashion accessories,50.74,5.0,12.68,266.38,136.34,44.06,117.35,Credit card,8.3
+INV-00385,2026-04-17,B,Indore,Member,Male,Food and beverages,35.14,5.0,8.79,184.49,108.52,36.42,67.18,Ewallet,8.2
+INV-00386,2026-06-15,A,Bhopal,Normal,Male,Health and beauty,43.87,5.0,10.97,230.33,135.32,36.49,84.05,Ewallet,8.6
+INV-00387,2026-02-18,C,Jabalpur,Normal,Male,Health and beauty,45.39,5.0,11.35,238.27,130.84,40.32,96.08,Cash,6.4
+INV-00388,2026-08-12,B,Indore,Member,Female,Health and beauty,45.07,1.0,2.25,47.33,32.87,25.79,12.21,Cash,9.5
+INV-00389,2026-03-27,C,Jabalpur,Member,Female,Home and lifestyle,61.76,5.0,15.44,324.24,225.05,25.83,83.75,Credit card,8.8
+INV-00390,2026-01-31,C,Jabalpur,Normal,Female,Fashion accessories,35.98,5.0,9.0,188.9,135.2,23.67,44.7,Credit card,7.2
+INV-00391,2026-04-12,C,Jabalpur,Normal,Male,Electronic accessories,59.98,7.0,20.99,440.88,270.08,33.98,149.81,Cash,7.4
+INV-00392,2026-04-02,B,Indore,Normal,Male,Home and lifestyle,44.17,3.0,6.63,139.14,76.31,40.39,56.2,Cash,8.2
+INV-00393,2026-01-26,B,Indore,Normal,Male,Fashion accessories,63.91,3.0,9.59,201.31,134.4,28.48,57.33,Credit card,6.9
+INV-00394,2026-04-16,B,Indore,Member,Female,Health and beauty,64.18,7.0,22.46,471.74,271.53,37.68,177.75,Ewallet,6.6
+INV-00395,2026-05-30,B,Indore,Normal,Male,Food and beverages,27.56,5.0,6.89,144.67,100.84,25.53,36.94,Ewallet,6.4
+INV-00396,2026-04-08,A,Bhopal,Member,Male,Food and beverages,48.98,2.0,4.9,102.85,68.74,28.41,29.22,Cash,8.0
+INV-00397,2026-03-28,C,Jabalpur,Normal,Male,Home and lifestyle,43.88,2.0,4.39,92.15,46.4,44.88,41.36,Cash,4.8
+INV-00398,2026-04-01,C,Jabalpur,Member,Male,Electronic accessories,50.34,3.0,7.55,158.58,91.22,37.72,59.81,Ewallet,7.7
+INV-00399,2026-06-14,C,Jabalpur,Member,Female,Health and beauty,57.39,6.0,17.22,361.56,187.56,43.36,156.79,Credit card,6.8
+INV-00400,2026-07-15,B,Indore,Normal,Female,Health and beauty,58.6,4.0,11.72,246.1,146.94,35.53,87.44,Credit card,7.8
+INV-00401,2026-07-01,A,Bhopal,Member,Female,Electronic accessories,72.01,5.0,18.0,378.04,258.77,26.79,101.27,Cash,6.4
+INV-00402,2026-06-08,B,Indore,Normal,Male,Fashion accessories,70.69,4.0,14.14,296.89,192.95,30.25,89.8,Ewallet,7.8
+INV-00403,2026-04-16,B,Indore,Member,Male,Health and beauty,51.49,7.0,18.02,378.45,243.36,30.94,117.08,Cash,8.3
+INV-00404,2026-05-09,A,Bhopal,Normal,Female,Fashion accessories,57.15,8.0,22.86,480.04,291.79,34.45,165.39,Ewallet,4.7
+INV-00405,2026-02-08,A,Bhopal,Member,Male,Electronic accessories,71.65,6.0,21.5,451.42,296.06,29.65,133.86,Credit card,8.4
+INV-00406,2026-04-12,A,Bhopal,Normal,Male,Health and beauty,37.61,6.0,11.28,236.91,166.45,24.98,59.18,Cash,6.5
+INV-00407,2026-06-28,A,Bhopal,Normal,Female,Electronic accessories,62.32,8.0,24.93,523.51,333.49,31.54,165.09,Cash,8.6
+INV-00408,2026-07-14,C,Jabalpur,Member,Male,Health and beauty,53.41,4.0,10.68,224.32,112.85,44.93,100.78,Ewallet,6.9
+INV-00409,2026-01-15,B,Indore,Member,Female,Fashion accessories,40.7,8.0,16.28,341.85,231.72,27.45,93.85,Ewallet,6.9
+INV-00410,2026-06-15,C,Jabalpur,Member,Female,Home and lifestyle,70.53,4.0,14.11,296.25,218.12,21.61,64.02,Ewallet,6.4
+INV-00411,2026-06-27,C,Jabalpur,Normal,Male,Food and beverages,55.69,3.0,8.35,175.44,129.26,21.56,37.83,Ewallet,7.0
+INV-00412,2026-08-25,A,Bhopal,Member,Female,Home and lifestyle,62.8,4.0,12.56,263.77,144.4,40.49,106.81,Credit card,7.5
+INV-00413,2026-02-23,A,Bhopal,Member,Male,Food and beverages,36.53,3.0,5.48,115.05,61.18,42.07,48.4,Credit card,5.3
+INV-00414,2026-05-25,A,Bhopal,Normal,Male,Electronic accessories,54.14,5.0,13.53,284.21,149.88,42.5,120.8,Cash,7.7
+INV-00415,2026-07-22,C,Jabalpur,Member,Male,Fashion accessories,41.22,3.0,6.18,129.84,90.31,25.68,33.35,Ewallet,5.6
+INV-00416,2026-08-03,B,Indore,Normal,Male,Health and beauty,42.22,3.0,6.33,132.99,81.82,33.72,44.84,Credit card,6.0
+INV-00417,2026-06-12,A,Bhopal,Normal,Male,Home and lifestyle,66.02,5.0,16.51,346.62,225.22,30.26,104.9,Ewallet,5.0
+INV-00418,2026-04-07,B,Indore,Member,Male,Sports and travel,61.66,3.0,9.25,194.24,135.75,25.35,49.24,Ewallet,5.1
+INV-00419,2026-07-24,B,Indore,Member,Female,Electronic accessories,53.37,8.0,21.35,448.27,315.25,24.91,111.67,Ewallet,6.4
+INV-00420,2026-07-20,B,Indore,Member,Male,Fashion accessories,35.42,8.0,14.17,297.52,171.52,37.59,111.83,Ewallet,6.5
+INV-00421,2026-01-02,A,Bhopal,Normal,Male,Home and lifestyle,79.88,4.0,15.98,335.5,213.32,31.66,106.21,Credit card,6.8
+INV-00422,2026-01-23,A,Bhopal,Normal,Male,Electronic accessories,50.08,6.0,15.02,315.52,200.86,31.58,99.64,Cash,10.0
+INV-00423,2026-01-27,B,Indore,Member,Male,Health and beauty,39.76,4.0,7.95,166.97,121.03,22.76,38.0,Cash,6.1
+INV-00424,2026-07-20,B,Indore,Normal,Female,Home and lifestyle,58.94,4.0,11.79,247.57,127.94,43.56,107.84,Ewallet,7.6
+INV-00425,2026-01-22,B,Indore,Member,Female,Fashion accessories,68.52,5.0,17.13,359.71,256.0,24.07,86.58,Cash,7.3
+INV-00426,2026-03-10,A,Bhopal,Normal,Male,Home and lifestyle,46.26,1.0,2.31,48.57,34.53,24.15,11.73,Ewallet,6.1
+INV-00427,2026-03-12,A,Bhopal,Normal,Male,Sports and travel,70.49,5.0,17.62,370.06,227.81,33.68,124.62,Credit card,8.5
+INV-00428,2026-08-30,B,Indore,Normal,Female,Electronic accessories,41.89,6.0,12.57,263.9,162.53,33.65,88.8,Cash,6.3
+INV-00429,2026-01-02,A,Bhopal,Normal,Male,Sports and travel,90.15,6.0,27.04,567.94,310.02,40.65,230.88,Credit card,5.5
+INV-00430,2026-03-27,A,Bhopal,Member,Male,Sports and travel,64.98,5.0,16.24,341.13,171.89,44.85,153.0,Ewallet,4.6
+INV-00431,2026-02-21,C,Jabalpur,Normal,Female,Sports and travel,33.82,3.0,5.07,106.54,64.61,34.6,36.86,Credit card,9.1
+INV-00432,2026-03-16,C,Jabalpur,Normal,Female,Fashion accessories,44.02,4.0,8.8,184.89,128.26,25.87,47.83,Ewallet,7.5
+INV-00433,2026-07-21,A,Bhopal,Normal,Female,Sports and travel,83.01,4.0,16.6,348.63,221.5,31.7,110.53,Credit card,6.4
+INV-00434,2026-05-20,A,Bhopal,Member,Male,Electronic accessories,52.54,2.0,5.25,110.34,77.24,25.24,27.85,Credit card,7.9
+INV-00435,2026-07-24,A,Bhopal,Member,Male,Home and lifestyle,79.47,3.0,11.92,250.34,183.58,21.91,54.84,Cash,7.3
+INV-00436,2026-03-19,A,Bhopal,Normal,Female,Electronic accessories,62.08,9.0,27.93,586.61,331.42,38.74,227.26,Credit card,7.3
+INV-00437,2026-01-19,C,Jabalpur,Normal,Male,Sports and travel,76.88,5.0,19.22,403.61,244.14,34.75,140.25,Cash,8.3
+INV-00438,2026-08-11,C,Jabalpur,Normal,Female,Fashion accessories,40.52,6.0,12.16,255.26,132.25,43.43,110.85,Credit card,5.7
+INV-00439,2026-08-18,B,Indore,Member,Female,Food and beverages,43.54,5.0,10.88,228.57,139.85,34.05,77.83,Credit card,5.8
+INV-00440,2026-04-01,B,Indore,Member,Male,Electronic accessories,71.88,6.0,21.57,452.87,225.05,45.54,206.25,Credit card,8.0
+INV-00441,2026-07-23,A,Bhopal,Member,Female,Sports and travel,71.9,8.0,28.76,603.93,327.59,40.99,247.58,Ewallet,5.8
+INV-00442,2026-07-11,A,Bhopal,Member,Male,Food and beverages,31.59,5.0,7.9,165.87,93.97,38.58,64.0,Ewallet,5.9
+INV-00443,2026-06-23,B,Indore,Member,Male,Food and beverages,12.23,4.0,2.45,51.36,32.39,32.18,16.53,Credit card,7.0
+INV-00444,2026-03-17,B,Indore,Member,Female,Sports and travel,59.12,9.0,26.6,558.66,278.17,45.45,253.89,Credit card,7.9
+INV-00445,2026-03-31,C,Jabalpur,Normal,Male,Home and lifestyle,64.53,4.0,12.91,271.04,200.04,21.43,58.09,Credit card,7.7
+INV-00446,2026-03-31,B,Indore,Member,Male,Sports and travel,84.23,3.0,12.63,265.32,138.18,43.16,114.51,Credit card,7.8
+INV-00447,2026-01-18,B,Indore,Member,Female,Home and lifestyle,61.61,8.0,24.64,517.51,262.74,44.47,230.12,Ewallet,5.7
+INV-00448,2026-01-28,B,Indore,Member,Female,Fashion accessories,53.81,4.0,10.76,226.01,144.26,31.41,70.99,Cash,6.8
+INV-00449,2026-03-26,B,Indore,Normal,Male,Food and beverages,54.16,6.0,16.25,341.19,186.63,40.54,138.31,Ewallet,6.6
+INV-00450,2026-02-17,B,Indore,Normal,Male,Electronic accessories,54.04,7.0,18.92,397.22,241.88,34.35,136.43,Ewallet,6.1
+INV-00451,2026-02-20,B,Indore,Normal,Male,Sports and travel,68.75,5.0,17.19,360.94,221.26,33.94,122.49,Ewallet,6.9
+INV-00452,2026-03-13,A,Bhopal,Member,Female,Fashion accessories,35.94,5.0,8.98,188.67,112.95,35.37,66.74,Credit card,6.7
+INV-00453,2026-04-04,B,Indore,Member,Male,Home and lifestyle,61.73,4.0,12.35,259.28,163.76,32.08,83.17,Ewallet,6.1
+INV-00454,2026-05-06,B,Indore,Normal,Male,Food and beverages,55.23,5.0,13.81,289.94,169.07,36.93,107.06,Cash,6.7
+INV-00455,2026-03-31,B,Indore,Normal,Female,Home and lifestyle,82.29,3.0,12.34,259.21,140.04,41.21,106.83,Credit card,6.1
+INV-00456,2026-03-18,C,Jabalpur,Member,Female,Food and beverages,43.44,2.0,4.34,91.23,48.98,41.55,37.91,Ewallet,6.7
+INV-00457,2026-01-30,A,Bhopal,Normal,Female,Electronic accessories,57.14,5.0,14.29,300.0,214.4,23.77,71.31,Cash,8.3
+INV-00458,2026-02-05,B,Indore,Normal,Male,Food and beverages,58.19,8.0,23.27,488.76,342.86,25.09,122.63,Ewallet,8.7
+INV-00459,2026-06-27,B,Indore,Member,Female,Fashion accessories,68.81,6.0,20.64,433.49,269.86,32.98,142.98,Cash,7.3
+INV-00460,2026-03-22,A,Bhopal,Member,Male,Sports and travel,72.42,2.0,7.24,152.08,85.56,38.98,59.28,Credit card,5.1
+INV-00461,2026-02-19,B,Indore,Normal,Male,Sports and travel,61.68,8.0,24.67,518.09,383.63,21.19,109.79,Cash,7.6
+INV-00462,2026-08-04,B,Indore,Normal,Female,Sports and travel,64.03,5.0,16.01,336.15,218.31,30.29,101.83,Ewallet,6.7
+INV-00463,2026-07-14,A,Bhopal,Normal,Female,Electronic accessories,44.99,4.0,9.0,188.96,113.14,35.36,66.82,Ewallet,5.9
+INV-00464,2026-02-13,B,Indore,Normal,Female,Sports and travel,68.45,3.0,10.27,215.6,107.66,45.3,97.68,Cash,7.4
+INV-00465,2026-05-20,A,Bhopal,Member,Male,Home and lifestyle,72.68,3.0,10.9,228.95,160.72,25.04,57.33,Cash,9.0
+INV-00466,2026-01-27,C,Jabalpur,Member,Male,Fashion accessories,58.88,4.0,11.78,247.28,157.61,31.5,77.9,Credit card,6.7
+INV-00467,2026-03-09,A,Bhopal,Member,Male,Home and lifestyle,52.98,2.0,5.3,111.25,76.79,26.22,29.17,Credit card,7.0
+INV-00468,2026-07-27,A,Bhopal,Member,Male,Electronic accessories,53.75,7.0,18.81,395.07,284.11,23.32,92.14,Credit card,7.1
+INV-00469,2026-04-20,B,Indore,Member,Female,Electronic accessories,66.85,3.0,10.03,210.59,146.31,25.76,54.26,Credit card,4.7
+INV-00470,2026-05-26,C,Jabalpur,Normal,Female,Home and lifestyle,48.09,5.0,12.02,252.49,179.48,24.15,60.99,Ewallet,6.3
+INV-00471,2026-03-16,C,Jabalpur,Normal,Female,Food and beverages,10.0,4.0,2.0,42.0,26.75,31.55,13.25,Ewallet,6.7
+INV-00472,2026-04-16,C,Jabalpur,Normal,Female,Health and beauty,56.52,3.0,8.48,178.03,104.09,36.77,65.47,Credit card,7.9
+INV-00473,2026-02-07,A,Bhopal,Normal,Female,Fashion accessories,75.77,2.0,7.58,159.12,94.25,36.01,57.3,Credit card,6.1
+INV-00474,2026-05-06,B,Indore,Normal,Male,Electronic accessories,41.76,6.0,12.53,263.09,157.08,35.53,93.47,Ewallet,7.8
+INV-00475,2026-07-23,A,Bhopal,Normal,Male,Health and beauty,58.66,7.0,20.53,431.14,285.18,29.09,125.43,Credit card,5.8
+INV-00476,2026-04-27,C,Jabalpur,Normal,Female,Sports and travel,57.73,9.0,25.98,545.51,333.33,34.13,186.2,Credit card,6.9
+INV-00477,2026-01-24,C,Jabalpur,Normal,Male,Fashion accessories,33.6,5.0,8.4,176.41,128.18,22.58,39.83,Credit card,9.1
+INV-00478,2026-04-12,C,Jabalpur,Normal,Female,Electronic accessories,67.99,3.0,10.2,214.18,149.47,25.45,54.51,Cash,7.7
+INV-00479,2026-03-14,A,Bhopal,Member,Male,Home and lifestyle,67.29,4.0,13.46,282.61,208.48,21.47,60.67,Credit card,6.3
+INV-00480,2026-07-15,C,Jabalpur,Member,Female,Health and beauty,60.61,7.0,21.21,445.45,251.04,38.88,173.2,Cash,7.6
+INV-00481,2026-01-05,C,Jabalpur,Member,Male,Health and beauty,37.71,5.0,9.43,197.96,100.97,44.23,87.56,Cash,7.9
+INV-00482,2026-04-20,C,Jabalpur,Member,Male,Electronic accessories,58.97,4.0,11.79,247.68,152.01,33.87,83.88,Ewallet,6.0
+INV-00483,2026-03-12,C,Jabalpur,Normal,Male,Health and beauty,45.07,2.0,4.51,94.65,48.79,43.69,41.36,Ewallet,7.7
+INV-00484,2026-06-16,B,Indore,Member,Male,Electronic accessories,40.01,5.0,10.0,210.04,106.64,44.47,93.4,Cash,9.3
+INV-00485,2026-07-13,C,Jabalpur,Normal,Female,Electronic accessories,57.59,4.0,11.52,241.86,155.77,30.83,74.58,Credit card,8.2
+INV-00486,2026-05-03,A,Bhopal,Member,Female,Health and beauty,56.8,4.0,11.36,238.55,149.18,32.7,78.01,Cash,6.8
+INV-00487,2026-01-03,B,Indore,Normal,Female,Fashion accessories,60.45,6.0,18.13,380.81,214.23,38.98,148.44,Credit card,7.4
+INV-00488,2026-02-03,B,Indore,Member,Female,Sports and travel,72.14,3.0,10.82,227.23,153.54,27.67,62.87,Cash,5.8
+INV-00489,2026-01-27,C,Jabalpur,Normal,Male,Health and beauty,64.31,4.0,12.86,270.1,189.38,25.12,67.86,Credit card,5.7
+INV-00490,2026-07-18,A,Bhopal,Member,Female,Electronic accessories,58.24,5.0,14.56,305.76,151.43,45.71,139.77,Cash,7.8
+INV-00491,2026-06-16,A,Bhopal,Normal,Male,Electronic accessories,42.17,2.0,4.22,88.56,55.71,32.34,28.64,Credit card,8.7
+INV-00492,2026-02-08,B,Indore,Normal,Female,Sports and travel,71.52,3.0,10.73,225.28,145.44,30.68,69.12,Ewallet,10.0
+INV-00493,2026-07-12,A,Bhopal,Normal,Male,Health and beauty,28.56,3.0,4.28,89.95,48.49,41.33,37.18,Credit card,6.4
+INV-00494,2026-02-05,A,Bhopal,Normal,Female,Electronic accessories,54.56,8.0,21.82,458.29,303.28,29.06,133.19,Ewallet,7.4
+INV-00495,2026-07-04,B,Indore,Normal,Female,Food and beverages,22.85,3.0,3.43,71.99,45.96,31.39,22.6,Credit card,8.4
+INV-00496,2026-03-19,B,Indore,Member,Male,Electronic accessories,70.41,7.0,24.64,517.52,292.76,38.67,200.12,Ewallet,8.3
+INV-00497,2026-08-18,A,Bhopal,Normal,Male,Electronic accessories,84.2,5.0,21.05,442.07,271.31,33.87,149.71,Ewallet,5.9
+INV-00498,2026-06-02,B,Indore,Member,Male,Health and beauty,63.71,2.0,6.37,133.78,69.75,43.1,57.66,Credit card,9.8
+INV-00499,2026-08-09,A,Bhopal,Normal,Male,Food and beverages,55.53,4.0,11.11,233.21,144.26,33.38,77.85,Cash,9.7
+INV-00500,2026-05-01,A,Bhopal,Member,Female,Health and beauty,32.71,8.0,13.08,274.76,167.79,34.17,93.89,Ewallet,8.1
+INV-00501,2026-08-25,A,Bhopal,Normal,Male,Health and beauty,56.38,4.0,11.28,236.81,135.79,37.9,89.74,Cash,6.0
+INV-00502,2026-04-17,B,Indore,Normal,Female,Sports and travel,48.63,7.0,17.02,357.44,187.68,42.73,152.74,Cash,8.5
+INV-00503,2026-02-09,B,Indore,Member,Male,Home and lifestyle,64.0,3.0,9.6,201.59,125.09,33.19,66.9,Ewallet,7.2
+INV-00504,2026-07-26,C,Jabalpur,Normal,Male,Electronic accessories,61.41,5.0,15.35,322.43,230.2,23.84,76.88,Cash,6.0
+INV-00505,2026-06-16,C,Jabalpur,Member,Male,Fashion accessories,26.89,4.0,5.38,112.92,78.67,25.56,28.87,Credit card,5.5
+INV-00506,2026-08-05,C,Jabalpur,Member,Female,Electronic accessories,57.42,6.0,17.22,361.72,209.42,37.34,135.07,Ewallet,7.7
+INV-00507,2026-04-27,B,Indore,Member,Male,Food and beverages,35.08,4.0,7.02,147.35,93.13,32.04,47.21,Cash,6.0
+INV-00508,2026-02-14,B,Indore,Member,Female,Health and beauty,61.94,5.0,15.49,325.2,206.61,31.7,103.1,Credit card,7.4
+INV-00509,2026-03-30,A,Bhopal,Normal,Female,Food and beverages,36.14,3.0,5.42,113.84,68.58,35.0,39.84,Ewallet,8.0
+INV-00510,2026-08-12,C,Jabalpur,Member,Female,Home and lifestyle,47.41,6.0,14.22,298.69,194.53,30.11,89.94,Ewallet,7.3
+INV-00511,2026-05-15,B,Indore,Normal,Female,Health and beauty,54.88,6.0,16.46,345.74,233.04,27.83,96.24,Cash,7.8
+INV-00512,2026-01-15,B,Indore,Member,Male,Sports and travel,61.58,8.0,24.63,517.28,382.02,21.39,110.62,Ewallet,6.5
+INV-00513,2026-08-17,C,Jabalpur,Member,Female,Food and beverages,29.55,4.0,5.91,124.11,79.89,30.87,38.31,Credit card,6.6
+INV-00514,2026-08-08,A,Bhopal,Member,Female,Health and beauty,44.72,3.0,6.71,140.87,98.38,25.4,35.78,Cash,8.0
+INV-00515,2026-02-08,B,Indore,Member,Male,Electronic accessories,59.56,8.0,23.82,500.32,366.46,21.99,110.04,Ewallet,8.5
+INV-00516,2026-08-23,A,Bhopal,Normal,Male,Fashion accessories,83.81,4.0,16.76,352.02,179.53,44.24,155.73,Credit card,8.1
+INV-00517,2026-01-31,B,Indore,Member,Female,Food and beverages,58.61,4.0,11.72,246.14,148.83,34.77,85.59,Ewallet,7.7
+INV-00518,2026-01-12,B,Indore,Member,Male,Sports and travel,57.57,3.0,8.64,181.35,107.68,35.86,65.04,Credit card,6.6
+INV-00519,2026-03-21,C,Jabalpur,Member,Male,Home and lifestyle,16.99,5.0,4.25,89.19,45.74,43.95,39.2,Ewallet,9.5
+INV-00520,2026-05-25,A,Bhopal,Member,Male,Home and lifestyle,81.74,5.0,20.44,429.14,217.21,44.62,191.49,Ewallet,9.3
+INV-00521,2026-07-17,C,Jabalpur,Member,Female,Electronic accessories,57.45,5.0,14.36,301.63,155.15,43.8,132.12,Ewallet,5.6
+INV-00522,2026-03-01,B,Indore,Normal,Female,Food and beverages,37.72,3.0,5.66,118.82,69.38,36.85,43.78,Credit card,7.0
+INV-00523,2026-06-18,A,Bhopal,Normal,Female,Sports and travel,76.69,2.0,7.67,161.05,106.49,29.11,46.89,Ewallet,4.7
+INV-00524,2026-04-18,C,Jabalpur,Member,Female,Sports and travel,47.41,3.0,7.11,149.34,86.36,37.41,55.87,Credit card,9.1
+INV-00525,2026-08-24,A,Bhopal,Normal,Male,Electronic accessories,56.55,5.0,14.14,296.86,160.18,41.28,122.55,Cash,7.7
+INV-00526,2026-05-29,C,Jabalpur,Member,Male,Health and beauty,56.69,4.0,11.34,238.1,134.46,38.77,92.3,Ewallet,8.3
+INV-00527,2026-04-22,B,Indore,Member,Female,Fashion accessories,68.53,6.0,20.56,431.73,257.61,35.57,153.57,Ewallet,6.4
+INV-00528,2026-08-26,C,Jabalpur,Normal,Male,Sports and travel,54.64,7.0,19.12,401.58,267.69,28.58,114.76,Cash,8.3
+INV-00529,2026-08-30,A,Bhopal,Member,Female,Electronic accessories,51.5,5.0,12.87,270.36,179.11,28.99,78.37,Ewallet,5.9
+INV-00530,2026-04-30,A,Bhopal,Normal,Female,Home and lifestyle,43.99,7.0,15.39,323.29,213.68,29.14,94.22,Cash,6.8
+INV-00531,2026-02-23,C,Jabalpur,Normal,Male,Sports and travel,26.22,5.0,6.56,137.66,87.04,32.01,44.06,Ewallet,6.5
+INV-00532,2026-02-10,A,Bhopal,Normal,Female,Fashion accessories,32.44,3.0,4.87,102.2,70.35,26.39,26.97,Ewallet,7.5
+INV-00533,2026-02-07,C,Jabalpur,Member,Male,Health and beauty,25.3,7.0,8.86,185.96,104.13,39.24,72.98,Cash,7.6
+INV-00534,2026-03-18,A,Bhopal,Member,Female,Home and lifestyle,83.33,3.0,12.5,262.5,162.26,33.43,87.74,Credit card,5.4
+INV-00535,2026-05-23,C,Jabalpur,Member,Female,Fashion accessories,65.92,2.0,6.59,138.42,100.82,22.4,31.01,Cash,6.1
+INV-00536,2026-02-05,C,Jabalpur,Member,Female,Health and beauty,46.42,4.0,9.28,194.95,121.71,32.8,63.95,Credit card,5.6
+INV-00537,2026-02-03,C,Jabalpur,Normal,Male,Electronic accessories,54.47,3.0,8.17,171.57,122.81,23.66,40.59,Cash,7.2
+INV-00538,2026-01-22,C,Jabalpur,Normal,Female,Food and beverages,56.54,6.0,16.96,356.22,193.94,40.8,145.32,Ewallet,7.6
+INV-00539,2026-08-20,A,Bhopal,Normal,Female,Fashion accessories,40.58,5.0,10.15,213.07,110.15,43.54,92.77,Ewallet,5.9
+INV-00540,2026-07-27,C,Jabalpur,Member,Female,Home and lifestyle,59.0,5.0,14.75,309.74,203.2,29.63,91.79,Credit card,5.6
+INV-00541,2026-08-25,A,Bhopal,Normal,Male,Food and beverages,53.96,3.0,8.09,169.97,121.47,23.77,40.4,Cash,7.8
+INV-00542,2026-04-20,B,Indore,Normal,Female,Electronic accessories,87.25,8.0,34.9,732.91,404.9,39.99,293.11,Credit card,5.4
+INV-00543,2026-04-25,A,Bhopal,Member,Female,Electronic accessories,51.13,4.0,10.23,214.73,142.23,29.0,62.28,Cash,7.6
+INV-00544,2026-08-14,B,Indore,Normal,Female,Food and beverages,49.95,6.0,14.98,314.68,228.66,22.57,71.03,Ewallet,6.2
+INV-00545,2026-04-18,B,Indore,Member,Female,Electronic accessories,69.06,6.0,20.72,435.09,294.04,27.66,120.32,Credit card,6.3
+INV-00546,2026-04-02,C,Jabalpur,Normal,Male,Sports and travel,43.78,6.0,13.13,275.81,164.28,35.68,98.4,Credit card,7.5
+INV-00547,2026-04-10,B,Indore,Member,Female,Home and lifestyle,46.33,9.0,20.85,437.86,253.62,37.31,163.38,Ewallet,6.4
+INV-00548,2026-08-18,A,Bhopal,Member,Male,Home and lifestyle,57.68,3.0,8.65,181.68,126.37,25.69,46.67,Cash,6.3
+INV-00549,2026-03-01,C,Jabalpur,Member,Female,Electronic accessories,49.72,8.0,19.89,417.62,258.59,33.32,139.15,Cash,7.9
+INV-00550,2026-07-28,A,Bhopal,Member,Female,Fashion accessories,54.25,5.0,13.56,284.8,208.21,22.13,63.03,Cash,9.6
+INV-00551,2026-04-10,C,Jabalpur,Member,Female,Home and lifestyle,74.7,7.0,26.14,549.03,372.77,27.34,150.11,Ewallet,5.7
+INV-00552,2026-07-08,A,Bhopal,Normal,Female,Fashion accessories,36.0,3.0,5.4,113.39,76.3,27.95,31.69,Credit card,8.0
+INV-00553,2026-05-26,B,Indore,Member,Female,Food and beverages,55.68,5.0,13.92,292.34,196.93,27.88,81.49,Credit card,7.0
+INV-00554,2026-05-07,C,Jabalpur,Normal,Female,Food and beverages,73.79,7.0,25.83,542.38,362.22,28.45,154.33,Cash,7.4
+INV-00555,2026-03-01,A,Bhopal,Member,Female,Food and beverages,51.21,5.0,12.8,268.86,197.15,21.91,58.9,Cash,6.7
+INV-00556,2026-08-23,A,Bhopal,Member,Female,Food and beverages,53.91,5.0,13.48,283.04,167.72,35.98,101.84,Ewallet,8.8
+INV-00557,2026-07-25,A,Bhopal,Member,Female,Home and lifestyle,63.94,5.0,15.98,335.67,239.37,23.93,80.31,Ewallet,7.1
+INV-00558,2026-02-06,C,Jabalpur,Normal,Female,Health and beauty,93.4,4.0,18.68,392.29,258.7,29.29,114.92,Ewallet,9.8
+INV-00559,2026-04-12,C,Jabalpur,Member,Male,Food and beverages,17.25,6.0,5.18,108.69,66.15,34.37,37.36,Ewallet,9.1
+INV-00560,2026-02-10,A,Bhopal,Normal,Male,Fashion accessories,64.01,7.0,22.4,470.49,239.38,44.36,208.7,Cash,6.1
+INV-00561,2026-05-24,A,Bhopal,Normal,Female,Fashion accessories,46.81,2.0,4.68,98.3,70.96,23.06,22.67,Cash,5.5
+INV-00562,2026-04-07,C,Jabalpur,Normal,Female,Home and lifestyle,64.7,3.0,9.71,203.82,137.48,27.79,56.63,Ewallet,7.9
+INV-00563,2026-06-29,A,Bhopal,Normal,Female,Food and beverages,37.32,4.0,7.46,156.75,101.74,30.33,47.54,Ewallet,8.0
+INV-00564,2026-07-27,A,Bhopal,Member,Female,Food and beverages,30.8,3.0,4.62,97.01,49.34,44.38,43.05,Credit card,7.5
+INV-00565,2026-07-10,A,Bhopal,Member,Male,Health and beauty,65.54,7.0,22.94,481.72,331.37,26.45,127.41,Credit card,6.6
+INV-00566,2026-08-15,A,Bhopal,Normal,Male,Health and beauty,51.88,8.0,20.75,435.82,292.06,28.22,123.0,Ewallet,7.1
+INV-00567,2026-06-27,A,Bhopal,Normal,Male,Health and beauty,28.1,4.0,5.62,118.04,67.45,38.09,44.96,Credit card,6.5
+INV-00568,2026-01-13,C,Jabalpur,Normal,Male,Sports and travel,52.05,2.0,5.21,109.31,69.17,31.96,34.93,Credit card,6.2
+INV-00569,2026-05-07,C,Jabalpur,Normal,Male,Sports and travel,53.77,6.0,16.13,338.78,247.75,22.11,74.89,Ewallet,5.2
+INV-00570,2026-08-10,B,Indore,Member,Female,Food and beverages,36.9,3.0,5.53,116.22,80.1,26.32,30.59,Cash,6.7
+INV-00571,2026-01-09,C,Jabalpur,Member,Male,Home and lifestyle,62.43,2.0,6.24,131.1,94.45,23.2,30.41,Ewallet,6.1
+INV-00572,2026-03-29,A,Bhopal,Normal,Female,Electronic accessories,61.79,4.0,12.36,259.52,183.77,24.43,63.39,Credit card,6.6
+INV-00573,2026-08-18,B,Indore,Normal,Male,Health and beauty,51.6,1.0,2.58,54.18,33.7,33.04,17.9,Credit card,6.8
+INV-00574,2026-06-17,B,Indore,Normal,Female,Electronic accessories,52.7,4.0,10.54,221.34,139.46,32.23,71.34,Ewallet,7.3
+INV-00575,2026-02-18,A,Bhopal,Normal,Male,Sports and travel,69.83,5.0,17.46,366.63,240.17,29.73,109.0,Ewallet,6.1
+INV-00576,2026-04-11,A,Bhopal,Normal,Female,Food and beverages,41.29,3.0,6.19,130.06,65.69,44.73,58.17,Ewallet,5.7
+INV-00577,2026-01-23,A,Bhopal,Normal,Female,Home and lifestyle,56.12,2.0,5.61,117.86,69.81,36.0,42.43,Ewallet,7.6
+INV-00578,2026-06-13,A,Bhopal,Member,Male,Home and lifestyle,52.4,6.0,15.72,330.13,175.43,42.1,138.98,Credit card,7.4
+INV-00579,2026-04-12,A,Bhopal,Normal,Male,Sports and travel,66.91,4.0,13.38,281.0,183.39,29.97,84.23,Ewallet,8.1
+INV-00580,2026-02-17,B,Indore,Normal,Male,Home and lifestyle,44.42,5.0,11.1,233.2,129.2,39.83,92.89,Ewallet,6.6
+INV-00581,2026-04-23,A,Bhopal,Normal,Female,Sports and travel,76.7,6.0,23.01,483.24,335.16,25.88,125.07,Credit card,5.5
+INV-00582,2026-02-08,B,Indore,Member,Female,Fashion accessories,47.41,2.0,4.74,99.56,66.32,28.63,28.5,Cash,8.0
+INV-00583,2026-04-16,C,Jabalpur,Member,Female,Food and beverages,33.88,4.0,6.78,142.31,75.66,42.07,59.87,Credit card,6.9
+INV-00584,2026-04-18,C,Jabalpur,Normal,Female,Food and beverages,31.49,2.0,3.15,66.14,40.68,33.73,22.31,Cash,6.8
+INV-00585,2026-08-20,A,Bhopal,Member,Female,Fashion accessories,46.79,6.0,14.04,294.8,210.56,23.81,70.2,Ewallet,6.3
+INV-00586,2026-02-14,C,Jabalpur,Member,Female,Electronic accessories,76.63,4.0,15.33,321.86,189.05,36.5,117.48,Ewallet,9.9
+INV-00587,2026-06-24,B,Indore,Member,Female,Sports and travel,52.65,6.0,15.79,331.69,202.46,34.2,113.43,Credit card,8.5
+INV-00588,2026-08-22,A,Bhopal,Member,Female,Fashion accessories,62.41,7.0,21.85,458.75,330.51,23.19,106.39,Cash,6.1
+INV-00589,2026-03-25,B,Indore,Normal,Female,Home and lifestyle,79.19,8.0,31.67,665.17,451.57,27.35,181.92,Credit card,7.6
+INV-00590,2026-05-14,B,Indore,Member,Male,Sports and travel,69.01,3.0,10.35,217.38,143.92,29.03,63.11,Ewallet,7.5
+INV-00591,2026-05-30,B,Indore,Member,Female,Health and beauty,70.61,5.0,17.65,370.69,202.31,40.66,150.73,Credit card,6.7
+INV-00592,2026-08-14,C,Jabalpur,Normal,Male,Home and lifestyle,72.13,7.0,25.25,530.17,380.45,23.48,124.48,Cash,6.1
+INV-00593,2026-06-05,B,Indore,Member,Female,Sports and travel,88.98,3.0,13.35,280.28,153.1,40.61,113.83,Ewallet,7.4
+INV-00594,2026-06-05,A,Bhopal,Normal,Female,Fashion accessories,65.44,8.0,26.18,549.73,318.75,37.25,204.8,Cash,7.6
+INV-00595,2026-06-26,C,Jabalpur,Member,Male,Electronic accessories,47.0,5.0,11.75,246.75,146.25,35.97,88.75,Credit card,7.3
+INV-00596,2026-01-06,C,Jabalpur,Normal,Male,Home and lifestyle,74.3,5.0,18.58,390.1,210.75,41.21,160.77,Ewallet,7.0
+INV-00597,2026-06-28,B,Indore,Member,Female,Fashion accessories,35.09,5.0,8.77,184.2,93.12,44.69,82.31,Ewallet,6.8
+INV-00598,2026-04-24,C,Jabalpur,Normal,Male,Home and lifestyle,66.82,9.0,30.07,631.47,426.26,27.74,175.14,Cash,4.9
+INV-00599,2026-04-24,A,Bhopal,Normal,Male,Electronic accessories,49.86,5.0,12.47,261.77,169.64,30.43,79.66,Credit card,6.3
+INV-00600,2026-07-30,C,Jabalpur,Member,Female,Health and beauty,49.08,6.0,14.72,309.19,193.6,32.62,100.87,Ewallet,7.2
+INV-00601,2026-02-04,B,Indore,Member,Female,Food and beverages,42.4,4.0,8.48,178.08,107.43,34.91,62.17,Ewallet,4.7
+INV-00602,2026-08-03,C,Jabalpur,Member,Female,Health and beauty,37.36,7.0,13.07,274.57,186.09,27.46,75.4,Cash,9.3
+INV-00603,2026-06-30,C,Jabalpur,Normal,Male,Electronic accessories,54.58,3.0,8.19,171.94,108.69,32.03,55.06,Credit card,6.5
+INV-00604,2026-06-12,B,Indore,Member,Female,Health and beauty,46.51,5.0,11.63,244.2,150.17,33.74,82.4,Ewallet,9.1
+INV-00605,2026-02-15,B,Indore,Normal,Male,Sports and travel,52.35,4.0,10.47,219.89,136.39,33.21,73.03,Ewallet,7.0
+INV-00606,2026-07-11,C,Jabalpur,Member,Male,Fashion accessories,38.21,2.0,3.82,80.24,56.31,25.06,20.11,Ewallet,7.3
+INV-00607,2026-08-07,A,Bhopal,Member,Female,Food and beverages,55.49,3.0,8.32,174.78,105.99,34.59,60.46,Cash,6.9
+INV-00608,2026-03-10,B,Indore,Normal,Female,Fashion accessories,75.58,3.0,11.34,238.09,139.54,36.63,87.22,Credit card,9.2
+INV-00609,2026-06-24,C,Jabalpur,Normal,Female,Health and beauty,51.04,9.0,22.97,482.36,329.4,26.95,130.0,Cash,6.7
+INV-00610,2026-01-03,B,Indore,Normal,Male,Electronic accessories,41.51,5.0,10.38,217.93,137.41,32.18,70.14,Credit card,5.8
+INV-00611,2026-03-12,C,Jabalpur,Normal,Male,Sports and travel,52.21,5.0,13.05,274.13,201.17,21.85,59.9,Cash,5.7
+INV-00612,2026-03-19,A,Bhopal,Normal,Female,Fashion accessories,71.18,5.0,17.8,373.7,238.9,31.31,117.0,Ewallet,5.2
+INV-00613,2026-08-04,C,Jabalpur,Normal,Male,Home and lifestyle,50.98,6.0,15.29,321.19,175.11,40.72,130.78,Cash,8.7
+INV-00614,2026-03-28,B,Indore,Normal,Male,Home and lifestyle,60.65,5.0,15.16,318.42,175.49,40.12,127.76,Ewallet,7.4
+INV-00615,2026-08-17,C,Jabalpur,Normal,Female,Fashion accessories,45.76,5.0,11.44,240.22,126.72,42.49,102.06,Ewallet,7.2
+INV-00616,2026-08-19,C,Jabalpur,Normal,Male,Health and beauty,56.87,3.0,8.53,179.14,90.25,44.86,80.37,Cash,6.3
+INV-00617,2026-06-17,C,Jabalpur,Normal,Male,Sports and travel,81.36,5.0,20.34,427.12,299.26,25.17,107.52,Credit card,6.8
+INV-00618,2026-07-08,B,Indore,Member,Male,Health and beauty,32.62,7.0,11.42,239.75,166.11,25.95,62.23,Credit card,8.7
+INV-00619,2026-05-17,A,Bhopal,Normal,Male,Fashion accessories,50.15,6.0,15.04,315.94,232.87,21.53,68.03,Cash,7.2
+INV-00620,2026-08-04,C,Jabalpur,Member,Male,Fashion accessories,68.97,5.0,17.24,362.09,208.57,37.64,136.28,Ewallet,6.5
+INV-00621,2026-03-08,A,Bhopal,Member,Male,Fashion accessories,43.77,5.0,10.94,229.77,130.86,38.29,87.97,Cash,8.7
+INV-00622,2026-02-27,A,Bhopal,Normal,Male,Fashion accessories,34.2,3.0,5.13,107.73,68.91,31.27,33.69,Credit card,7.0
+INV-00623,2026-03-08,A,Bhopal,Normal,Male,Food and beverages,62.58,5.0,15.65,328.55,218.99,28.59,93.92,Credit card,8.3
+INV-00624,2026-08-10,B,Indore,Member,Male,Fashion accessories,48.05,10.0,24.03,504.58,309.25,33.95,171.3,Credit card,7.2
+INV-00625,2026-08-11,B,Indore,Normal,Male,Fashion accessories,57.44,5.0,14.36,301.55,190.38,32.1,96.8,Cash,7.0
+INV-00626,2026-02-08,C,Jabalpur,Member,Male,Electronic accessories,68.86,4.0,13.77,289.22,212.83,21.65,62.62,Cash,6.9
+INV-00627,2026-08-21,B,Indore,Member,Male,Sports and travel,36.93,5.0,9.23,193.9,110.33,38.34,74.34,Credit card,7.2
+INV-00628,2026-01-21,A,Bhopal,Normal,Female,Sports and travel,60.86,3.0,9.13,191.71,139.56,22.44,43.02,Ewallet,8.8
+INV-00629,2026-04-26,A,Bhopal,Member,Female,Home and lifestyle,39.39,5.0,9.85,206.8,107.37,43.32,89.59,Cash,7.0
+INV-00630,2026-07-21,A,Bhopal,Member,Male,Health and beauty,34.39,2.0,3.44,72.22,36.16,45.17,32.62,Cash,8.2
+INV-00631,2026-05-03,B,Indore,Member,Female,Sports and travel,56.3,4.0,11.26,236.45,162.97,26.31,62.22,Cash,7.5
+INV-00632,2026-01-04,C,Jabalpur,Member,Female,Home and lifestyle,55.76,7.0,19.52,409.84,297.04,22.76,93.29,Cash,8.2
+INV-00633,2026-03-05,B,Indore,Normal,Male,Electronic accessories,55.15,4.0,11.03,231.64,147.97,31.36,72.63,Ewallet,7.7
+INV-00634,2026-05-31,B,Indore,Member,Female,Home and lifestyle,44.2,4.0,8.84,185.65,95.74,43.67,81.07,Credit card,6.0
+INV-00635,2026-03-16,A,Bhopal,Normal,Male,Sports and travel,60.13,4.0,12.03,252.53,144.02,38.21,96.48,Credit card,5.8
+INV-00636,2026-03-29,C,Jabalpur,Normal,Female,Sports and travel,74.17,2.0,7.42,155.76,108.4,25.64,39.94,Ewallet,5.0
+INV-00637,2026-07-27,C,Jabalpur,Member,Female,Sports and travel,58.51,6.0,17.55,368.64,231.69,32.39,119.39,Ewallet,7.1
+INV-00638,2026-02-24,C,Jabalpur,Member,Female,Fashion accessories,18.51,6.0,5.55,116.63,73.46,32.25,37.61,Ewallet,8.1
+INV-00639,2026-07-22,C,Jabalpur,Normal,Male,Health and beauty,50.1,6.0,15.03,315.66,183.44,37.12,117.18,Credit card,9.3
+INV-00640,2026-06-02,B,Indore,Member,Female,Health and beauty,68.09,6.0,20.43,428.97,236.28,40.16,172.27,Ewallet,6.7
+INV-00641,2026-04-24,A,Bhopal,Member,Male,Sports and travel,38.96,1.0,1.95,40.91,26.83,29.66,12.13,Cash,7.1
+INV-00642,2026-06-27,A,Bhopal,Member,Male,Fashion accessories,11.34,8.0,4.53,95.23,55.94,36.5,34.76,Cash,7.8
+INV-00643,2026-05-14,A,Bhopal,Member,Male,Home and lifestyle,56.72,7.0,19.85,416.86,298.89,23.54,98.12,Credit card,6.1
+INV-00644,2026-07-04,A,Bhopal,Member,Male,Food and beverages,38.16,6.0,11.45,240.42,122.0,44.49,106.97,Ewallet,7.7
+INV-00645,2026-02-20,A,Bhopal,Member,Male,Food and beverages,16.97,4.0,3.39,71.28,40.76,38.05,27.12,Credit card,5.7
+INV-00646,2026-04-02,C,Jabalpur,Normal,Male,Fashion accessories,51.05,7.0,17.87,375.19,194.04,43.52,163.29,Ewallet,7.5
+INV-00647,2026-08-22,B,Indore,Normal,Male,Electronic accessories,48.59,5.0,12.15,255.11,179.65,24.82,63.32,Ewallet,7.3
+INV-00648,2026-01-23,A,Bhopal,Normal,Female,Health and beauty,27.22,3.0,4.08,85.75,46.7,40.78,34.97,Credit card,6.9
+INV-00649,2026-01-20,C,Jabalpur,Member,Male,Fashion accessories,68.89,4.0,13.78,289.35,158.6,40.43,116.97,Cash,5.3
+INV-00650,2026-03-17,B,Indore,Normal,Female,Home and lifestyle,81.1,7.0,28.38,596.06,305.24,44.03,262.44,Ewallet,6.3
+INV-00651,2026-01-11,A,Bhopal,Normal,Male,Home and lifestyle,42.08,8.0,16.83,353.47,236.46,28.34,100.18,Cash,6.1
+INV-00652,2026-08-06,A,Bhopal,Member,Female,Health and beauty,47.72,6.0,14.32,300.65,182.12,34.66,104.21,Cash,7.0
+INV-00653,2026-04-02,A,Bhopal,Normal,Female,Sports and travel,76.05,6.0,22.81,479.1,326.46,27.1,129.83,Ewallet,8.4
+INV-00654,2026-01-30,B,Indore,Normal,Male,Sports and travel,39.74,7.0,13.91,292.12,148.37,44.45,129.84,Ewallet,7.7
+INV-00655,2026-08-06,B,Indore,Normal,Female,Sports and travel,62.34,4.0,12.47,261.81,146.39,39.32,102.95,Ewallet,5.3
+INV-00656,2026-01-16,B,Indore,Member,Male,Electronic accessories,39.6,8.0,15.84,332.68,217.8,29.77,99.04,Credit card,7.0
+INV-00657,2026-05-26,B,Indore,Normal,Female,Fashion accessories,55.87,4.0,11.17,234.66,153.34,29.89,70.15,Cash,8.5
+INV-00658,2026-06-06,C,Jabalpur,Member,Male,Health and beauty,46.25,4.0,9.25,194.25,134.44,26.03,50.56,Credit card,6.2
+INV-00659,2026-04-16,A,Bhopal,Member,Female,Sports and travel,29.8,6.0,8.94,187.72,98.19,42.93,80.59,Ewallet,9.4
+INV-00660,2026-06-30,A,Bhopal,Member,Male,Fashion accessories,46.31,6.0,13.89,291.77,197.66,27.49,80.21,Cash,6.4
+INV-00661,2026-06-08,B,Indore,Normal,Female,Health and beauty,59.76,6.0,17.93,376.46,251.38,28.46,107.15,Cash,5.5
+INV-00662,2026-06-14,B,Indore,Member,Female,Sports and travel,73.69,7.0,25.79,541.6,355.42,29.61,160.39,Ewallet,7.7
+INV-00663,2026-05-10,C,Jabalpur,Normal,Female,Sports and travel,55.42,5.0,13.85,290.95,174.84,35.14,102.25,Ewallet,7.0
+INV-00664,2026-03-03,B,Indore,Normal,Female,Home and lifestyle,68.87,4.0,13.77,289.27,212.92,21.63,62.57,Cash,7.0
+INV-00665,2026-04-07,B,Indore,Member,Female,Sports and travel,58.09,6.0,17.43,365.96,192.58,42.61,155.94,Cash,4.5
+INV-00666,2026-04-25,C,Jabalpur,Normal,Male,Health and beauty,43.49,6.0,13.05,274.0,181.21,29.1,79.75,Ewallet,7.2
+INV-00667,2026-07-10,C,Jabalpur,Member,Female,Fashion accessories,44.26,6.0,13.28,278.82,145.11,43.19,120.43,Cash,7.9
+INV-00668,2026-05-21,A,Bhopal,Member,Male,Health and beauty,45.02,3.0,6.75,141.83,96.81,26.98,38.26,Credit card,8.5
+INV-00669,2026-06-17,B,Indore,Normal,Male,Fashion accessories,34.17,3.0,5.13,107.63,68.97,31.16,33.54,Ewallet,7.5
+INV-00670,2026-02-27,A,Bhopal,Normal,Male,Sports and travel,64.34,5.0,16.09,337.79,169.51,45.06,152.19,Credit card,6.4
+INV-00671,2026-04-26,B,Indore,Member,Female,Health and beauty,58.46,6.0,17.54,368.29,194.23,42.5,156.52,Ewallet,8.7
+INV-00672,2026-06-12,B,Indore,Normal,Female,Home and lifestyle,69.9,4.0,13.98,293.58,204.49,25.59,75.12,Ewallet,7.6
+INV-00673,2026-02-05,A,Bhopal,Normal,Female,Fashion accessories,78.14,6.0,23.44,492.29,278.68,38.63,190.17,Ewallet,8.5
+INV-00674,2026-01-31,A,Bhopal,Member,Male,Sports and travel,43.48,4.0,8.7,182.6,122.64,28.08,51.27,Credit card,8.3
+INV-00675,2026-03-28,A,Bhopal,Normal,Female,Health and beauty,40.53,4.0,8.11,170.21,116.28,26.92,45.82,Credit card,6.3
+INV-00676,2026-05-31,C,Jabalpur,Normal,Male,Health and beauty,60.34,4.0,12.07,253.41,168.38,28.79,72.96,Cash,7.1
+INV-00677,2026-02-04,C,Jabalpur,Member,Female,Sports and travel,83.54,5.0,20.88,438.57,249.21,38.41,168.47,Cash,7.7
+INV-00678,2026-05-30,B,Indore,Member,Female,Sports and travel,75.16,5.0,18.79,394.59,259.56,29.46,116.23,Credit card,4.9
+INV-00679,2026-04-10,A,Bhopal,Normal,Male,Fashion accessories,51.31,5.0,12.83,269.38,139.61,43.41,116.94,Cash,7.7
+INV-00680,2026-06-27,B,Indore,Normal,Male,Electronic accessories,74.02,3.0,11.1,233.16,126.86,40.83,95.2,Credit card,6.7
+INV-00681,2026-04-26,C,Jabalpur,Member,Male,Electronic accessories,73.85,6.0,22.16,465.27,282.91,34.43,160.21,Cash,5.6
+INV-00682,2026-05-12,C,Jabalpur,Normal,Female,Home and lifestyle,60.35,9.0,27.16,570.33,395.22,25.94,147.95,Ewallet,8.2
+INV-00683,2026-03-16,B,Indore,Normal,Female,Fashion accessories,55.03,6.0,16.51,346.71,237.14,26.84,93.07,Credit card,6.8
+INV-00684,2026-02-15,B,Indore,Normal,Female,Food and beverages,40.85,3.0,6.13,128.68,72.27,39.08,50.29,Credit card,7.0
+INV-00685,2026-05-30,B,Indore,Normal,Male,Food and beverages,42.26,4.0,8.45,177.49,104.4,36.42,64.64,Credit card,7.9
+INV-00686,2026-01-04,B,Indore,Member,Female,Food and beverages,24.92,6.0,7.48,157.01,78.41,45.3,71.12,Cash,7.5
+INV-00687,2026-01-15,A,Bhopal,Normal,Female,Electronic accessories,51.58,8.0,20.63,433.27,299.88,26.03,112.76,Credit card,7.6
+INV-00688,2026-02-07,B,Indore,Normal,Female,Health and beauty,39.65,4.0,7.93,166.53,96.58,37.24,62.02,Credit card,6.8
+INV-00689,2026-07-28,A,Bhopal,Member,Female,Sports and travel,63.39,5.0,15.85,332.81,170.6,43.98,146.37,Credit card,7.2
+INV-00690,2026-03-02,B,Indore,Normal,Female,Food and beverages,49.16,6.0,14.75,309.69,181.07,36.77,113.87,Credit card,7.3
+INV-00691,2026-07-21,B,Indore,Normal,Female,Fashion accessories,43.41,8.0,17.36,364.64,260.64,23.76,86.64,Ewallet,7.3
+INV-00692,2026-06-08,A,Bhopal,Member,Male,Sports and travel,87.22,4.0,17.44,366.32,182.93,45.3,165.95,Credit card,5.4
+INV-00693,2026-06-04,B,Indore,Member,Male,Electronic accessories,50.17,5.0,12.54,263.38,193.03,21.95,57.81,Cash,7.7
+INV-00694,2026-01-20,C,Jabalpur,Member,Female,Electronic accessories,75.19,2.0,7.52,157.89,78.98,45.22,71.4,Ewallet,6.5
+INV-00695,2026-05-23,B,Indore,Member,Female,Home and lifestyle,41.6,2.0,4.16,87.37,52.41,35.25,30.79,Cash,9.7
+INV-00696,2026-03-26,A,Bhopal,Member,Female,Sports and travel,56.65,5.0,14.16,297.41,164.72,39.85,118.52,Ewallet,9.1
+INV-00697,2026-01-14,A,Bhopal,Normal,Male,Fashion accessories,67.34,6.0,20.2,424.27,231.58,40.66,172.49,Credit card,7.6
+INV-00698,2026-01-19,B,Indore,Normal,Female,Fashion accessories,31.49,10.0,15.75,330.69,179.52,40.95,135.42,Credit card,8.6
+INV-00699,2026-07-21,B,Indore,Member,Male,Food and beverages,16.37,7.0,5.73,120.29,70.77,36.41,43.8,Cash,6.8
+INV-00700,2026-03-31,B,Indore,Member,Male,Electronic accessories,58.45,4.0,11.69,245.47,146.26,35.65,87.52,Ewallet,6.2
+INV-00701,2026-07-12,A,Bhopal,Normal,Female,Food and beverages,41.77,3.0,6.27,131.57,97.23,21.33,28.07,Ewallet,7.6
+INV-00702,2026-03-03,B,Indore,Member,Female,Fashion accessories,34.71,4.0,6.94,145.79,95.6,29.67,43.25,Cash,8.2
+INV-00703,2026-08-23,A,Bhopal,Normal,Male,Health and beauty,59.52,6.0,17.86,374.97,208.75,39.57,148.36,Cash,6.0
+INV-00704,2026-08-22,A,Bhopal,Normal,Male,Food and beverages,51.57,3.0,7.73,162.43,96.98,35.53,57.72,Cash,8.4
+INV-00705,2026-06-16,A,Bhopal,Normal,Female,Electronic accessories,37.2,1.0,1.86,39.06,25.92,28.87,11.28,Credit card,5.7
+INV-00706,2026-07-17,A,Bhopal,Member,Female,Food and beverages,34.88,4.0,6.98,146.51,95.14,30.3,44.39,Ewallet,7.4
+INV-00707,2026-02-24,B,Indore,Normal,Female,Fashion accessories,38.1,10.0,19.05,400.05,290.89,22.52,90.11,Ewallet,5.4
+INV-00708,2026-08-13,C,Jabalpur,Normal,Female,Fashion accessories,58.86,6.0,17.66,370.83,197.41,42.0,155.75,Credit card,7.7
+INV-00709,2026-04-28,A,Bhopal,Normal,Female,Fashion accessories,85.44,2.0,8.54,179.42,131.52,21.93,39.35,Ewallet,8.5
+INV-00710,2026-07-23,A,Bhopal,Member,Female,Home and lifestyle,58.53,4.0,11.71,245.81,154.73,32.29,79.38,Credit card,6.8
+INV-00711,2026-04-26,B,Indore,Normal,Male,Fashion accessories,50.87,5.0,12.72,267.05,142.13,42.02,112.2,Ewallet,4.0
+INV-00712,2026-01-31,B,Indore,Member,Female,Food and beverages,24.35,6.0,7.31,153.43,99.8,30.19,46.33,Credit card,7.6
+INV-00713,2026-06-29,B,Indore,Normal,Female,Health and beauty,58.76,6.0,17.63,370.17,233.45,32.17,119.09,Ewallet,6.4
+INV-00714,2026-06-05,B,Indore,Normal,Male,Health and beauty,35.84,5.0,8.96,188.18,105.44,39.21,73.79,Cash,7.2
+INV-00715,2026-01-08,C,Jabalpur,Member,Female,Sports and travel,55.51,6.0,16.65,349.73,235.01,28.04,98.07,Ewallet,7.4
+INV-00716,2026-07-24,B,Indore,Normal,Female,Food and beverages,42.66,3.0,6.4,134.37,89.85,28.37,38.12,Ewallet,8.3
+INV-00717,2026-07-23,C,Jabalpur,Normal,Female,Fashion accessories,46.34,9.0,20.85,437.92,268.05,34.03,149.02,Cash,7.4
+INV-00718,2026-02-01,B,Indore,Member,Male,Health and beauty,64.92,6.0,19.48,409.01,282.97,26.05,106.56,Cash,7.1
+INV-00719,2026-03-20,C,Jabalpur,Normal,Female,Electronic accessories,25.74,4.0,5.15,108.09,58.05,41.53,44.89,Cash,6.9
+INV-00720,2026-05-12,B,Indore,Member,Female,Electronic accessories,28.51,2.0,2.85,59.88,37.72,32.24,19.31,Ewallet,6.7
+INV-00721,2026-02-19,C,Jabalpur,Member,Female,Health and beauty,19.29,5.0,4.82,101.3,61.65,34.38,34.83,Credit card,8.0
+INV-00722,2026-05-21,C,Jabalpur,Member,Male,Sports and travel,52.65,2.0,5.27,110.57,66.23,35.34,39.08,Cash,7.9
+INV-00723,2026-02-20,A,Bhopal,Normal,Male,Fashion accessories,42.54,4.0,8.51,178.69,126.22,24.6,43.96,Ewallet,8.4
+INV-00724,2026-03-02,B,Indore,Normal,Female,Health and beauty,52.3,5.0,13.08,274.59,148.13,41.29,113.39,Credit card,6.8
+INV-00725,2026-04-26,A,Bhopal,Normal,Female,Home and lifestyle,46.16,7.0,16.16,339.28,227.03,28.32,96.09,Cash,7.1
+INV-00726,2026-03-22,B,Indore,Member,Female,Sports and travel,75.16,2.0,7.52,157.84,78.32,45.62,72.0,Ewallet,5.7
+INV-00727,2026-07-02,C,Jabalpur,Normal,Male,Fashion accessories,52.71,3.0,7.91,166.03,97.68,36.4,60.44,Credit card,8.8
+INV-00728,2026-07-07,A,Bhopal,Normal,Male,Home and lifestyle,61.47,2.0,6.15,129.08,67.2,43.18,55.74,Cash,8.9
+INV-00729,2026-05-05,C,Jabalpur,Member,Female,Food and beverages,48.6,5.0,12.15,255.14,181.69,24.02,61.3,Cash,6.9
+INV-00730,2026-03-13,A,Bhopal,Member,Male,Electronic accessories,47.13,7.0,16.5,346.44,176.96,44.16,152.97,Credit card,7.7
+INV-00731,2026-07-06,B,Indore,Member,Female,Health and beauty,60.19,3.0,9.03,189.6,108.04,38.26,72.53,Credit card,8.2
+INV-00732,2026-07-16,B,Indore,Member,Female,Food and beverages,29.38,5.0,7.35,154.25,81.82,42.19,65.09,Cash,5.5
+INV-00733,2026-05-19,B,Indore,Member,Male,Sports and travel,65.06,4.0,13.01,273.24,173.32,31.81,86.91,Cash,6.5
+INV-00734,2026-05-31,C,Jabalpur,Normal,Female,Fashion accessories,45.66,4.0,9.13,191.76,141.03,21.69,41.6,Cash,6.5
+INV-00735,2026-04-12,B,Indore,Member,Female,Home and lifestyle,48.46,3.0,7.27,152.65,99.9,29.8,45.49,Credit card,8.2
+INV-00736,2026-06-07,C,Jabalpur,Member,Female,Fashion accessories,40.07,4.0,8.01,168.28,112.64,28.3,47.62,Cash,7.6
+INV-00737,2026-08-31,A,Bhopal,Member,Male,Food and beverages,49.49,4.0,9.9,207.88,120.31,37.36,77.67,Credit card,6.9
+INV-00738,2026-07-14,A,Bhopal,Member,Female,Sports and travel,55.03,4.0,11.01,231.12,158.69,26.58,61.42,Ewallet,7.0
+INV-00739,2026-06-21,A,Bhopal,Normal,Male,Electronic accessories,48.95,4.0,9.79,205.6,137.83,28.2,57.98,Cash,7.5
+INV-00740,2026-01-12,B,Indore,Normal,Female,Health and beauty,41.05,3.0,6.16,129.3,95.6,21.3,27.54,Credit card,5.8
+INV-00741,2026-08-01,B,Indore,Normal,Female,Home and lifestyle,50.74,6.0,15.22,319.69,209.32,29.76,95.15,Ewallet,8.6
+INV-00742,2026-05-31,B,Indore,Member,Male,Fashion accessories,64.47,7.0,22.56,473.83,254.23,41.58,197.04,Ewallet,7.5
+INV-00743,2026-05-13,C,Jabalpur,Normal,Male,Sports and travel,72.14,3.0,10.82,227.24,131.53,37.36,84.89,Cash,8.1
+INV-00744,2026-06-04,B,Indore,Member,Male,Health and beauty,47.29,6.0,14.19,297.9,210.34,24.63,73.37,Ewallet,6.8
+INV-00745,2026-06-14,A,Bhopal,Member,Female,Home and lifestyle,58.04,5.0,14.51,304.73,220.97,22.73,69.25,Ewallet,8.5
+INV-00746,2026-07-03,B,Indore,Member,Male,Health and beauty,49.16,6.0,14.75,309.71,216.79,25.24,78.17,Credit card,6.3
+INV-00747,2026-05-04,C,Jabalpur,Normal,Male,Fashion accessories,73.41,7.0,25.69,539.53,286.27,42.18,227.57,Ewallet,7.5
+INV-00748,2026-08-02,A,Bhopal,Member,Female,Sports and travel,70.32,5.0,17.58,369.19,249.08,27.77,102.54,Ewallet,7.0
+INV-00749,2026-02-11,B,Indore,Member,Female,Electronic accessories,69.47,6.0,20.84,437.68,256.57,36.62,160.27,Ewallet,6.3
+INV-00750,2026-02-16,A,Bhopal,Normal,Female,Food and beverages,58.3,5.0,14.57,306.07,222.32,22.6,69.17,Credit card,7.2
+INV-00751,2026-07-30,C,Jabalpur,Member,Female,Home and lifestyle,65.91,3.0,9.89,207.61,129.01,33.1,68.71,Cash,9.0
+INV-00752,2026-08-11,C,Jabalpur,Member,Female,Sports and travel,33.61,2.0,3.36,70.58,51.57,22.17,15.65,Credit card,7.9
+INV-00753,2026-07-23,B,Indore,Member,Male,Food and beverages,26.72,2.0,2.67,56.1,37.75,27.96,15.68,Ewallet,4.3
+INV-00754,2026-08-25,B,Indore,Member,Female,Sports and travel,72.96,4.0,14.59,306.43,186.71,34.31,105.12,Ewallet,10.0
+INV-00755,2026-01-05,A,Bhopal,Normal,Female,Electronic accessories,41.26,5.0,10.32,216.64,121.97,38.94,84.35,Cash,6.1
+INV-00756,2026-08-19,A,Bhopal,Member,Female,Food and beverages,39.8,2.0,3.98,83.58,52.12,32.88,27.48,Ewallet,7.4
+INV-00757,2026-08-19,B,Indore,Member,Male,Food and beverages,40.07,7.0,14.03,294.53,179.83,34.18,100.68,Cash,6.5
+INV-00758,2026-01-12,B,Indore,Normal,Female,Fashion accessories,49.4,4.0,9.88,207.47,128.62,33.24,68.96,Credit card,5.3
+INV-00759,2026-07-16,B,Indore,Normal,Female,Sports and travel,69.87,5.0,17.47,366.84,249.01,27.36,100.36,Cash,8.2
+INV-00760,2026-07-16,A,Bhopal,Member,Male,Electronic accessories,58.25,2.0,5.83,122.34,68.06,39.61,48.45,Cash,8.1
+INV-00761,2026-03-07,B,Indore,Member,Female,Electronic accessories,85.59,5.0,21.4,449.35,268.57,35.47,159.39,Cash,6.3
+INV-00762,2026-01-02,A,Bhopal,Member,Male,Sports and travel,74.59,6.0,22.38,469.93,312.35,28.77,135.21,Cash,8.3
+INV-00763,2026-04-20,A,Bhopal,Normal,Male,Fashion accessories,48.9,4.0,9.78,205.37,117.7,37.92,77.88,Credit card,7.4
+INV-00764,2026-04-04,B,Indore,Normal,Male,Food and beverages,48.93,2.0,4.89,102.75,72.68,24.5,25.18,Credit card,7.1
+INV-00765,2026-07-20,B,Indore,Normal,Female,Food and beverages,21.21,8.0,8.49,178.2,99.83,39.22,69.89,Ewallet,6.6
+INV-00766,2026-03-06,B,Indore,Normal,Male,Home and lifestyle,41.5,10.0,20.75,435.7,275.4,32.03,139.55,Credit card,6.8
+INV-00767,2026-06-18,C,Jabalpur,Member,Male,Health and beauty,23.73,2.0,2.37,49.84,25.08,44.91,22.38,Credit card,7.4
+INV-00768,2026-01-26,C,Jabalpur,Normal,Male,Electronic accessories,68.39,4.0,13.68,287.23,202.07,24.89,71.48,Credit card,9.8
+INV-00769,2026-06-25,B,Indore,Member,Female,Fashion accessories,60.78,4.0,12.16,255.26,148.37,37.11,94.74,Cash,6.8
+INV-00770,2026-07-25,B,Indore,Member,Male,Health and beauty,60.45,4.0,12.09,253.88,159.56,32.39,82.23,Credit card,5.8
+INV-00771,2026-01-17,B,Indore,Member,Male,Home and lifestyle,67.89,8.0,27.15,570.24,300.32,42.57,242.77,Ewallet,8.5
+INV-00772,2026-04-09,A,Bhopal,Normal,Female,Sports and travel,56.27,2.0,5.63,118.17,64.22,40.89,48.32,Credit card,10.0
+INV-00773,2026-06-13,C,Jabalpur,Normal,Female,Sports and travel,72.03,6.0,21.61,453.79,249.2,40.32,182.99,Ewallet,7.1
+INV-00774,2026-07-25,B,Indore,Normal,Female,Food and beverages,35.39,4.0,7.08,148.65,91.08,33.97,50.49,Ewallet,7.0
+INV-00775,2026-05-13,B,Indore,Member,Female,Fashion accessories,60.24,7.0,21.08,442.76,275.02,33.12,146.66,Cash,7.9
+INV-00776,2026-06-17,B,Indore,Member,Female,Health and beauty,56.16,5.0,14.04,294.83,203.87,26.09,76.92,Credit card,6.6
+INV-00777,2026-04-01,C,Jabalpur,Normal,Male,Fashion accessories,46.05,5.0,11.51,241.77,124.25,43.85,106.01,Cash,8.3
+INV-00778,2026-07-08,B,Indore,Member,Female,Fashion accessories,63.17,7.0,22.11,464.32,286.84,33.46,155.37,Cash,5.7
+INV-00779,2026-05-24,C,Jabalpur,Normal,Male,Food and beverages,40.68,4.0,8.14,170.84,106.68,32.79,56.02,Credit card,6.1
+INV-00780,2026-06-05,A,Bhopal,Normal,Male,Electronic accessories,53.71,4.0,10.74,225.59,153.89,27.02,60.96,Cash,7.1
+INV-00781,2026-04-15,A,Bhopal,Member,Female,Food and beverages,25.11,5.0,6.28,131.83,77.91,36.14,47.65,Cash,6.5
+INV-00782,2026-01-30,A,Bhopal,Normal,Male,Food and beverages,60.75,1.0,3.04,63.79,32.83,43.77,27.92,Credit card,4.8
+INV-00783,2026-05-25,C,Jabalpur,Member,Male,Sports and travel,69.44,7.0,24.3,510.39,337.33,29.14,148.75,Credit card,7.4
+INV-00784,2026-04-28,B,Indore,Member,Male,Food and beverages,27.77,2.0,2.78,58.32,40.3,26.14,15.25,Ewallet,4.3
+INV-00785,2026-06-12,A,Bhopal,Member,Male,Electronic accessories,29.15,5.0,7.29,153.03,85.33,39.47,60.41,Cash,6.6
+INV-00786,2026-05-18,B,Indore,Normal,Female,Health and beauty,50.09,6.0,15.03,315.58,166.37,42.52,134.18,Ewallet,8.0
+INV-00787,2026-07-11,B,Indore,Member,Female,Home and lifestyle,68.14,5.0,17.04,357.74,186.19,43.19,154.52,Cash,7.2
+INV-00788,2026-08-17,B,Indore,Normal,Female,Food and beverages,27.18,4.0,5.44,114.15,68.02,35.65,40.7,Credit card,7.8
+INV-00789,2026-08-21,B,Indore,Normal,Female,Electronic accessories,96.1,7.0,33.63,706.33,374.01,42.29,298.69,Ewallet,5.9
+INV-00790,2026-03-09,A,Bhopal,Member,Female,Electronic accessories,59.31,5.0,14.83,311.38,188.89,34.58,107.66,Credit card,9.5
+INV-00791,2026-04-02,C,Jabalpur,Member,Female,Electronic accessories,65.51,9.0,29.48,619.09,439.2,24.3,150.41,Credit card,7.9
+INV-00792,2026-06-19,B,Indore,Member,Female,Sports and travel,49.48,4.0,9.9,207.81,109.86,42.37,88.05,Credit card,6.5
+INV-00793,2026-03-22,B,Indore,Normal,Male,Sports and travel,71.57,8.0,28.63,601.17,317.12,42.49,255.42,Ewallet,5.1
+INV-00794,2026-05-11,C,Jabalpur,Normal,Female,Home and lifestyle,73.29,2.0,7.33,153.91,81.24,42.45,65.34,Credit card,6.5
+INV-00795,2026-05-15,A,Bhopal,Normal,Female,Sports and travel,68.05,5.0,17.01,357.29,253.42,24.31,86.86,Cash,8.2
+INV-00796,2026-06-25,B,Indore,Normal,Female,Electronic accessories,70.58,1.0,3.53,74.11,43.54,36.49,27.04,Credit card,5.8
+INV-00797,2026-06-26,B,Indore,Member,Female,Health and beauty,56.54,3.0,8.48,178.09,118.06,28.95,51.56,Ewallet,4.7
+INV-00798,2026-04-03,A,Bhopal,Normal,Female,Food and beverages,42.88,7.0,15.01,315.15,185.65,36.33,114.5,Cash,8.7
+INV-00799,2026-05-01,A,Bhopal,Normal,Male,Food and beverages,33.61,7.0,11.76,247.03,165.7,28.16,69.56,Ewallet,5.0
+INV-00800,2026-04-18,B,Indore,Normal,Male,Fashion accessories,55.98,3.0,8.4,176.33,97.4,40.0,70.53,Credit card,7.4
+INV-00801,2026-02-16,A,Bhopal,Member,Female,Food and beverages,52.63,4.0,10.53,221.06,114.39,43.49,96.15,Credit card,6.2
+INV-00802,2026-07-25,C,Jabalpur,Normal,Male,Electronic accessories,45.81,7.0,16.03,336.68,213.68,31.77,106.96,Ewallet,6.8
+INV-00803,2026-07-09,C,Jabalpur,Normal,Female,Electronic accessories,70.18,6.0,21.05,442.13,250.42,38.6,170.65,Ewallet,7.3
+INV-00804,2026-08-17,B,Indore,Normal,Male,Fashion accessories,26.58,2.0,2.66,55.82,33.86,34.58,19.3,Ewallet,7.7
+INV-00805,2026-05-26,B,Indore,Normal,Female,Health and beauty,51.59,4.0,10.32,216.66,116.1,41.65,90.24,Credit card,8.5
+INV-00806,2026-07-28,A,Bhopal,Normal,Female,Home and lifestyle,70.77,6.0,21.23,445.82,316.83,24.17,107.76,Cash,6.3
+INV-00807,2026-04-03,A,Bhopal,Normal,Male,Home and lifestyle,43.25,6.0,12.97,272.45,158.88,36.92,100.6,Ewallet,7.6
+INV-00808,2026-08-11,A,Bhopal,Member,Female,Fashion accessories,60.68,9.0,27.31,573.45,340.57,35.85,205.56,Credit card,4.0
+INV-00809,2026-03-25,A,Bhopal,Normal,Male,Fashion accessories,47.12,4.0,9.42,197.89,123.82,32.67,64.65,Credit card,4.8
+INV-00810,2026-03-15,B,Indore,Member,Female,Sports and travel,60.34,6.0,18.1,380.12,261.1,26.55,100.92,Cash,5.4
+INV-00811,2026-04-18,C,Jabalpur,Normal,Female,Fashion accessories,50.44,5.0,12.61,264.81,162.76,33.77,89.43,Ewallet,8.8
+INV-00812,2026-03-22,B,Indore,Normal,Male,Home and lifestyle,64.25,5.0,16.06,337.3,223.51,28.97,97.72,Cash,7.1
+INV-00813,2026-08-16,B,Indore,Normal,Male,Sports and travel,72.61,5.0,18.15,381.22,223.4,36.64,139.66,Cash,6.9
+INV-00814,2026-01-06,A,Bhopal,Member,Male,Electronic accessories,39.9,4.0,7.98,167.6,86.55,43.6,73.07,Credit card,7.5
+INV-00815,2026-01-21,C,Jabalpur,Member,Male,Electronic accessories,36.37,3.0,5.46,114.57,83.16,22.65,25.95,Ewallet,4.6
+INV-00816,2026-08-13,A,Bhopal,Member,Female,Sports and travel,64.44,2.0,6.44,135.32,88.06,30.16,40.82,Credit card,7.3
+INV-00817,2026-01-22,B,Indore,Normal,Female,Health and beauty,54.39,5.0,13.6,285.55,179.06,32.53,92.9,Ewallet,6.8
+INV-00818,2026-04-10,C,Jabalpur,Member,Female,Home and lifestyle,45.99,5.0,11.5,241.46,156.65,30.36,73.31,Credit card,5.3
+INV-00819,2026-02-02,B,Indore,Member,Female,Electronic accessories,67.72,3.0,10.16,213.33,146.26,26.68,56.91,Ewallet,6.6
+INV-00820,2026-08-23,B,Indore,Normal,Male,Home and lifestyle,70.29,6.0,21.09,442.86,258.6,36.84,163.17,Credit card,6.2
+INV-00821,2026-03-11,B,Indore,Normal,Female,Food and beverages,39.47,8.0,15.79,331.59,190.49,37.79,125.3,Credit card,5.7
+INV-00822,2026-02-15,B,Indore,Normal,Male,Food and beverages,18.61,2.0,1.86,39.07,25.58,29.78,11.64,Cash,6.6
+INV-00823,2026-03-21,B,Indore,Normal,Female,Home and lifestyle,67.63,6.0,20.29,426.08,241.8,38.49,163.98,Credit card,6.4
+INV-00824,2026-04-04,B,Indore,Normal,Female,Sports and travel,57.19,5.0,14.3,300.23,164.32,40.51,121.62,Ewallet,5.8
+INV-00825,2026-07-28,A,Bhopal,Normal,Male,Electronic accessories,82.99,2.0,8.3,174.28,114.32,29.64,51.66,Cash,8.4
+INV-00826,2026-08-25,A,Bhopal,Normal,Male,Sports and travel,76.66,3.0,11.5,241.49,127.3,42.53,102.7,Ewallet,8.7
+INV-00827,2026-03-16,B,Indore,Member,Female,Food and beverages,38.49,7.0,13.47,282.88,143.39,44.55,126.03,Cash,7.9
+INV-00828,2026-08-14,A,Bhopal,Normal,Male,Food and beverages,60.22,4.0,12.04,252.91,172.39,27.08,68.48,Ewallet,7.5
+INV-00829,2026-06-15,C,Jabalpur,Normal,Female,Sports and travel,26.33,1.0,1.32,27.65,19.3,25.42,7.03,Ewallet,5.6
+INV-00830,2026-03-03,B,Indore,Normal,Male,Food and beverages,47.68,8.0,19.07,400.48,210.87,42.58,170.53,Cash,4.6
+INV-00831,2026-03-10,B,Indore,Member,Female,Sports and travel,57.25,5.0,14.31,300.54,179.6,35.48,106.63,Ewallet,8.3
+INV-00832,2026-06-13,A,Bhopal,Normal,Male,Sports and travel,32.28,5.0,8.07,169.46,106.44,32.43,54.95,Credit card,8.9
+INV-00833,2026-03-24,B,Indore,Member,Female,Health and beauty,41.23,4.0,8.25,173.16,126.36,22.27,38.56,Credit card,8.1
+INV-00834,2026-01-27,A,Bhopal,Normal,Female,Home and lifestyle,46.98,6.0,14.1,296.0,192.15,30.32,89.76,Credit card,6.2
+INV-00835,2026-03-01,C,Jabalpur,Member,Female,Health and beauty,55.06,4.0,11.01,231.27,128.35,39.74,91.91,Cash,7.8
+INV-00836,2026-03-21,B,Indore,Normal,Male,Sports and travel,53.65,6.0,16.09,337.97,173.95,43.77,147.93,Credit card,6.2
+INV-00837,2026-01-21,A,Bhopal,Member,Male,Electronic accessories,73.09,7.0,25.58,537.2,396.98,21.34,114.64,Credit card,6.2
+INV-00838,2026-05-01,A,Bhopal,Member,Male,Electronic accessories,40.22,7.0,14.08,295.62,179.25,34.61,102.3,Credit card,6.7
+INV-00839,2026-02-01,C,Jabalpur,Member,Male,Fashion accessories,80.5,6.0,24.15,507.16,342.78,27.65,140.23,Credit card,7.6
+INV-00840,2026-07-08,B,Indore,Member,Male,Health and beauty,62.77,5.0,15.69,329.53,228.69,25.84,85.15,Credit card,7.1
+INV-00841,2026-06-20,A,Bhopal,Normal,Male,Electronic accessories,60.58,8.0,24.23,508.83,314.68,33.39,169.92,Cash,6.8
+INV-00842,2026-03-24,A,Bhopal,Member,Female,Electronic accessories,50.18,4.0,10.04,210.77,130.67,33.24,70.06,Ewallet,6.7
+INV-00843,2026-02-20,B,Indore,Member,Female,Home and lifestyle,62.16,7.0,21.76,456.87,299.58,29.67,135.53,Credit card,5.6
+INV-00844,2026-04-22,A,Bhopal,Member,Female,Home and lifestyle,36.72,2.0,3.67,77.1,55.81,22.85,17.62,Credit card,8.2
+INV-00845,2026-04-12,B,Indore,Member,Female,Electronic accessories,44.45,4.0,8.89,186.67,103.39,39.85,74.4,Cash,7.5
+INV-00846,2026-06-26,B,Indore,Member,Male,Food and beverages,18.79,2.0,1.88,39.46,21.93,39.65,15.65,Credit card,7.9
+INV-00847,2026-05-08,A,Bhopal,Normal,Female,Health and beauty,45.01,8.0,18.0,378.05,252.06,28.56,107.99,Ewallet,8.2
+INV-00848,2026-06-29,B,Indore,Member,Female,Food and beverages,51.0,5.0,12.75,267.74,137.27,43.97,117.72,Cash,7.3
+INV-00849,2026-05-23,A,Bhopal,Normal,Male,Fashion accessories,38.89,5.0,9.72,204.17,125.71,33.67,68.74,Credit card,5.7
+INV-00850,2026-04-07,A,Bhopal,Member,Male,Home and lifestyle,66.57,5.0,16.64,349.5,240.13,26.53,92.73,Credit card,7.6
+INV-00851,2026-04-23,B,Indore,Normal,Male,Food and beverages,41.87,7.0,14.65,307.71,225.72,21.88,67.34,Ewallet,7.0
+INV-00852,2026-03-31,A,Bhopal,Normal,Male,Home and lifestyle,53.53,7.0,18.73,393.42,256.14,30.13,118.55,Credit card,7.7
+INV-00853,2026-08-09,B,Indore,Member,Female,Food and beverages,54.01,4.0,10.8,226.85,125.92,39.73,90.12,Cash,8.3
+INV-00854,2026-07-29,B,Indore,Normal,Male,Home and lifestyle,72.14,4.0,14.43,303.0,224.47,21.16,64.11,Ewallet,7.0
+INV-00855,2026-04-08,B,Indore,Member,Female,Fashion accessories,42.13,6.0,12.64,265.4,192.05,22.88,60.72,Cash,7.9
+INV-00856,2026-06-08,B,Indore,Normal,Female,Electronic accessories,30.78,6.0,9.23,193.89,135.04,25.59,49.62,Cash,8.6
+INV-00857,2026-04-10,B,Indore,Normal,Female,Electronic accessories,39.82,6.0,11.95,250.87,131.24,42.93,107.69,Cash,7.2
+INV-00858,2026-06-14,A,Bhopal,Member,Female,Home and lifestyle,50.1,5.0,12.53,263.03,163.42,33.11,87.08,Cash,5.4
+INV-00859,2026-08-02,A,Bhopal,Member,Female,Electronic accessories,59.64,7.0,20.88,438.38,249.91,38.23,167.59,Ewallet,5.9
+INV-00860,2026-01-26,B,Indore,Normal,Male,Health and beauty,46.53,1.0,2.33,48.86,29.55,34.76,16.98,Cash,7.8
+INV-00861,2026-03-07,C,Jabalpur,Normal,Female,Health and beauty,48.82,8.0,19.53,410.06,215.24,42.75,175.3,Cash,6.4
+INV-00862,2026-08-27,A,Bhopal,Normal,Female,Electronic accessories,29.75,4.0,5.95,124.96,87.03,25.6,31.99,Cash,7.4
+INV-00863,2026-04-03,B,Indore,Normal,Male,Food and beverages,45.31,3.0,6.8,142.72,72.23,44.63,63.69,Credit card,6.8
+INV-00864,2026-06-07,A,Bhopal,Member,Female,Home and lifestyle,51.93,4.0,10.39,218.09,151.53,25.76,56.18,Credit card,9.1
+INV-00865,2026-02-25,A,Bhopal,Member,Female,Food and beverages,34.52,5.0,8.63,181.22,109.05,35.06,63.54,Credit card,4.3
+INV-00866,2026-02-18,B,Indore,Member,Female,Electronic accessories,49.69,5.0,12.42,260.89,138.28,42.24,110.19,Cash,7.9
+INV-00867,2026-07-11,B,Indore,Normal,Male,Health and beauty,30.56,7.0,10.7,224.61,117.14,43.09,96.78,Credit card,7.7
+INV-00868,2026-01-27,B,Indore,Member,Male,Electronic accessories,37.57,5.0,9.39,197.26,103.99,42.52,83.87,Cash,7.1
+INV-00869,2026-05-17,B,Indore,Normal,Male,Food and beverages,15.81,5.0,3.95,83.01,57.33,26.17,21.72,Credit card,6.5
+INV-00870,2026-03-25,B,Indore,Normal,Male,Home and lifestyle,31.33,4.0,6.27,131.59,86.51,29.5,38.82,Credit card,7.4
+INV-00871,2026-03-03,A,Bhopal,Member,Male,Food and beverages,47.77,5.0,11.94,250.79,136.24,40.92,102.61,Credit card,7.0
+INV-00872,2026-03-07,C,Jabalpur,Normal,Male,Home and lifestyle,67.77,6.0,20.33,426.93,248.68,36.99,157.92,Credit card,6.1
+INV-00873,2026-01-09,A,Bhopal,Member,Female,Home and lifestyle,69.89,7.0,24.46,513.68,312.26,34.45,176.96,Credit card,5.6
+INV-00874,2026-03-18,A,Bhopal,Member,Male,Electronic accessories,80.91,3.0,12.14,254.88,157.55,33.43,85.19,Ewallet,6.8
+INV-00875,2026-06-26,C,Jabalpur,Member,Female,Home and lifestyle,40.41,9.0,18.18,381.85,234.5,33.83,129.16,Ewallet,7.3
+INV-00876,2026-02-05,B,Indore,Normal,Female,Home and lifestyle,56.26,6.0,16.88,354.42,228.54,30.75,109.0,Ewallet,4.4
+INV-00877,2026-01-24,C,Jabalpur,Normal,Female,Food and beverages,10.0,4.0,2.0,42.0,31.07,21.27,8.93,Credit card,7.9
+INV-00878,2026-07-22,C,Jabalpur,Member,Male,Sports and travel,88.68,4.0,17.74,372.45,223.54,35.22,131.18,Credit card,7.8
+INV-00879,2026-05-28,B,Indore,Normal,Female,Health and beauty,46.47,4.0,9.29,195.19,104.52,41.69,81.38,Credit card,7.1
+INV-00880,2026-01-21,B,Indore,Normal,Male,Health and beauty,52.39,2.0,5.24,110.02,73.3,28.61,31.48,Credit card,7.9
+INV-00881,2026-08-27,B,Indore,Member,Female,Health and beauty,21.33,5.0,5.33,112.01,72.03,30.93,34.64,Cash,8.8
+INV-00882,2026-01-14,B,Indore,Member,Male,Home and lifestyle,37.09,5.0,9.27,194.73,105.2,41.21,80.25,Cash,4.7
+INV-00883,2026-05-09,A,Bhopal,Member,Female,Fashion accessories,55.4,5.0,13.85,290.87,170.53,36.61,106.49,Ewallet,6.6
+INV-00884,2026-04-11,C,Jabalpur,Member,Female,Sports and travel,58.79,5.0,14.7,308.63,168.92,40.51,125.01,Cash,6.4
+INV-00885,2026-02-07,C,Jabalpur,Normal,Female,Electronic accessories,45.8,4.0,9.16,192.36,101.66,42.39,81.54,Cash,6.3
+INV-00886,2026-05-21,C,Jabalpur,Normal,Female,Sports and travel,43.96,5.0,10.99,230.79,144.95,32.43,74.85,Cash,8.5
+INV-00887,2026-06-28,B,Indore,Member,Male,Electronic accessories,31.88,7.0,11.16,234.3,143.85,33.84,79.29,Cash,6.6
+INV-00888,2026-06-16,B,Indore,Member,Female,Food and beverages,48.98,6.0,14.7,308.6,178.37,37.44,115.54,Ewallet,6.8
+INV-00889,2026-04-21,A,Bhopal,Member,Female,Home and lifestyle,58.53,4.0,11.71,245.81,174.78,24.13,59.32,Cash,8.4
+INV-00890,2026-03-31,B,Indore,Normal,Male,Electronic accessories,27.14,4.0,5.43,114.0,75.61,28.91,32.96,Cash,6.3
+INV-00891,2026-03-20,A,Bhopal,Normal,Male,Electronic accessories,62.08,5.0,15.52,325.92,207.37,31.61,103.03,Cash,7.0
+INV-00892,2026-08-25,B,Indore,Member,Male,Electronic accessories,64.04,4.0,12.81,268.98,170.29,31.93,85.88,Ewallet,5.8
+INV-00893,2026-01-22,C,Jabalpur,Member,Female,Health and beauty,46.38,6.0,13.91,292.2,152.87,42.92,125.41,Credit card,7.8
+INV-00894,2026-08-11,C,Jabalpur,Member,Male,Home and lifestyle,74.53,4.0,14.91,313.04,183.66,36.57,114.47,Credit card,7.6
+INV-00895,2026-04-26,A,Bhopal,Member,Male,Sports and travel,103.48,7.0,36.22,760.61,392.62,43.62,331.76,Ewallet,7.4
+INV-00896,2026-02-22,B,Indore,Normal,Male,Food and beverages,34.91,7.0,12.22,256.6,139.27,40.96,105.11,Cash,6.6
+INV-00897,2026-06-27,C,Jabalpur,Member,Male,Fashion accessories,53.88,3.0,8.08,169.72,116.81,26.41,44.83,Cash,6.4
+INV-00898,2026-01-12,B,Indore,Member,Female,Home and lifestyle,67.84,8.0,27.14,569.88,353.9,33.14,188.85,Ewallet,6.5
+INV-00899,2026-06-08,C,Jabalpur,Member,Male,Home and lifestyle,77.15,6.0,23.15,486.06,351.43,22.94,111.49,Cash,7.2
+INV-00900,2026-04-10,A,Bhopal,Normal,Male,Fashion accessories,50.48,4.0,10.1,212.01,113.85,41.54,88.07,Credit card,6.7
+INV-00901,2026-08-11,A,Bhopal,Normal,Female,Fashion accessories,75.15,5.0,18.79,394.52,207.12,42.74,168.61,Credit card,7.8
+INV-00902,2026-07-01,B,Indore,Normal,Male,Health and beauty,75.88,4.0,15.18,318.69,172.98,40.96,130.54,Credit card,7.6
+INV-00903,2026-02-17,B,Indore,Normal,Female,Electronic accessories,61.98,5.0,15.5,325.4,241.52,21.02,68.39,Ewallet,8.0
+INV-00904,2026-03-20,C,Jabalpur,Normal,Male,Home and lifestyle,71.14,6.0,21.34,448.2,291.3,30.24,135.55,Credit card,5.7
+INV-00905,2026-06-25,A,Bhopal,Normal,Male,Home and lifestyle,42.4,5.0,10.6,222.62,134.97,34.61,77.05,Ewallet,6.4
+INV-00906,2026-05-09,C,Jabalpur,Member,Male,Home and lifestyle,73.96,7.0,25.89,543.61,356.8,29.6,160.93,Credit card,6.1
+INV-00907,2026-07-28,C,Jabalpur,Normal,Female,Health and beauty,45.94,8.0,18.37,385.87,222.31,37.63,145.19,Ewallet,8.2
+INV-00908,2026-06-18,C,Jabalpur,Member,Male,Electronic accessories,47.26,2.0,4.73,99.24,57.33,37.48,37.19,Cash,7.3
+INV-00909,2026-08-12,B,Indore,Member,Male,Fashion accessories,29.13,4.0,5.83,122.33,70.26,37.8,46.24,Ewallet,6.6
+INV-00910,2026-03-21,A,Bhopal,Normal,Male,Food and beverages,29.0,2.0,2.9,60.89,42.41,25.6,15.59,Cash,7.3
+INV-00911,2026-02-05,A,Bhopal,Member,Female,Food and beverages,50.48,5.0,12.62,265.04,172.04,30.33,80.37,Ewallet,8.0
+INV-00912,2026-05-15,C,Jabalpur,Normal,Female,Electronic accessories,55.03,6.0,16.51,346.67,237.77,26.65,92.4,Cash,8.9
+INV-00913,2026-02-10,B,Indore,Member,Female,Home and lifestyle,71.94,6.0,21.58,453.24,230.46,44.39,201.2,Ewallet,7.3
+INV-00914,2026-02-07,C,Jabalpur,Member,Male,Fashion accessories,52.69,5.0,13.17,276.63,158.35,38.0,105.11,Credit card,7.9
+INV-00915,2026-04-16,B,Indore,Normal,Male,Home and lifestyle,70.14,3.0,10.52,220.94,141.86,31.03,68.56,Ewallet,6.5
+INV-00916,2026-02-03,A,Bhopal,Member,Male,Electronic accessories,57.59,7.0,20.16,423.28,246.87,36.92,156.26,Cash,7.6
+INV-00917,2026-06-02,B,Indore,Member,Female,Electronic accessories,76.68,3.0,11.5,241.54,141.56,36.63,88.48,Ewallet,7.5
+INV-00918,2026-05-03,B,Indore,Normal,Male,Electronic accessories,50.65,3.0,7.6,159.56,115.46,22.88,36.5,Ewallet,5.3
+INV-00919,2026-05-02,B,Indore,Member,Female,Electronic accessories,58.7,3.0,8.8,184.9,125.83,27.19,50.27,Ewallet,7.1
+INV-00920,2026-01-04,B,Indore,Normal,Female,Home and lifestyle,55.72,5.0,13.93,292.54,203.56,25.65,75.05,Credit card,6.1
+INV-00921,2026-07-13,C,Jabalpur,Member,Female,Electronic accessories,58.26,4.0,11.65,244.7,157.77,30.76,75.28,Credit card,6.3
+INV-00922,2026-08-10,C,Jabalpur,Normal,Male,Food and beverages,46.14,4.0,9.23,193.79,131.56,27.35,53.0,Credit card,6.3
+INV-00923,2026-04-20,C,Jabalpur,Member,Male,Sports and travel,77.57,3.0,11.64,244.36,146.75,35.18,85.97,Credit card,5.6
+INV-00924,2026-08-29,B,Indore,Member,Female,Fashion accessories,63.51,6.0,19.05,400.13,236.95,36.02,144.12,Cash,6.1
+INV-00925,2026-01-11,C,Jabalpur,Normal,Female,Electronic accessories,68.3,4.0,13.66,286.88,193.15,27.91,80.07,Cash,8.6
+INV-00926,2026-06-11,B,Indore,Member,Male,Health and beauty,74.16,4.0,14.83,311.47,180.56,37.27,116.08,Cash,7.1
+INV-00927,2026-07-18,C,Jabalpur,Normal,Female,Home and lifestyle,58.4,3.0,8.76,183.96,131.15,23.94,44.05,Cash,7.1
+INV-00928,2026-01-14,B,Indore,Member,Male,Fashion accessories,22.05,3.0,3.31,69.47,43.84,32.12,22.31,Credit card,6.9
+INV-00929,2026-07-04,B,Indore,Member,Female,Food and beverages,33.92,3.0,5.09,106.84,77.7,22.52,24.06,Credit card,5.5
+INV-00930,2026-06-28,C,Jabalpur,Member,Male,Food and beverages,32.15,2.0,3.22,67.52,35.5,42.67,28.81,Cash,6.4
+INV-00931,2026-02-15,B,Indore,Member,Male,Sports and travel,73.14,2.0,7.31,153.6,84.56,40.19,61.73,Ewallet,7.6
+INV-00932,2026-06-16,A,Bhopal,Member,Female,Fashion accessories,31.25,7.0,10.94,229.66,137.16,35.52,81.57,Ewallet,6.7
+INV-00933,2026-06-12,C,Jabalpur,Member,Male,Home and lifestyle,52.91,5.0,13.23,277.77,151.35,40.75,113.19,Credit card,9.1
+INV-00934,2026-06-06,C,Jabalpur,Normal,Male,Electronic accessories,36.2,6.0,10.86,228.04,162.01,24.19,55.17,Ewallet,6.6
+INV-00935,2026-03-27,A,Bhopal,Member,Female,Food and beverages,14.79,4.0,2.96,62.12,43.57,25.11,15.6,Credit card,9.3
+INV-00936,2026-07-02,A,Bhopal,Normal,Male,Health and beauty,33.45,1.0,1.67,35.12,20.03,38.21,13.42,Ewallet,7.1
+INV-00937,2026-04-25,C,Jabalpur,Member,Female,Home and lifestyle,71.74,5.0,17.93,376.63,199.24,42.34,159.46,Credit card,7.9
+INV-00938,2026-01-01,C,Jabalpur,Normal,Female,Food and beverages,18.34,5.0,4.59,96.31,67.71,24.93,24.01,Cash,8.3
+INV-00939,2026-05-20,C,Jabalpur,Normal,Female,Health and beauty,49.24,5.0,12.31,258.49,131.47,44.38,114.71,Ewallet,8.2
+INV-00940,2026-04-27,B,Indore,Normal,Female,Sports and travel,93.24,4.0,18.65,391.59,232.14,35.96,140.8,Cash,5.0
+INV-00941,2026-08-14,A,Bhopal,Normal,Female,Food and beverages,26.49,5.0,6.62,139.07,98.1,24.7,34.35,Ewallet,5.2
+INV-00942,2026-06-17,A,Bhopal,Member,Female,Home and lifestyle,56.78,5.0,14.2,298.1,206.91,25.83,76.99,Credit card,9.3
+INV-00943,2026-08-03,B,Indore,Normal,Male,Food and beverages,43.08,6.0,12.92,271.38,134.56,45.66,123.9,Credit card,6.7
+INV-00944,2026-04-17,A,Bhopal,Member,Male,Electronic accessories,66.08,2.0,6.61,138.77,82.85,35.54,49.32,Cash,5.8
+INV-00945,2026-06-02,B,Indore,Member,Male,Food and beverages,57.66,2.0,5.77,121.08,88.16,22.43,27.16,Credit card,8.2
+INV-00946,2026-01-10,B,Indore,Normal,Male,Health and beauty,57.23,7.0,20.03,420.61,235.64,39.21,164.94,Ewallet,6.6
+INV-00947,2026-01-18,B,Indore,Member,Male,Sports and travel,63.38,7.0,22.18,465.85,274.71,36.27,168.96,Cash,5.9
+INV-00948,2026-08-09,A,Bhopal,Normal,Male,Home and lifestyle,62.81,5.0,15.7,329.77,212.56,30.78,101.51,Cash,6.0
+INV-00949,2026-06-06,B,Indore,Member,Female,Health and beauty,76.49,3.0,11.47,240.94,171.76,23.95,57.71,Cash,7.5
+INV-00950,2026-08-28,B,Indore,Normal,Male,Fashion accessories,41.16,3.0,6.17,129.65,73.03,38.91,50.44,Cash,6.7
+INV-00951,2026-05-15,A,Bhopal,Normal,Female,Food and beverages,37.91,7.0,13.27,278.65,201.59,22.89,63.78,Cash,6.6
+INV-00952,2026-07-06,B,Indore,Normal,Male,Fashion accessories,63.35,5.0,15.84,332.58,200.83,34.85,115.91,Credit card,8.1
+INV-00953,2026-03-01,C,Jabalpur,Normal,Female,Fashion accessories,61.37,6.0,18.41,386.66,221.63,37.92,146.61,Ewallet,7.9
+INV-00954,2026-06-10,A,Bhopal,Member,Male,Health and beauty,43.15,4.0,8.63,181.21,122.06,27.88,50.52,Cash,6.4
+INV-00955,2026-05-24,A,Bhopal,Member,Female,Fashion accessories,43.37,7.0,15.18,318.78,224.13,24.93,79.47,Cash,7.4
+INV-00956,2026-03-07,B,Indore,Normal,Male,Health and beauty,77.03,6.0,23.11,485.31,347.79,23.57,114.41,Cash,6.2
+INV-00957,2026-01-02,A,Bhopal,Normal,Male,Health and beauty,65.27,6.0,19.58,411.19,257.03,32.73,134.57,Cash,7.1
+INV-00958,2026-01-08,B,Indore,Member,Male,Electronic accessories,47.47,3.0,7.12,149.54,103.48,26.04,38.95,Credit card,8.4
+INV-00959,2026-05-03,C,Jabalpur,Member,Female,Sports and travel,59.08,6.0,17.72,372.21,249.32,28.26,105.17,Cash,6.5
+INV-00960,2026-08-17,B,Indore,Normal,Male,Food and beverages,26.04,4.0,5.21,109.36,57.61,42.56,46.54,Credit card,7.0
+INV-00961,2026-07-10,B,Indore,Normal,Male,Health and beauty,61.63,4.0,12.33,258.83,163.55,32.05,82.96,Cash,7.8
+INV-00962,2026-05-28,A,Bhopal,Normal,Male,Fashion accessories,33.05,4.0,6.61,138.8,85.27,33.8,46.92,Ewallet,7.9
+INV-00963,2026-08-04,A,Bhopal,Normal,Male,Health and beauty,39.6,7.0,13.86,291.09,188.1,30.62,89.14,Cash,4.8
+INV-00964,2026-05-27,C,Jabalpur,Normal,Female,Food and beverages,13.69,4.0,2.74,57.48,29.97,43.1,24.77,Cash,8.5
+INV-00965,2026-07-12,C,Jabalpur,Normal,Female,Home and lifestyle,73.66,6.0,22.1,464.09,297.16,31.21,144.83,Ewallet,8.6
+INV-00966,2026-08-13,A,Bhopal,Normal,Male,Electronic accessories,55.41,3.0,8.31,174.54,105.49,34.8,60.74,Credit card,7.6
+INV-00967,2026-05-15,A,Bhopal,Member,Female,Home and lifestyle,75.6,3.0,11.34,238.14,165.18,25.88,61.62,Ewallet,7.5
+INV-00968,2026-02-21,A,Bhopal,Normal,Female,Health and beauty,30.26,8.0,12.11,254.21,143.55,38.77,98.56,Credit card,7.6
+INV-00969,2026-02-09,C,Jabalpur,Normal,Male,Electronic accessories,42.36,4.0,8.47,177.91,93.31,42.79,76.14,Credit card,8.0
+INV-00970,2026-07-18,B,Indore,Member,Female,Home and lifestyle,39.93,1.0,2.0,41.92,22.08,42.57,17.85,Credit card,8.2
+INV-00971,2026-06-23,C,Jabalpur,Member,Female,Electronic accessories,65.33,5.0,16.33,342.97,203.5,35.9,123.13,Cash,6.3
+INV-00972,2026-05-14,C,Jabalpur,Member,Male,Health and beauty,48.63,4.0,9.73,204.24,120.06,36.45,74.45,Credit card,7.7
+INV-00973,2026-06-02,B,Indore,Normal,Male,Health and beauty,54.88,5.0,13.72,288.12,209.97,22.36,64.43,Credit card,6.8
+INV-00974,2026-07-16,A,Bhopal,Normal,Female,Fashion accessories,44.29,6.0,13.29,279.04,167.25,35.3,98.5,Cash,7.7
+INV-00975,2026-08-17,A,Bhopal,Normal,Female,Electronic accessories,22.43,3.0,3.36,70.66,42.62,34.91,24.67,Ewallet,6.7
+INV-00976,2026-03-23,A,Bhopal,Member,Male,Sports and travel,70.24,6.0,21.07,442.53,299.21,27.63,122.25,Ewallet,6.5
+INV-00977,2026-01-04,A,Bhopal,Member,Female,Food and beverages,28.28,6.0,8.48,178.13,103.0,37.42,66.66,Cash,6.6
+INV-00978,2026-03-11,B,Indore,Normal,Female,Electronic accessories,47.72,5.0,11.93,250.55,135.95,40.98,102.67,Ewallet,5.7
+INV-00979,2026-08-17,A,Bhopal,Normal,Female,Home and lifestyle,67.2,4.0,13.44,282.24,143.87,44.26,124.93,Ewallet,6.9
+INV-00980,2026-06-22,B,Indore,Member,Male,Health and beauty,36.1,3.0,5.42,113.73,72.03,31.9,36.28,Ewallet,6.5
+INV-00981,2026-02-15,B,Indore,Normal,Male,Fashion accessories,53.81,6.0,16.14,339.01,176.09,43.3,146.78,Ewallet,4.4
+INV-00982,2026-07-02,C,Jabalpur,Member,Male,Fashion accessories,48.02,4.0,9.6,201.68,126.11,32.71,65.97,Cash,8.0
+INV-00983,2026-07-25,A,Bhopal,Normal,Female,Fashion accessories,48.81,5.0,12.2,256.24,177.2,26.09,66.84,Cash,5.5
+INV-00984,2026-07-01,B,Indore,Normal,Female,Sports and travel,48.63,3.0,7.3,153.2,91.49,35.52,54.41,Credit card,7.5
+INV-00985,2026-08-18,A,Bhopal,Normal,Male,Food and beverages,56.18,7.0,19.66,412.94,268.18,30.29,125.1,Cash,5.7
+INV-00986,2026-06-20,B,Indore,Normal,Male,Home and lifestyle,72.92,5.0,18.23,382.81,206.97,41.17,157.61,Cash,6.8
+INV-00987,2026-01-29,A,Bhopal,Normal,Male,Home and lifestyle,40.87,4.0,8.17,171.67,87.98,43.99,75.52,Credit card,8.7
+INV-00988,2026-03-31,A,Bhopal,Member,Female,Food and beverages,47.26,5.0,11.82,248.12,143.49,37.41,92.81,Cash,10.0
+INV-00989,2026-01-28,C,Jabalpur,Member,Male,Home and lifestyle,70.54,3.0,10.58,222.19,114.14,43.87,97.47,Cash,5.1
+INV-00990,2026-04-16,B,Indore,Member,Female,Electronic accessories,62.02,3.0,9.3,195.35,134.06,26.61,51.99,Credit card,7.1
+INV-00991,2026-03-29,B,Indore,Normal,Male,Electronic accessories,60.2,2.0,6.02,126.43,88.55,25.2,31.86,Cash,8.3
+INV-00992,2026-06-27,B,Indore,Member,Female,Electronic accessories,45.4,3.0,6.81,143.01,77.95,40.73,58.25,Credit card,8.0
+INV-00993,2026-08-03,C,Jabalpur,Member,Male,Sports and travel,55.77,5.0,13.94,292.78,188.86,30.73,89.97,Ewallet,5.9
+INV-00994,2026-04-24,A,Bhopal,Normal,Male,Electronic accessories,32.89,7.0,11.51,241.73,146.12,34.79,84.09,Ewallet,6.2
+INV-00995,2026-07-28,A,Bhopal,Normal,Male,Food and beverages,37.49,9.0,16.87,354.24,244.3,26.27,93.08,Cash,8.4
+INV-00996,2026-01-24,B,Indore,Member,Female,Electronic accessories,58.06,6.0,17.42,365.76,223.51,34.13,124.83,Credit card,8.6
+INV-00997,2026-04-26,B,Indore,Normal,Male,Food and beverages,53.6,4.0,10.72,225.1,129.16,37.86,85.22,Cash,7.6
+INV-00998,2026-02-22,B,Indore,Normal,Male,Fashion accessories,55.55,2.0,5.56,116.66,81.25,25.59,29.85,Cash,5.0
+INV-00999,2026-03-19,C,Jabalpur,Normal,Female,Sports and travel,57.89,7.0,20.26,425.47,227.18,41.84,178.03,Cash,6.5
+INV-01000,2026-05-11,B,Indore,Member,Male,Sports and travel,34.52,5.0,8.63,181.23,115.58,31.46,57.02,Ewallet,5.7
+INV-01001,2026-01-14,C,Jabalpur,Normal,Female,Health and beauty,55.3,5.0,13.83,290.34,213.92,21.56,62.59,Credit card,4.0
+INV-01002,2026-03-02,C,Jabalpur,Normal,Male,Sports and travel,76.57,3.0,11.48,241.18,176.73,21.96,52.97,Credit card,5.1
+INV-01003,2026-04-22,B,Indore,Member,Female,Food and beverages,51.85,10.0,25.93,544.45,297.85,40.53,220.68,Cash,7.9
+INV-01004,2026-04-09,A,Bhopal,Normal,Female,Home and lifestyle,24.7,5.0,6.18,129.69,65.77,44.53,57.74,Ewallet,7.3
+INV-01005,2026-02-02,C,Jabalpur,Member,Female,Electronic accessories,60.23,4.0,12.05,252.96,139.56,40.07,101.36,Cash,8.8
+INV-01006,2026-08-15,A,Bhopal,Normal,Female,Sports and travel,53.11,4.0,10.62,223.08,142.94,31.16,69.52,Ewallet,6.7
+INV-01007,2026-04-17,B,Indore,Normal,Female,Sports and travel,57.44,4.0,11.49,241.25,158.55,29.52,71.22,Cash,7.1
+INV-01008,2026-07-29,B,Indore,Normal,Male,Sports and travel,45.61,7.0,15.96,335.23,223.7,28.51,95.57,Ewallet,6.7
+INV-01009,2026-01-02,B,Indore,Normal,Female,Food and beverages,48.12,5.0,12.03,252.65,185.32,21.89,55.3,Credit card,7.0
+INV-01010,2026-08-26,A,Bhopal,Normal,Female,Food and beverages,35.12,6.0,10.54,221.25,110.41,45.34,100.31,Credit card,7.7
+INV-01011,2026-06-30,B,Indore,Member,Male,Home and lifestyle,47.92,5.0,11.98,251.58,165.09,29.62,74.51,Credit card,6.0
+INV-01012,2026-07-06,A,Bhopal,Normal,Male,Fashion accessories,57.17,1.0,2.86,60.02,33.41,39.58,23.75,Cash,7.2
+INV-01013,2026-06-06,B,Indore,Member,Male,Health and beauty,61.1,3.0,9.17,192.48,103.96,41.23,79.35,Cash,8.0
+INV-01014,2026-06-21,B,Indore,Normal,Female,Health and beauty,43.59,7.0,15.26,320.36,183.73,37.89,121.37,Credit card,7.4
+INV-01015,2026-01-03,B,Indore,Normal,Male,Sports and travel,38.42,5.0,9.61,201.73,129.68,30.95,62.44,Cash,6.3
+INV-01016,2026-04-01,A,Bhopal,Normal,Female,Home and lifestyle,54.67,6.0,16.4,344.43,252.1,22.04,75.92,Ewallet,7.6
+INV-01017,2026-07-11,C,Jabalpur,Normal,Female,Home and lifestyle,56.87,5.0,14.22,298.57,187.6,32.41,96.76,Cash,8.0
+INV-01018,2026-05-27,B,Indore,Normal,Female,Health and beauty,47.36,5.0,11.84,248.61,157.42,31.92,79.36,Ewallet,6.6
+INV-01019,2026-05-10,A,Bhopal,Normal,Male,Health and beauty,50.94,5.0,12.73,267.43,171.24,31.21,83.46,Ewallet,8.8
+INV-01020,2026-08-08,A,Bhopal,Member,Female,Home and lifestyle,72.48,6.0,21.74,456.61,236.95,43.34,197.92,Cash,7.8
+INV-01021,2026-07-09,C,Jabalpur,Normal,Male,Electronic accessories,40.37,4.0,8.07,169.56,116.39,26.6,45.1,Credit card,9.2
+INV-01022,2026-06-29,A,Bhopal,Normal,Female,Electronic accessories,49.66,9.0,22.35,469.29,278.1,35.98,168.84,Credit card,7.5
+INV-01023,2026-03-29,C,Jabalpur,Member,Female,Health and beauty,26.83,3.0,4.02,84.51,56.03,28.94,24.45,Credit card,6.2
+INV-01024,2026-04-16,C,Jabalpur,Member,Male,Sports and travel,56.18,2.0,5.62,117.97,80.87,26.69,31.48,Credit card,5.9
+INV-01025,2026-05-28,A,Bhopal,Normal,Female,Fashion accessories,48.3,8.0,19.32,405.69,241.39,35.74,144.99,Cash,7.5
+INV-01026,2026-01-30,C,Jabalpur,Member,Male,Health and beauty,51.36,6.0,15.41,323.58,217.47,28.03,90.7,Cash,7.6
+INV-01027,2026-07-11,A,Bhopal,Member,Male,Food and beverages,38.55,6.0,11.57,242.87,145.43,35.36,85.88,Cash,7.1
+INV-01028,2026-03-09,B,Indore,Normal,Female,Electronic accessories,51.5,4.0,10.3,216.32,115.76,41.73,90.26,Ewallet,6.7
+INV-01029,2026-04-08,C,Jabalpur,Normal,Female,Fashion accessories,68.83,2.0,6.88,144.54,81.49,38.85,56.16,Ewallet,7.1
+INV-01030,2026-04-01,B,Indore,Normal,Male,Sports and travel,57.09,4.0,11.42,239.77,143.04,35.58,85.31,Ewallet,7.9
+INV-01031,2026-03-07,C,Jabalpur,Normal,Male,Fashion accessories,64.46,7.0,22.56,473.79,265.73,39.15,185.49,Credit card,6.4
+INV-01032,2026-07-07,C,Jabalpur,Member,Male,Fashion accessories,19.09,4.0,3.82,80.19,43.63,40.84,32.75,Cash,9.0
+INV-01033,2026-03-22,C,Jabalpur,Member,Female,Food and beverages,19.06,5.0,4.77,100.08,53.42,41.86,41.89,Credit card,6.6
+INV-01034,2026-01-26,A,Bhopal,Member,Male,Food and beverages,36.56,2.0,3.66,76.77,47.49,33.38,25.63,Ewallet,8.3
+INV-01035,2026-03-06,C,Jabalpur,Member,Female,Electronic accessories,82.89,6.0,24.87,522.2,322.96,33.39,174.37,Cash,9.2
+INV-01036,2026-06-02,A,Bhopal,Member,Female,Fashion accessories,39.91,4.0,7.98,167.6,116.54,25.7,43.08,Credit card,6.6
+INV-01037,2026-08-08,A,Bhopal,Member,Male,Food and beverages,44.4,4.0,8.88,186.5,102.66,40.19,74.96,Cash,5.7
+INV-01038,2026-05-25,C,Jabalpur,Member,Female,Electronic accessories,50.8,3.0,7.62,160.01,99.8,32.86,52.59,Ewallet,5.6
+INV-01039,2026-08-28,B,Indore,Normal,Male,Health and beauty,54.21,7.0,18.97,398.43,223.23,39.21,156.23,Credit card,7.2
+INV-01040,2026-06-20,B,Indore,Normal,Female,Home and lifestyle,81.71,5.0,20.43,428.96,282.98,29.27,125.55,Credit card,7.1
+INV-01041,2026-01-16,A,Bhopal,Normal,Male,Sports and travel,76.29,8.0,30.52,640.82,379.01,36.09,231.29,Credit card,6.9
+INV-01042,2026-07-28,A,Bhopal,Member,Male,Home and lifestyle,63.73,4.0,12.75,267.65,144.22,41.35,110.69,Ewallet,7.9
+INV-01043,2026-02-21,C,Jabalpur,Normal,Female,Food and beverages,26.94,5.0,6.74,141.44,73.19,43.49,61.51,Cash,8.1
+INV-01044,2026-05-19,A,Bhopal,Member,Female,Sports and travel,86.69,3.0,13.0,273.06,170.16,32.92,89.9,Credit card,8.9
+INV-01045,2026-01-27,C,Jabalpur,Member,Female,Health and beauty,31.31,2.0,3.13,65.75,34.21,43.21,28.41,Cash,7.1
+INV-01046,2026-04-25,A,Bhopal,Normal,Female,Health and beauty,30.58,5.0,7.64,160.53,92.52,37.6,60.36,Cash,7.6
+INV-01047,2026-01-10,A,Bhopal,Normal,Male,Fashion accessories,51.42,2.0,5.14,107.99,67.47,32.76,35.38,Ewallet,5.4
+INV-01048,2026-04-11,A,Bhopal,Member,Male,Food and beverages,47.01,3.0,7.05,148.08,82.68,39.41,58.35,Cash,7.8
+INV-01049,2026-07-06,B,Indore,Member,Female,Health and beauty,53.49,5.0,13.37,280.83,192.82,26.58,74.63,Cash,5.2
+INV-01050,2026-07-19,B,Indore,Member,Male,Sports and travel,50.38,7.0,17.63,370.3,191.43,43.54,161.23,Ewallet,6.6
+INV-01051,2026-01-15,A,Bhopal,Member,Male,Fashion accessories,62.0,2.0,6.2,130.21,87.59,27.97,36.42,Cash,7.4
+INV-01052,2026-01-21,C,Jabalpur,Normal,Female,Sports and travel,34.55,3.0,5.18,108.82,66.74,33.91,36.9,Ewallet,5.6
+INV-01053,2026-04-09,A,Bhopal,Member,Male,Fashion accessories,41.05,7.0,14.37,301.7,158.59,42.67,128.74,Credit card,8.1
+INV-01054,2026-06-11,C,Jabalpur,Normal,Male,Fashion accessories,45.99,7.0,16.09,337.99,196.03,37.24,125.86,Ewallet,5.6
+INV-01055,2026-07-08,B,Indore,Member,Female,Electronic accessories,49.85,5.0,12.46,261.72,156.23,35.54,93.03,Ewallet,7.9
+INV-01056,2026-06-01,C,Jabalpur,Normal,Male,Electronic accessories,56.32,4.0,11.26,236.56,171.05,22.93,54.24,Ewallet,9.2
+INV-01057,2026-03-20,B,Indore,Normal,Female,Sports and travel,64.35,4.0,12.87,270.29,182.88,27.58,74.54,Ewallet,6.4
+INV-01058,2026-07-21,A,Bhopal,Member,Male,Fashion accessories,54.73,3.0,8.21,172.4,105.46,34.07,58.74,Ewallet,7.7
+INV-01059,2026-06-20,C,Jabalpur,Normal,Female,Food and beverages,24.08,2.0,2.41,50.56,32.23,31.49,15.92,Credit card,7.0
+INV-01060,2026-01-19,A,Bhopal,Member,Male,Health and beauty,49.56,4.0,9.91,208.16,138.93,28.5,59.32,Cash,9.8
+INV-01061,2026-08-24,B,Indore,Member,Female,Food and beverages,60.84,6.0,18.25,383.31,277.6,22.82,87.47,Credit card,4.9
+INV-01062,2026-02-14,A,Bhopal,Member,Male,Fashion accessories,36.23,4.0,7.25,152.18,87.41,37.8,57.52,Credit card,5.4
+INV-01063,2026-06-06,A,Bhopal,Member,Female,Electronic accessories,63.23,4.0,12.65,265.58,149.44,38.97,103.49,Ewallet,8.2
+INV-01064,2026-06-07,B,Indore,Member,Female,Electronic accessories,51.09,4.0,10.22,214.57,156.39,22.35,47.97,Cash,7.1
+INV-01065,2026-07-08,C,Jabalpur,Normal,Male,Fashion accessories,62.01,10.0,31.0,651.07,335.94,43.64,284.12,Ewallet,6.8
+INV-01066,2026-05-20,B,Indore,Normal,Female,Electronic accessories,86.41,5.0,21.6,453.68,293.79,30.48,138.28,Credit card,4.0
+INV-01067,2026-03-27,B,Indore,Member,Male,Health and beauty,43.35,4.0,8.67,182.07,134.36,21.45,39.05,Ewallet,7.5
+INV-01068,2026-06-28,B,Indore,Member,Male,Home and lifestyle,38.9,5.0,9.73,204.24,146.34,23.59,48.18,Ewallet,6.5
+INV-01069,2026-02-04,B,Indore,Normal,Female,Health and beauty,26.0,9.0,11.7,245.7,156.78,31.43,77.22,Ewallet,6.0
+INV-01070,2026-01-02,B,Indore,Member,Female,Health and beauty,59.17,1.0,2.96,62.13,39.46,31.73,19.71,Credit card,6.5
+INV-01071,2026-03-14,B,Indore,Normal,Female,Sports and travel,45.2,7.0,15.82,332.21,165.48,45.43,150.91,Ewallet,5.8
+INV-01072,2026-05-14,B,Indore,Normal,Female,Sports and travel,90.34,4.0,18.07,379.44,198.86,42.83,162.52,Credit card,7.9
+INV-01073,2026-01-10,B,Indore,Member,Male,Food and beverages,17.25,4.0,3.45,72.47,48.82,27.87,20.2,Cash,7.9
+INV-01074,2026-07-31,A,Bhopal,Normal,Male,Home and lifestyle,38.79,5.0,9.7,203.65,135.98,28.47,57.97,Ewallet,8.5
+INV-01075,2026-01-31,A,Bhopal,Member,Male,Food and beverages,46.82,5.0,11.71,245.82,150.75,33.91,83.37,Credit card,6.9
+INV-01076,2026-05-10,C,Jabalpur,Normal,Female,Electronic accessories,56.93,3.0,8.54,179.34,130.2,22.64,40.6,Ewallet,4.9
+INV-01077,2026-07-23,A,Bhopal,Normal,Male,Electronic accessories,55.74,6.0,16.72,351.18,217.23,33.38,117.22,Ewallet,8.1
+INV-01078,2026-01-12,B,Indore,Normal,Male,Health and beauty,24.73,3.0,3.71,77.9,43.47,39.44,30.72,Ewallet,7.8
+INV-01079,2026-06-07,A,Bhopal,Member,Female,Sports and travel,45.39,6.0,13.62,285.94,149.72,42.88,122.61,Credit card,8.1
+INV-01080,2026-02-15,C,Jabalpur,Member,Male,Electronic accessories,73.4,5.0,18.35,385.33,271.57,24.76,95.42,Cash,6.0
+INV-01081,2026-03-02,A,Bhopal,Normal,Male,Fashion accessories,40.23,4.0,8.05,168.98,102.77,34.42,58.16,Cash,7.9
+INV-01082,2026-08-18,C,Jabalpur,Member,Female,Home and lifestyle,56.83,6.0,17.05,358.0,205.22,37.91,135.73,Ewallet,6.7
+INV-01083,2026-07-08,A,Bhopal,Member,Male,Sports and travel,71.29,4.0,14.26,299.43,216.69,22.87,68.48,Credit card,7.2
+INV-01084,2026-05-30,A,Bhopal,Member,Male,Sports and travel,68.75,5.0,17.19,360.96,181.49,44.96,162.28,Ewallet,7.7
+INV-01085,2026-04-27,C,Jabalpur,Normal,Male,Electronic accessories,48.43,7.0,16.95,355.95,206.07,37.35,132.93,Ewallet,8.9
+INV-01086,2026-06-11,C,Jabalpur,Normal,Female,Home and lifestyle,29.51,4.0,5.9,123.96,91.47,21.45,26.59,Ewallet,6.7
+INV-01087,2026-05-26,A,Bhopal,Normal,Female,Health and beauty,55.67,3.0,8.35,175.37,117.34,28.33,49.68,Ewallet,5.6
+INV-01088,2026-04-18,B,Indore,Normal,Female,Electronic accessories,70.19,4.0,14.04,294.81,188.08,31.44,92.69,Credit card,7.1
+INV-01089,2026-07-22,B,Indore,Member,Female,Fashion accessories,43.06,4.0,8.61,180.86,125.9,25.63,46.35,Ewallet,8.3
+INV-01090,2026-05-06,C,Jabalpur,Normal,Male,Electronic accessories,65.22,7.0,22.83,479.34,354.42,21.3,102.1,Ewallet,6.0
+INV-01091,2026-07-08,C,Jabalpur,Member,Male,Electronic accessories,53.85,9.0,24.23,508.92,346.06,27.24,138.62,Cash,8.2
+INV-01092,2026-08-26,A,Bhopal,Member,Female,Food and beverages,14.59,7.0,5.11,107.23,58.37,40.8,43.75,Cash,7.3
+INV-01093,2026-05-01,A,Bhopal,Member,Male,Fashion accessories,52.2,5.0,13.05,274.03,172.64,32.24,88.35,Cash,7.7
+INV-01094,2026-07-24,B,Indore,Member,Male,Fashion accessories,49.14,3.0,7.37,154.8,81.5,42.59,65.93,Cash,10.0
+INV-01095,2026-07-12,A,Bhopal,Normal,Female,Health and beauty,50.25,10.0,25.12,527.62,296.7,39.0,205.79,Ewallet,7.9
+INV-01096,2026-06-15,A,Bhopal,Member,Male,Health and beauty,34.04,3.0,5.11,107.24,60.38,38.93,41.75,Cash,6.0
+INV-01097,2026-04-28,A,Bhopal,Member,Male,Food and beverages,30.31,3.0,4.55,95.48,57.43,35.08,33.5,Cash,6.3
+INV-01098,2026-06-30,A,Bhopal,Member,Male,Sports and travel,49.91,5.0,12.48,262.04,191.67,22.09,57.89,Cash,6.8
+INV-01099,2026-01-01,C,Jabalpur,Member,Male,Fashion accessories,58.11,7.0,20.34,427.14,274.92,30.87,131.88,Credit card,7.6
+INV-01100,2026-01-09,A,Bhopal,Normal,Male,Home and lifestyle,68.56,5.0,17.14,359.95,259.28,23.21,83.54,Credit card,7.1
+INV-01101,2026-05-28,B,Indore,Member,Male,Electronic accessories,50.45,5.0,12.61,264.87,137.28,43.41,114.98,Credit card,7.0
+INV-01102,2026-08-31,A,Bhopal,Normal,Female,Fashion accessories,64.22,8.0,25.69,539.46,283.53,42.68,230.23,Ewallet,9.9
+INV-01103,2026-06-08,B,Indore,Normal,Male,Health and beauty,46.84,3.0,7.03,147.56,76.75,43.22,63.78,Ewallet,8.0
+INV-01104,2026-01-18,B,Indore,Member,Female,Food and beverages,66.54,8.0,26.61,558.91,304.39,40.78,227.91,Credit card,7.1
+INV-01105,2026-01-30,A,Bhopal,Normal,Female,Fashion accessories,49.82,5.0,12.45,261.55,145.21,39.72,103.88,Credit card,7.0
+INV-01106,2026-03-24,C,Jabalpur,Normal,Male,Home and lifestyle,64.94,5.0,16.23,340.92,237.28,25.64,87.41,Ewallet,6.4
+INV-01107,2026-03-30,A,Bhopal,Normal,Female,Sports and travel,62.41,3.0,9.36,196.6,112.45,38.04,74.8,Cash,7.0
+INV-01108,2026-07-31,B,Indore,Normal,Male,Food and beverages,68.21,5.0,17.05,358.1,179.45,45.13,161.6,Cash,7.4
+INV-01109,2026-08-31,C,Jabalpur,Member,Female,Fashion accessories,49.89,8.0,19.95,419.05,230.51,40.23,168.58,Credit card,6.2
+INV-01110,2026-01-21,B,Indore,Member,Male,Sports and travel,104.2,8.0,41.68,875.3,490.95,39.15,342.68,Credit card,7.9
+INV-01111,2026-02-12,A,Bhopal,Member,Female,Home and lifestyle,74.95,4.0,14.99,314.79,212.94,27.59,86.86,Cash,7.1
+INV-01112,2026-05-14,C,Jabalpur,Member,Male,Fashion accessories,45.68,5.0,11.42,239.83,124.71,43.24,103.7,Cash,5.9
+INV-01113,2026-08-27,B,Indore,Normal,Male,Electronic accessories,47.96,7.0,16.79,352.5,256.82,22.38,78.89,Cash,8.5
+INV-01114,2026-01-06,C,Jabalpur,Member,Female,Home and lifestyle,47.36,7.0,16.58,348.13,190.62,40.48,140.93,Ewallet,7.9
+INV-01115,2026-08-02,C,Jabalpur,Normal,Male,Food and beverages,41.92,7.0,14.67,308.14,228.78,20.99,64.68,Cash,7.2
+INV-01116,2026-07-21,B,Indore,Normal,Male,Home and lifestyle,66.01,6.0,19.8,415.89,214.02,43.78,182.06,Cash,7.6
+INV-01117,2026-08-18,B,Indore,Member,Male,Home and lifestyle,65.44,6.0,19.63,412.29,223.99,40.91,168.67,Ewallet,7.6
+INV-01118,2026-03-15,B,Indore,Member,Male,Health and beauty,48.62,7.0,17.02,357.33,254.27,24.08,86.05,Ewallet,5.0
+INV-01119,2026-06-08,C,Jabalpur,Normal,Female,Electronic accessories,53.46,5.0,13.37,280.67,159.9,38.27,107.41,Credit card,6.9
+INV-01120,2026-06-27,C,Jabalpur,Member,Female,Fashion accessories,25.75,9.0,11.59,243.34,164.31,27.71,67.44,Ewallet,8.5
+INV-01121,2026-03-23,A,Bhopal,Member,Male,Food and beverages,38.72,2.0,3.87,81.31,54.1,28.7,23.34,Ewallet,6.8
+INV-01122,2026-05-24,A,Bhopal,Member,Male,Fashion accessories,59.19,4.0,11.84,248.6,156.04,32.47,80.72,Credit card,5.1
+INV-01123,2026-04-25,A,Bhopal,Member,Male,Food and beverages,39.56,4.0,7.91,166.14,101.52,34.13,56.7,Ewallet,5.5
+INV-01124,2026-08-27,A,Bhopal,Member,Male,Sports and travel,65.23,7.0,22.83,479.43,350.1,22.21,106.5,Credit card,6.3
+INV-01125,2026-07-09,A,Bhopal,Normal,Male,Food and beverages,28.79,7.0,10.07,211.57,120.36,38.35,81.13,Cash,8.2
+INV-01126,2026-08-30,A,Bhopal,Member,Male,Food and beverages,53.66,2.0,5.37,112.7,75.77,28.0,31.56,Ewallet,6.0
+INV-01127,2026-05-03,A,Bhopal,Member,Female,Health and beauty,39.37,4.0,7.87,165.33,95.11,37.71,62.35,Ewallet,5.5
+INV-01128,2026-08-04,B,Indore,Normal,Male,Electronic accessories,47.45,3.0,7.12,149.46,105.83,24.43,36.52,Ewallet,4.9
+INV-01129,2026-06-14,A,Bhopal,Member,Male,Electronic accessories,45.35,5.0,11.34,238.09,161.28,27.5,65.47,Ewallet,5.5
+INV-01130,2026-08-06,A,Bhopal,Member,Male,Sports and travel,82.12,9.0,36.95,776.01,560.74,22.98,178.31,Ewallet,7.0
+INV-01131,2026-06-04,A,Bhopal,Member,Male,Food and beverages,33.96,2.0,3.4,71.31,40.46,38.5,27.46,Cash,7.8
+INV-01132,2026-04-20,C,Jabalpur,Normal,Male,Home and lifestyle,75.2,3.0,11.28,236.89,128.25,41.1,97.36,Ewallet,7.6
+INV-01133,2026-03-20,B,Indore,Member,Female,Sports and travel,59.3,3.0,8.89,186.79,100.79,41.28,77.1,Credit card,6.2
+INV-01134,2026-04-17,B,Indore,Normal,Female,Sports and travel,55.77,6.0,16.73,351.38,222.47,31.93,112.18,Credit card,9.5
+INV-01135,2026-04-19,C,Jabalpur,Normal,Female,Fashion accessories,49.41,4.0,9.88,207.53,111.01,41.74,86.63,Credit card,7.8
+INV-01136,2026-02-06,B,Indore,Normal,Male,Electronic accessories,79.43,4.0,15.89,333.6,203.99,34.09,113.72,Credit card,9.9
+INV-01137,2026-03-27,B,Indore,Normal,Female,Health and beauty,51.34,6.0,15.4,323.43,197.07,34.31,110.96,Ewallet,9.2
+INV-01138,2026-03-11,B,Indore,Member,Male,Sports and travel,77.22,5.0,19.31,405.42,260.33,31.03,125.79,Credit card,6.6
+INV-01139,2026-02-05,C,Jabalpur,Member,Male,Electronic accessories,47.59,4.0,9.52,199.89,106.2,42.11,84.17,Ewallet,5.9
+INV-01140,2026-07-30,B,Indore,Normal,Male,Home and lifestyle,57.54,8.0,23.02,483.32,299.77,33.22,160.54,Cash,6.5
+INV-01141,2026-01-07,B,Indore,Member,Male,Health and beauty,58.36,5.0,14.59,306.39,177.55,37.29,114.25,Ewallet,9.0
+INV-01142,2026-06-12,B,Indore,Member,Male,Sports and travel,74.97,4.0,14.99,314.89,160.74,44.19,139.15,Cash,7.4
+INV-01143,2026-06-26,B,Indore,Member,Female,Fashion accessories,50.04,4.0,10.01,210.15,115.58,40.24,84.56,Ewallet,6.5
+INV-01144,2026-01-18,A,Bhopal,Normal,Male,Food and beverages,44.08,3.0,6.61,138.86,96.42,25.8,35.83,Cash,5.1
+INV-01145,2026-06-10,C,Jabalpur,Normal,Female,Fashion accessories,46.98,5.0,11.75,246.66,146.39,35.89,88.52,Ewallet,5.7
+INV-01146,2026-01-05,C,Jabalpur,Member,Female,Home and lifestyle,47.71,4.0,9.54,200.39,100.19,45.24,90.66,Ewallet,5.5
+INV-01147,2026-06-27,B,Indore,Normal,Female,Electronic accessories,46.45,4.0,9.29,195.08,120.45,33.49,65.34,Ewallet,7.7
+INV-01148,2026-06-12,B,Indore,Member,Male,Home and lifestyle,67.28,4.0,13.46,282.56,208.69,21.38,60.41,Ewallet,6.2
+INV-01149,2026-01-20,B,Indore,Member,Female,Food and beverages,44.9,5.0,11.22,235.72,139.48,36.07,85.01,Credit card,8.0
+INV-01150,2026-02-12,B,Indore,Normal,Male,Food and beverages,29.57,4.0,5.91,124.17,73.35,36.17,44.91,Credit card,8.7
+INV-01151,2026-03-19,B,Indore,Normal,Female,Home and lifestyle,64.8,4.0,12.96,272.14,197.87,22.53,61.31,Cash,6.1
+INV-01152,2026-02-06,B,Indore,Member,Male,Health and beauty,47.38,2.0,4.74,99.51,61.62,33.31,33.14,Ewallet,6.7
+INV-01153,2026-03-29,B,Indore,Member,Female,Electronic accessories,43.69,6.0,13.11,275.27,155.91,38.6,106.25,Ewallet,6.6
+INV-01154,2026-02-18,A,Bhopal,Member,Male,Food and beverages,32.08,5.0,8.02,168.42,110.17,29.83,50.23,Cash,6.3
+INV-01155,2026-07-29,A,Bhopal,Member,Male,Electronic accessories,58.45,3.0,8.77,184.13,105.11,38.15,70.25,Ewallet,8.6
+INV-01156,2026-02-05,B,Indore,Normal,Female,Sports and travel,72.97,5.0,18.24,383.08,227.48,35.86,137.35,Credit card,6.0
+INV-01157,2026-07-28,A,Bhopal,Member,Female,Health and beauty,56.45,3.0,8.47,177.82,110.45,33.13,58.91,Credit card,7.2
+INV-01158,2026-02-28,A,Bhopal,Member,Female,Home and lifestyle,61.06,4.0,12.21,256.46,180.07,25.02,64.18,Ewallet,8.6
+INV-01159,2026-06-26,A,Bhopal,Member,Female,Health and beauty,47.11,5.0,11.78,247.34,168.03,27.3,67.53,Credit card,7.7
+INV-01160,2026-01-11,C,Jabalpur,Member,Female,Electronic accessories,74.21,6.0,22.26,467.53,231.85,45.65,213.43,Credit card,7.3
+INV-01161,2026-01-16,B,Indore,Member,Male,Sports and travel,34.29,5.0,8.57,180.02,110.58,33.81,60.87,Ewallet,6.3
+INV-01162,2026-01-03,A,Bhopal,Member,Female,Health and beauty,27.0,5.0,6.75,141.76,95.27,28.03,39.74,Cash,7.1
+INV-01163,2026-06-21,A,Bhopal,Member,Female,Home and lifestyle,49.02,5.0,12.26,257.38,136.28,42.29,108.84,Ewallet,7.6
+INV-01164,2026-03-13,C,Jabalpur,Normal,Male,Food and beverages,36.17,5.0,9.04,189.9,108.7,37.99,72.15,Ewallet,9.0
+INV-01165,2026-07-06,B,Indore,Member,Female,Food and beverages,23.16,4.0,4.63,97.27,70.64,22.62,22.0,Ewallet,8.1
+INV-01166,2026-01-04,B,Indore,Member,Female,Food and beverages,28.34,5.0,7.08,148.76,110.2,21.16,31.48,Credit card,6.8
+INV-01167,2026-07-13,A,Bhopal,Member,Female,Food and beverages,43.66,7.0,15.28,320.89,219.37,26.87,86.23,Credit card,5.6
+INV-01168,2026-08-06,C,Jabalpur,Normal,Male,Fashion accessories,42.0,5.0,10.5,220.52,163.55,21.07,46.47,Credit card,8.5
+INV-01169,2026-06-22,A,Bhopal,Member,Male,Health and beauty,70.92,7.0,24.82,521.27,285.41,40.49,211.04,Credit card,5.5
+INV-01170,2026-05-12,B,Indore,Normal,Female,Electronic accessories,49.34,3.0,7.4,155.43,87.15,39.16,60.87,Credit card,7.1
+INV-01171,2026-04-30,A,Bhopal,Member,Male,Health and beauty,85.94,7.0,30.08,631.69,418.55,28.98,183.06,Credit card,7.7
+INV-01172,2026-05-23,C,Jabalpur,Member,Female,Fashion accessories,71.87,7.0,25.15,528.22,363.26,26.47,139.8,Ewallet,7.4
+INV-01173,2026-03-14,A,Bhopal,Normal,Male,Sports and travel,63.76,6.0,19.13,401.67,266.41,28.91,116.13,Ewallet,7.2
+INV-01174,2026-08-07,B,Indore,Member,Female,Sports and travel,62.6,8.0,25.04,525.87,390.06,21.06,110.77,Credit card,5.5
+INV-01175,2026-08-29,C,Jabalpur,Normal,Female,Fashion accessories,47.93,7.0,16.78,352.31,209.97,35.64,125.57,Ewallet,7.6
+INV-01176,2026-06-22,B,Indore,Normal,Male,Health and beauty,42.59,5.0,10.65,223.62,142.53,31.5,70.44,Cash,8.3
+INV-01177,2026-01-31,B,Indore,Normal,Male,Electronic accessories,54.19,3.0,8.13,170.7,91.09,41.88,71.48,Credit card,8.4
+INV-01178,2026-07-09,C,Jabalpur,Member,Male,Electronic accessories,56.03,4.0,11.21,235.34,141.48,35.12,82.65,Credit card,8.5
+INV-01179,2026-06-02,A,Bhopal,Member,Female,Sports and travel,55.31,4.0,11.06,232.31,120.16,43.51,101.08,Credit card,6.1
+INV-01180,2026-03-13,C,Jabalpur,Normal,Male,Fashion accessories,49.75,7.0,17.41,365.68,242.07,29.04,106.19,Ewallet,6.5
+INV-01181,2026-04-14,B,Indore,Normal,Female,Sports and travel,64.65,4.0,12.93,271.51,189.05,25.61,69.54,Credit card,7.3
+INV-01182,2026-03-06,A,Bhopal,Normal,Female,Sports and travel,76.67,5.0,19.17,402.51,201.64,45.14,181.7,Cash,8.2
+INV-01183,2026-01-26,A,Bhopal,Member,Female,Fashion accessories,37.78,5.0,9.44,198.33,106.49,41.54,82.39,Cash,6.7
+INV-01184,2026-02-15,A,Bhopal,Normal,Female,Sports and travel,49.0,4.0,9.8,205.81,124.04,34.97,71.97,Ewallet,9.6
+INV-01185,2026-07-14,B,Indore,Normal,Male,Health and beauty,57.21,4.0,11.44,240.3,145.48,34.69,83.37,Ewallet,6.6
+INV-01186,2026-05-06,B,Indore,Normal,Male,Food and beverages,35.92,1.0,1.8,37.72,21.52,38.2,14.41,Credit card,6.7
+INV-01187,2026-01-05,B,Indore,Normal,Female,Health and beauty,47.04,6.0,14.11,296.38,195.31,29.34,86.95,Cash,6.0
+INV-01188,2026-04-07,A,Bhopal,Normal,Female,Sports and travel,48.99,5.0,12.25,257.2,170.22,29.06,74.73,Ewallet,6.1
+INV-01189,2026-08-09,B,Indore,Member,Male,Home and lifestyle,38.17,6.0,11.45,240.49,154.12,31.15,74.92,Cash,6.4
+INV-01190,2026-04-10,A,Bhopal,Member,Male,Sports and travel,54.54,5.0,13.64,286.36,194.97,27.15,77.75,Cash,10.0
+INV-01191,2026-05-27,B,Indore,Normal,Female,Sports and travel,61.76,6.0,18.53,389.06,250.8,30.77,119.73,Cash,6.3
+INV-01192,2026-05-07,B,Indore,Normal,Male,Food and beverages,47.18,5.0,11.8,247.71,172.72,25.51,63.2,Credit card,6.8
+INV-01193,2026-01-16,A,Bhopal,Member,Female,Health and beauty,20.9,7.0,7.32,153.64,84.35,40.34,61.98,Credit card,6.5
+INV-01194,2026-07-09,B,Indore,Member,Male,Food and beverages,18.17,5.0,4.54,95.39,62.45,29.77,28.4,Cash,5.8
+INV-01195,2026-04-02,B,Indore,Normal,Female,Sports and travel,73.82,6.0,22.15,465.07,231.12,45.54,211.8,Cash,8.0
+INV-01196,2026-06-15,A,Bhopal,Member,Female,Home and lifestyle,52.83,3.0,7.92,166.42,119.89,23.2,38.61,Credit card,6.8
+INV-01197,2026-02-13,A,Bhopal,Normal,Female,Health and beauty,52.21,2.0,5.22,109.64,81.04,21.33,23.38,Cash,8.0
+INV-01198,2026-05-26,C,Jabalpur,Normal,Male,Food and beverages,21.41,4.0,4.28,89.91,65.06,22.88,20.58,Ewallet,8.6
+INV-01199,2026-01-06,B,Indore,Normal,Male,Home and lifestyle,52.62,5.0,13.15,276.25,188.6,26.97,74.49,Ewallet,6.5
+INV-01200,2026-05-06,A,Bhopal,Member,Male,Health and beauty,60.74,7.0,21.26,446.42,249.62,39.32,175.54,Cash,7.0
+INV-DUP-001,2026-08-02,B,Indore,Member,Male,Home and lifestyle,62.64,3.0,9.4,197.31,113.6,37.66,74.31,Ewallet,8.2
